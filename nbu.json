@@ -1,0 +1,7157 @@
+[
+  {
+    "codigo": "660001",
+    "determinacion": "ACTO BIOQUÍMICO N",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660002",
+    "determinacion": "ACETONURIA.",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660004",
+    "determinacion": "ACIDIMETRIA GASTRICA , CURVA DE",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660005",
+    "determinacion": "ÁCIDO BASE, Estado Ácido Base (EAB). U N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660006",
+    "determinacion": "ACTH - HORMONA ADRENOCORTICOTROFINA.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660007",
+    "determinacion": "ADDIS, RECUENTO DE",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660009",
+    "determinacion": "ADRENALINA, plasmática (CATECOLAMINA plasmática)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "660010",
+    "determinacion": "ADRENALINA, urinaria (CATECOLAMINA urinaria)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "660014",
+    "determinacion": "AGLUTININAS del SISTEMAS ABO.",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660015",
+    "determinacion": "ALBUMINA - sérica U",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660016",
+    "determinacion": "ALCOHOL DEHIDROGENASA, ADH.",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660017",
+    "determinacion": "ALCOHOL ETÍLICO - sangre (ALCOHOLEMIA)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660018",
+    "determinacion": "ALDOLASA (Ald)",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660019",
+    "determinacion": "ALDOSTERONA.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660020",
+    "determinacion": "ALFA FETO PROTEINA (AFP)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660022",
+    "determinacion": "AMILASA - sérica. U",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660023",
+    "determinacion": "AMILASA - urinaria. U",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660028",
+    "determinacion": "AMNIOTICO, LÍQUIDO CELULAS NARANJAS.",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660030",
+    "determinacion": "AMNIOTICO, LÍQUIDO LECITINA - ESFINGOMIELINA.",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660031",
+    "determinacion": "AMONEMIA.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660033",
+    "determinacion": "ANGIOTENSINA I",
+    "ub": 30.0
+  },
+  {
+    "codigo": "660035",
+    "determinacion": "ANTIBIOGRAMA (ATBG)",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660036",
+    "determinacion": "ANTIBIOGRAMA BACILO DE KOCH (7) siete antibióticos. N",
+    "ub": 60.0
+  },
+  {
+    "codigo": "660040",
+    "determinacion": "ANTICUERPOS ANTIGLOMERULAR , (IFI)",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660041",
+    "determinacion": "ANTICUERPOS ANTIMEMBRANA BASAL, (IFI)",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660042",
+    "determinacion": "ANTICUERPO ANTIMUSCULO LISO (ASMA), (IFI)",
+    "ub": 7.0
+  },
+  {
+    "codigo": "660046",
+    "determinacion": "ANTICUERPOS ANTITIROGLOBULINA (ATG)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660049",
+    "determinacion": "ANTIDESIXIRRIBONUCLEASA - ADNEASA – Anti-DNA.",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660053",
+    "determinacion": "ANTIFÚNGICOS - PRUEBA DE SENSIBILIDAD",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660055",
+    "determinacion": "ANTIMITOCONDRIALES , ANTICUERPOS (AMA)",
+    "ub": 7.0
+  },
+  {
+    "codigo": "660056",
+    "determinacion": "ANTINUCLEARES ANTICUERPOS (FAN / ANA / AAN)",
+    "ub": 7.0
+  },
+  {
+    "codigo": "660058",
+    "determinacion": "ANTITROMBINA III - con calibración de tres (3) puntos.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660059",
+    "determinacion": "ARSENICO (As) - sérico o urinario.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660060",
+    "determinacion": "ASCORBICO, ÁCIDO - sérico",
+    "ub": 30.0
+  },
+  {
+    "codigo": "660063",
+    "determinacion": "ANTICUERPOS Anti- HIV (ELISA)",
+    "ub": 11.0
+  },
+  {
+    "codigo": "660101",
+    "determinacion": "BACILOSCOPIA DIRECTA - ZIEHL NEELSEN (por muestra) U",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660102",
+    "determinacion": "BACILOSCOPIA, DIRECTA y CULTIVO (por muestra) N",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660103",
+    "determinacion": "BACILOSCOPIA, (IFI - por muestra)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660104",
+    "determinacion": "BACTERIOLOGIA, DIRECTA (Coloración de Gram) U",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660105",
+    "determinacion": "N",
+    "ub": 7.0
+  },
+  {
+    "codigo": "660107",
+    "determinacion": "BARBITÚRICOS - urinarios.",
+    "ub": 17.5
+  },
+  {
+    "codigo": "660108",
+    "determinacion": "BENCE- JONES, PROTEINAS de (HPLC / IMF) N",
+    "ub": 30.0
+  },
+  {
+    "codigo": "660109",
+    "determinacion": "BICARBONATO. U N",
+    "ub": null
+  },
+  {
+    "codigo": "660110",
+    "determinacion": "BILIRRUBINEMIA TOTAL, DIRECTA E INDIRECTA. U",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660111",
+    "determinacion": "BILIRRUBINURIA.",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660120",
+    "determinacion": "C3 - COMPLEMENTO",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660121",
+    "determinacion": "C4 - COMPLEMENTO",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660130",
+    "determinacion": "CADENA LIVIANA KAPPA Y LAMBDA - sérico (IMF)",
+    "ub": 40.0
+  },
+  {
+    "codigo": "660131",
+    "determinacion": "CADENA LIVIANA KAPPA Y LAMBDA - urinario (IMF)",
+    "ub": 40.0
+  },
+  {
+    "codigo": "660132",
+    "determinacion": "CADMIO (Cd) - urinario.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660133",
+    "determinacion": "CALCEMIA TOTAL (Ca) U",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660134",
+    "determinacion": "CALCIO IONICO.",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660136",
+    "determinacion": "CALCIO - urinario.",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660137",
+    "determinacion": "CALCITONINA - sérica.",
+    "ub": 16.0
+  },
+  {
+    "codigo": "660138",
+    "determinacion": "CALCULO - urinario. N",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660139",
+    "determinacion": "CARBONICO, ANDHIDRICO - (PCO2) N",
+    "ub": null
+  },
+  {
+    "codigo": "660140",
+    "determinacion": "CARIOTIPO, MAPA CROMOSOMICO.",
+    "ub": 107.0
+  },
+  {
+    "codigo": "660141",
+    "determinacion": "CAROTENO BETA - sérico.",
+    "ub": 22.0
+  },
+  {
+    "codigo": "660144",
+    "determinacion": "CEA - ANTÍGENO CARCINOEMBRIOGENICO.",
+    "ub": 12.5
+  },
+  {
+    "codigo": "660150",
+    "determinacion": "CEREBROSIDOS (Cromatográfico). (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660151",
+    "determinacion": "CERULOPLASMINA.",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660152",
+    "determinacion": "CETOGENOESTEROIDES - urinarios.",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660154",
+    "determinacion": "CETONEMIA.",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660164",
+    "determinacion": "N",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660168",
+    "determinacion": "CLORO (Cl) - sérico. U",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660169",
+    "determinacion": "COAGULACION, TIEMPO DE U N",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660170",
+    "determinacion": "COAGULO, RETRACCION DEL",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660171",
+    "determinacion": "COAGULOGRAMA U N",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660172",
+    "determinacion": "COBRE (Cu) - sérico.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660173",
+    "determinacion": "COCAINA (Inmunocromatografía/Cromatográfico)",
+    "ub": 17.5
+  },
+  {
+    "codigo": "660174",
+    "determinacion": "COLESTEROL TOTAL",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660176",
+    "determinacion": "COLONIAS, RECUENTO DE. N",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660177",
+    "determinacion": "COMPATIBILIDAD - sangre materna.",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660181",
+    "determinacion": "CONCENTRACIÓN DE LIQUIDOS BIOLÓGICOS.",
+    "ub": 28.0
+  },
+  {
+    "codigo": "660183",
+    "determinacion": "COOMBS DIRECTA MONOESPECÍFICA, PRUEBA DE (c/u) N",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660184",
+    "determinacion": "COOMBS DIRECTA POLIESPECÍFICA, PRUEBA DE U N",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660186",
+    "determinacion": "COOMBS INDIRECTA U N",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660187",
+    "determinacion": "COPROCULTIVO. N",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660188",
+    "determinacion": "COPROPORFIRINAS o PORFIRINAS - materia fecal",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660189",
+    "determinacion": "CORTISOL.",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660190",
+    "determinacion": "CREATINQUINASA - CPK. U",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660191",
+    "determinacion": "CREATININA - en orina",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660192",
+    "determinacion": "CREATININA - en sangre U",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660193",
+    "determinacion": "CREATININA, CLEARENCE DE DEPURACION. N",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660194",
+    "determinacion": "CRIOAGLUTININA.",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660195",
+    "determinacion": "CRIOGLOBULINAS.",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660241",
+    "determinacion": "CHAGAS (AD)",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660242",
+    "determinacion": "CHAGAS (HAI)",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660243",
+    "determinacion": "CHAGAS, Ac. Totales / IgG (IFI / ELISA / QL)",
+    "ub": 8.0
+  },
+  {
+    "codigo": "660244",
+    "determinacion": "CHAGAS, PARASITEMIA. N",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660245",
+    "determinacion": "CHAGAS, SEROLOGÍA - CONFIRMATORIO N",
+    "ub": 11.0
+  },
+  {
+    "codigo": "660262",
+    "determinacion": "DEHIDROEPIANDROSTERONA, SULFATO - DHEA-S.",
+    "ub": 11.0
+  },
+  {
+    "codigo": "660264",
+    "determinacion": "DESCARTABLE, MATERIAL COMPLEMENTARIO (DMC). N",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660268",
+    "determinacion": "DIGOXIN (DIGOXINA)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660269",
+    "determinacion": "DISACARIDASAS. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660272",
+    "determinacion": "DOMICILIO EN RADIO URBANO - HASTA DOS (2) Kms.",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660273",
+    "determinacion": "N",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660293",
+    "determinacion": "EMBARAZO, REACCIÓN INMUNOLÓGICA PARA U",
+    "ub": 3.5
+  },
+  {
+    "codigo": "660295",
+    "determinacion": "EOSINÓFILOS, RECUENTO de (en moco nasal)",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660297",
+    "determinacion": "ERITROSEDIMENTACION U",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660298",
+    "determinacion": "ESPERMOGRAMA BASICO (EIVE) N",
+    "ub": 28.0
+  },
+  {
+    "codigo": "660299",
+    "determinacion": "ESTRICNINA - líquidos biológicos. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660300",
+    "determinacion": "ESTRADIOL (E2) - sérico",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660301",
+    "determinacion": "ESTRIOL - urinario. U",
+    "ub": 13.0
+  },
+  {
+    "codigo": "660302",
+    "determinacion": "ESTRIOL - sérico.",
+    "ub": 13.0
+  },
+  {
+    "codigo": "660305",
+    "determinacion": "ESTRONA - sérica.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660307",
+    "determinacion": "ETANOL, ALCOHOL ETÍLICO - urinario. (ALCOLURIA)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660308",
+    "determinacion": "EUGLOBULINAS, TEST DE U",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660309",
+    "determinacion": "EXUDADO NASOFARINGEO, CULTIVO. N",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660331",
+    "determinacion": "FACTOR DE COAGULACION V.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660332",
+    "determinacion": "FACTOR DE COAGULACION VII.",
+    "ub": 24.0
+  },
+  {
+    "codigo": "660333",
+    "determinacion": "FACTOR DE COAGULACION VIII.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660334",
+    "determinacion": "FACTOR DE COAGULACION IX.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660335",
+    "determinacion": "FACTOR DE COAGULACION X.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660336",
+    "determinacion": "FACTOR DE MIGRACION LINFOCITARIA - MIF. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660337",
+    "determinacion": "FENILALANINA CONFIRMATORIO (HPLC) N",
+    "ub": 30.0
+  },
+  {
+    "codigo": "660338",
+    "determinacion": "FENILALANINA, NEONATAL (PKU) N",
+    "ub": 7.0
+  },
+  {
+    "codigo": "660340",
+    "determinacion": "FENILPIRUVICO, ÁCIDO - urinario (cualitativo)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660342",
+    "determinacion": "FENOTIAZINAS.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660343",
+    "determinacion": "FERREMIA (Fe)",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660345",
+    "determinacion": "FIBRINOGENO - sangre. U",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660349",
+    "determinacion": "FISICO QUIMICO - Examen de Exudados, Trasudados. N",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660350",
+    "determinacion": "FLUOREMIA (F)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660351",
+    "determinacion": "FLUORURIA.",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660352",
+    "determinacion": "FOLICO, ÁCIDO.",
+    "ub": 11.0
+  },
+  {
+    "codigo": "660353",
+    "determinacion": "FONDO OSCURO.",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660354",
+    "determinacion": "FORMULA LEUCOCITARIA. U",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660355",
+    "determinacion": "FOSFATASA ACIDA PROSTATICA (EFM).",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660356",
+    "determinacion": "FOSFATASA ACIDA TOTAL (EFM).",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660357",
+    "determinacion": "FOSFATASA ALCALINA (FAL) U",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660360",
+    "determinacion": "FOSFATASA ALCALINA TERMOESTABLE.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660361",
+    "determinacion": "FOSFATASA ALCALINA - ISOENZIMAS.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660362",
+    "determinacion": "FOSFATEMIA (P)",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660363",
+    "determinacion": "FOSFATURIA (P)",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660366",
+    "determinacion": "FOSFORO CLEARENCE DEPURACION.",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660370",
+    "determinacion": "FSH - HORMONA FOLÍCULO ESTIMULANTE.",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660371",
+    "determinacion": "FTA/ ABS (IFI - ELISA) SIFILIS y TPHA.",
+    "ub": 8.0
+  },
+  {
+    "codigo": "660373",
+    "determinacion": "FUNCIONAL, EXAMEN DE MATERIA FECAL - básico N",
+    "ub": 30.0
+  },
+  {
+    "codigo": "660402",
+    "determinacion": "GALACTOSEMIA. N",
+    "ub": 8.0
+  },
+  {
+    "codigo": "660404",
+    "determinacion": "GASES EN SANGRE, PCO2 y PO2. N",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660405",
+    "determinacion": "GASTRINA, sérica.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660408",
+    "determinacion": "U",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660409",
+    "determinacion": "GLOBULOS BLANCOS, RECUENTO DE U",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660410",
+    "determinacion": "GLOBULOS ROJOS, RECUENTO DE",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660411",
+    "determinacion": "GLUCAGON. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660412",
+    "determinacion": "GLUCEMIA (C/U) U",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660413",
+    "determinacion": "N",
+    "ub": 4.5
+  },
+  {
+    "codigo": "660416",
+    "determinacion": "GLUCOPROTEINOGRAMA. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660417",
+    "determinacion": "GLUCOSA en orina (C/U)",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660418",
+    "determinacion": "GLUCOSA 6-FOSFATO ISOMERASA",
+    "ub": 13.0
+  },
+  {
+    "codigo": "660420",
+    "determinacion": "GLUTAMIL TRANSPEPTIDASA. Gamma- U",
+    "ub": 2.5
+  },
+  {
+    "codigo": "660430",
+    "determinacion": "GRAHAM, TEST DE N",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660432",
+    "determinacion": "GRASAS, CUANTITATIVO (Van de Kamer) - materia fecal",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660433",
+    "determinacion": "GRUPO SANGUÍNEO y FACTOR Rho - Du / Dµ U N",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660463",
+    "determinacion": "HAPTOGLOBINA.",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660464",
+    "determinacion": "HEINZ, CUERPOS DE (tinción)",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660466",
+    "determinacion": "HEMATOCRITO. U",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660468",
+    "determinacion": "HEMOCULTIVO AEROBIOS (c/u) U N",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660470",
+    "determinacion": "HEMOGLOBINA, DOSAJE DE (Hb) U",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660471",
+    "determinacion": "HEMOGLOBINA, ELECTROFORESIS.",
+    "ub": 11.0
+  },
+  {
+    "codigo": "660472",
+    "determinacion": "HEMOGLOBINA - plasmática",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660475",
+    "determinacion": "HEMOGRAMA. U N",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660479",
+    "determinacion": "HEMOSIDERINA - urinaria",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660480",
+    "determinacion": "HEPARINA, RESISTENCIA A LA (In Vitro)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660481",
+    "determinacion": "HEPATOGRAMA. U N",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660483",
+    "determinacion": "HIDATIDOSIS (HAI)",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660484",
+    "determinacion": "HIDATIDOSIS, Ac. IgG ó Totales Anti- (IFI)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660487",
+    "determinacion": "HIDROXINDOLACETICO, ÁCIDO.",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660488",
+    "determinacion": "HIDROXIPROLINA - urinaria.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660489",
+    "determinacion": "HIPERHEPARINEMIA. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660531",
+    "determinacion": "MYCOBACTERIUM, IDENTIFICACION.",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660532",
+    "determinacion": "IDENTIFICACION SEROLÓGICA DE GERMENES. N",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660535",
+    "determinacion": "INMUNOELECTROFORESIS.",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660536",
+    "determinacion": "INMUNOELECTROFORESIS LIQUIDOS BIOLOGICOS. N",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660537",
+    "determinacion": "INMUNOGLOBULINA A (IgA)",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660538",
+    "determinacion": "INMUNOGLOBULINA D (IgD)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660539",
+    "determinacion": "INMUNOGLOBULINA E (IgE)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660540",
+    "determinacion": "INMUNOGLOBULINA G (IgG)",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660541",
+    "determinacion": "INMUNOGLOBULINA M (IgM)",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660543",
+    "determinacion": "INSULINA.",
+    "ub": 11.0
+  },
+  {
+    "codigo": "660546",
+    "determinacion": "IONOGRAMA - sérico. U N",
+    "ub": 3.5
+  },
+  {
+    "codigo": "660547",
+    "determinacion": "IONOGRAMA - urinario. U N",
+    "ub": 3.5
+  },
+  {
+    "codigo": "660548",
+    "determinacion": "ISOCITRICO DEHIDROGENASA. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660591",
+    "determinacion": "LACTAMINICO, ÁCIDO. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660592",
+    "determinacion": "LÁCTICO, ÁCIDO ENZIMATICO.",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660593",
+    "determinacion": "LÁCTICO, ÁCIDO - materia fecal.",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660594",
+    "determinacion": "LÁCTICO DEHIDROGENASA - LDH U",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660597",
+    "determinacion": "LACTOGENO PLACENTARIO / SOMATOMAMOTROFINA",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660598",
+    "determinacion": "FACTOR REUMATOIDEO - ARTRITIS REUMATOIDE",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660602",
+    "determinacion": "TRICHINOSIS, INVESTIGACIÓN DE",
+    "ub": 30.0
+  },
+  {
+    "codigo": "660603",
+    "determinacion": "LAZO, PRUEBA DEL",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660606",
+    "determinacion": "LEUCINAMINOPEPTIDASA (LAP)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660610",
+    "determinacion": "LEVULINICO, ÁCIDO DELTA-AMINO",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660611",
+    "determinacion": "LEVULINICO, DELTA DEHIDRATASA",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660612",
+    "determinacion": "LH - HORMONA LUTEINIZANTE",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660613",
+    "determinacion": "LIPASA, sérica.",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660615",
+    "determinacion": "LIPIDOGRAMA (Electroforético).",
+    "ub": 7.0
+  },
+  {
+    "codigo": "660619",
+    "determinacion": "LIQUIDO CEFALORRAQUIDEO, Fco-Qco - Citológico. U N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660620",
+    "determinacion": "LIQUIDO DE PUNCION, Examen Fco-Qco - Citológico. U N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660622",
+    "determinacion": "LISTERIAS, Ac. Anti - (IFI - ELISA)",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660623",
+    "determinacion": "N",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660624",
+    "determinacion": "LITIO (Li) (por Absorción Atómica - A.A.)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660653",
+    "determinacion": "MAGNESIO (Mg) - sérico.",
+    "ub": 2.5
+  },
+  {
+    "codigo": "660654",
+    "determinacion": "MAGNESIO (Mg) - urinario.",
+    "ub": 2.5
+  },
+  {
+    "codigo": "660656",
+    "determinacion": "MANTOUX, INTRADERMO-REACCION DE (PPD) N",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660657",
+    "determinacion": "MEDULOGRAMA.",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660660",
+    "determinacion": "MERCURIO (Hg) - sérico o urinario.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660662",
+    "determinacion": "METANEFRINAS FRACCIONADAS URINARIAS",
+    "ub": 25.0
+  },
+  {
+    "codigo": "660663",
+    "determinacion": "METANOL - urinario.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660664",
+    "determinacion": "MICOLOGIA (Directo - Coloración). N",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660665",
+    "determinacion": "MICOLOGIA (Cultivo e Identificación). N",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660667",
+    "determinacion": "MOCO CERVICAL, CRISTALIZACION",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660668",
+    "determinacion": "MOCO NASAL, PH - CITOLOGICO.",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660671",
+    "determinacion": "MONONUCLEOSIS.",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660672",
+    "determinacion": "MONÓXIDO de CARBONO.",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660673",
+    "determinacion": "MORFINA OPIACEOS, DERIVADOS - líquidos biológicos.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660684",
+    "determinacion": "N",
+    "ub": 26.0
+  },
+  {
+    "codigo": "660695",
+    "determinacion": "NORADRENALINA, sérica - CATECOLAMINA",
+    "ub": 25.0
+  },
+  {
+    "codigo": "660696",
+    "determinacion": "NORADRENALINA, urinaria - CATECOLAMINA",
+    "ub": 25.0
+  },
+  {
+    "codigo": "660702",
+    "determinacion": "NUCLEOTIDASA - 5' N",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660711",
+    "determinacion": "ORINA COMPLETA. U N",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660714",
+    "determinacion": "OSMOLARIDAD - CLEARENCE (sangre - orina)",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660715",
+    "determinacion": "OSMOLARIDAD - suero.",
+    "ub": 2.5
+  },
+  {
+    "codigo": "660716",
+    "determinacion": "OXIGENO, PO2 - sangre arterial. N",
+    "ub": null
+  },
+  {
+    "codigo": "660732",
+    "determinacion": "PAPANICOLAOU ENDOCERVICAL",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660734",
+    "determinacion": "PAPANICOLAOU EXOCERVICAL",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660736",
+    "determinacion": "PARASITOLOGICO en MATERIA FECAL. N",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660737",
+    "determinacion": "PARASITOS HEMATICOS.",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660738",
+    "determinacion": "PARASITOS SUPERIORES.",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660739",
+    "determinacion": "PARATHORMONA - PTH",
+    "ub": 13.5
+  },
+  {
+    "codigo": "660740",
+    "determinacion": "PEROXIDASAS, TINCION",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660741",
+    "determinacion": "PH - líquidos biológicos.",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660742",
+    "determinacion": "PH - sanguíneo N",
+    "ub": null
+  },
+  {
+    "codigo": "660743",
+    "determinacion": "PIRUVATO- QUINASA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660744",
+    "determinacion": "PIRUVICO, ÁCIDO ENZIMATICO (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660745",
+    "determinacion": "PLAQUETARIOS, FACTORES",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660746",
+    "determinacion": "PLAQUETAS, RECUENTO DE U",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660747",
+    "determinacion": "PLASMA RECALCIFICADO, TIEMPO DE U",
+    "ub": 1.0
+  },
+  {
+    "codigo": "660748",
+    "determinacion": "PLASMINOGENO (IDR)",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660749",
+    "determinacion": "PLOMO (Pb) - sérico o urinario.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660751",
+    "determinacion": "PORFIRINAS o UROPORFIRINAS - urinarias",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660752",
+    "determinacion": "PORFOBILINOGENO (cualitativo) - urinario.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660753",
+    "determinacion": "POTASEMIA. U N",
+    "ub": null
+  },
+  {
+    "codigo": "660754",
+    "determinacion": "POTASURIA. U N",
+    "ub": null
+  },
+  {
+    "codigo": "660758",
+    "determinacion": "PROGESTERONA - Pg.",
+    "ub": 11.0
+  },
+  {
+    "codigo": "660759",
+    "determinacion": "PROLACTINA (Prl)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660761",
+    "determinacion": "PROTEINA C REACTIVA - PCR U",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660763",
+    "determinacion": "PROTEINA TOTALES. U",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660764",
+    "determinacion": "PROTEINOGRAMA ELECTROFORÉTICO, en suero",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660765",
+    "determinacion": "PROTEINOGRAMA ELECTROFORÉTICO - LCR",
+    "ub": 33.0
+  },
+  {
+    "codigo": "660766",
+    "determinacion": "PROTEINOGRAMA - líquidos biológicos N",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660767",
+    "determinacion": "PROTEINURIA. N",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660768",
+    "determinacion": "PROTOPORFIRINAS - eritrocitaria",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660769",
+    "determinacion": "PROTROMBINA, CONSUMO DE U",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660770",
+    "determinacion": "PROTROMBINA, RIN U N",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660771",
+    "determinacion": "PROTROMBINA, TIEMPO DE (TP) U N",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660772",
+    "determinacion": "N",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660801",
+    "determinacion": "QUIMIOTRIPSINA.",
+    "ub": 30.0
+  },
+  {
+    "codigo": "660812",
+    "determinacion": "RENINA - ANGIOTESINA.",
+    "ub": 18.0
+  },
+  {
+    "codigo": "660813",
+    "determinacion": "Rho FACTOR - GRUPO SANGUINEO. U N",
+    "ub": 0.0
+  },
+  {
+    "codigo": "660814",
+    "determinacion": "Rho FACTOR C GRANDE",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660815",
+    "determinacion": "Rho FACTOR c CHICA",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660816",
+    "determinacion": "Rho FACTOR E GRANDE",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660817",
+    "determinacion": "Rho FACTOR e CHICA",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660818",
+    "determinacion": "RETICULOCITOS, RECUENTO DE",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660820",
+    "determinacion": "ROSSE RAGAN, PRUEBA DE (RR)",
+    "ub": 2.5
+  },
+  {
+    "codigo": "660831",
+    "determinacion": "SALICILATOS.",
+    "ub": 12.5
+  },
+  {
+    "codigo": "660832",
+    "determinacion": "SALMONELLA, ANTICUERPOS (IFI - ELISA)",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660833",
+    "determinacion": "U N",
+    "ub": 8.0
+  },
+  {
+    "codigo": "660835",
+    "determinacion": "SEROTONINA - sérica.",
+    "ub": 24.0
+  },
+  {
+    "codigo": "660837",
+    "determinacion": "SIDEROFILINA, CAPACIDAD de SATURACIÓN. N",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660838",
+    "determinacion": "SIMS - HUHNER, TEST DE N",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660839",
+    "determinacion": "SODIO - sérico o urinario. U N",
+    "ub": null
+  },
+  {
+    "codigo": "660841",
+    "determinacion": "SOMATOTROFINA (STH)",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660847",
+    "determinacion": "SUDOR, TEST DE N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660862",
+    "determinacion": "TALIO (Tl) - urinario.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660863",
+    "determinacion": "TESTOSTERONA - To",
+    "ub": 11.0
+  },
+  {
+    "codigo": "660864",
+    "determinacion": "THORN, PRUEBA DE (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660865",
+    "determinacion": "TIROTROFINA - TSH N",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660866",
+    "determinacion": "TIROXINA TOTAL - T4",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660867",
+    "determinacion": "TIROXINA EFECTIVA - LIBRE (FT4 / T4L)",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660870",
+    "determinacion": "TOXOPLASMOSIS (HA)",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660871",
+    "determinacion": "TOXOPLASMOSIS (IFI)",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660873",
+    "determinacion": "U",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660874",
+    "determinacion": "TRANSAMINASA, GLUTAMICO PIRUVICA (GPT / AGT) U",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660875",
+    "determinacion": "TRANSFERRINA N",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660876",
+    "determinacion": "TRIGLICERIDOS (Tg)",
+    "ub": 2.5
+  },
+  {
+    "codigo": "660878",
+    "determinacion": "TRIIODOTIRONINA TOTAL - T3",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660879",
+    "determinacion": "TROMBINA, PRUEBA DE GENERACIÓN DE LA",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660880",
+    "determinacion": "TROMBINA, TIEMPO DE",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660887",
+    "determinacion": "TROMBOPLASTINA, TIEMPO DE (KPTT / TTPC / KT) U",
+    "ub": 2.0
+  },
+  {
+    "codigo": "660901",
+    "determinacion": "UREA, CLEARENCE DE",
+    "ub": 3.0
+  },
+  {
+    "codigo": "660902",
+    "determinacion": "UREA, sérica. U",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660903",
+    "determinacion": "URETRAL, EXUDADO (Directo y Cultivo). N",
+    "ub": 11.0
+  },
+  {
+    "codigo": "660904",
+    "determinacion": "ÚRICO, ÁCIDO - sérico.",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660905",
+    "determinacion": "ÚRICO, ÁCIDO - urinario.",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660907",
+    "determinacion": "UROCITOGRAMA N",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660911",
+    "determinacion": "UROCULTIVO (MODULO) N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660923",
+    "determinacion": "UROPROTEINOGRAMA N",
+    "ub": 33.0
+  },
+  {
+    "codigo": "660931",
+    "determinacion": "VAGINAL, EXUDADO o FLUJO (Directo y Cultivo). N",
+    "ub": 16.0
+  },
+  {
+    "codigo": "660932",
+    "determinacion": "VAINILLIN MANDELICO, ÁCIDO - urinario (AVM) (HPLC)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660933",
+    "determinacion": "V D R L / USR N",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660935",
+    "determinacion": "VARIANTE BACTERIANA. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660936",
+    "determinacion": "VERONAL, PRUEBA DEL (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660937",
+    "determinacion": "VITAMINA A.",
+    "ub": 37.0
+  },
+  {
+    "codigo": "660938",
+    "determinacion": "VITAMINA B12.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "660939",
+    "determinacion": "VITAMINA E.",
+    "ub": 37.0
+  },
+  {
+    "codigo": "660940",
+    "determinacion": "VOLEMIA RADIOQUÍMICO. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "660953",
+    "determinacion": "WIDAL, REACCION DE",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660981",
+    "determinacion": "ZINC ERITROCITARIO - PROTOPORFIRINA.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "660982",
+    "determinacion": "ZINC (Zn) - sérico.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "661000",
+    "determinacion": "ANTIGENO PROSTATICO ESPECÍFICO TOTAL - PSA-t",
+    "ub": 18.0
+  },
+  {
+    "codigo": "661001",
+    "determinacion": "ACTO BIOQUÍMICO DE INTERNACION - (ABI) N",
+    "ub": 6.0
+  },
+  {
+    "codigo": "661020",
+    "determinacion": "CHLAMYDIAS PNEUMONIAE, Ac. Anti- IgG",
+    "ub": 18.0
+  },
+  {
+    "codigo": "661025",
+    "determinacion": "CITOMEGALOVIRUS, Ac. IgG Anti- (CMV-IgG)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "661030",
+    "determinacion": "CITOMEGALOVIRUS, Ac. IgM Anti- (CMV-IgM)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "661035",
+    "determinacion": "COLESTEROL HDL (HDL-C)",
+    "ub": 3.0
+  },
+  {
+    "codigo": "661040",
+    "determinacion": "COLESTEROL LDL (LDL-C)",
+    "ub": 4.0
+  },
+  {
+    "codigo": "661050",
+    "determinacion": "DROGAS de ABUSO SCREENING (c/u) N",
+    "ub": 17.5
+  },
+  {
+    "codigo": "661055",
+    "determinacion": "EPSTEIN BARR, Ac. IgG/Totales Anti- (VEB / VCA IgG)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "661060",
+    "determinacion": "EPSTEIN BARR, Ac. IgM Anti- (VEB / VCA IgM)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "661065",
+    "determinacion": "FRUCTOSAMINA.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "661070",
+    "determinacion": "HEMOGLOBINA GLICOSILADA (Hb A1C)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "661075",
+    "determinacion": "HEPATITIS A, Ac. IgM Anti- (HAV IgM)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "661080",
+    "determinacion": "HEPATITIS B, Ac. Anti- \"Core\" IgG (HBc -IgG )",
+    "ub": 15.0
+  },
+  {
+    "codigo": "661085",
+    "determinacion": "HEPATITIS B, Antígeno e (Ag.HBe)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "661086",
+    "determinacion": "HEPATITIS B, Antígeno de Superficie (Ag.HBs )",
+    "ub": 12.0
+  },
+  {
+    "codigo": "661090",
+    "determinacion": "HEPATITIS B, Ac. de Superficie Anti- (HBsAc)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "661095",
+    "determinacion": "HEPATITIS C, Ac. IgG Anti- (HCV Ac IgG)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "661100",
+    "determinacion": "HIDATIDOSIS, Ac. IgG ó Totales Anti- (IFI)",
+    "ub": 22.0
+  },
+  {
+    "codigo": "661105",
+    "determinacion": "HIV, CARGA VIRAL.",
+    "ub": 160.0
+  },
+  {
+    "codigo": "661110",
+    "determinacion": "HIV, WESTERN- BLOT",
+    "ub": 100.0
+  },
+  {
+    "codigo": "661115",
+    "determinacion": "MARCADOR TUMORAL de OVARIO (CA 125)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "661120",
+    "determinacion": "MARCADOR TUMORAL de MAMA (CA 15. 3)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "661125",
+    "determinacion": "MARCADOR TUMORAL de COLON (CA 19. 9)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "661130",
+    "determinacion": "MICROALBUMINURIA / ALBUMINA URINARIA",
+    "ub": 12.5
+  },
+  {
+    "codigo": "661135",
+    "determinacion": "N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "661136",
+    "determinacion": "N",
+    "ub": 24.0
+  },
+  {
+    "codigo": "661137",
+    "determinacion": "N",
+    "ub": 60.0
+  },
+  {
+    "codigo": "661140",
+    "determinacion": "MYCOPLASMA PNEUMONIAE Ac Anti-IgG",
+    "ub": 18.0
+  },
+  {
+    "codigo": "661142",
+    "determinacion": "U N",
+    "ub": 118.0
+  },
+  {
+    "codigo": "661145",
+    "determinacion": "RUBEOLA, Ac. IgG Anti-",
+    "ub": 15.0
+  },
+  {
+    "codigo": "661150",
+    "determinacion": "RUBEOLA, Ac. IgM Anti-",
+    "ub": 15.0
+  },
+  {
+    "codigo": "661160",
+    "determinacion": "N",
+    "ub": 50.0
+  },
+  {
+    "codigo": "661170",
+    "determinacion": "U N",
+    "ub": 8.0
+  },
+  {
+    "codigo": "661175",
+    "determinacion": "U",
+    "ub": 14.0
+  },
+  {
+    "codigo": "661180",
+    "determinacion": "N",
+    "ub": 12.5
+  },
+  {
+    "codigo": "661185",
+    "determinacion": "TESTOSTERONA BIODISPONIBLE",
+    "ub": 25.0
+  },
+  {
+    "codigo": "661196",
+    "determinacion": "BIOTINIDASA, GALACTOSEMIA y 17-HO- N",
+    "ub": 43.0
+  },
+  {
+    "codigo": "661200",
+    "determinacion": "URGENCIAS.- N",
+    "ub": 3.0
+  },
+  {
+    "codigo": "661130",
+    "determinacion": "ALBUMINA URINARIA / MICROALBUMINURIA.",
+    "ub": 12.5
+  },
+  {
+    "codigo": "660017",
+    "determinacion": "ALCOHOLEMIA",
+    "ub": 10.0
+  },
+  {
+    "codigo": "660307",
+    "determinacion": "ALCOLURIA",
+    "ub": 10.0
+  },
+  {
+    "codigo": "661050",
+    "determinacion": "ANFETAMINAS - urinarias N",
+    "ub": 17.5
+  },
+  {
+    "codigo": "661050",
+    "determinacion": "N",
+    "ub": 17.5
+  },
+  {
+    "codigo": "660772",
+    "determinacion": "BUTIRILCOLINESTERASA - PSEUDOCOLINESTERASA N",
+    "ub": 4.0
+  },
+  {
+    "codigo": "661115",
+    "determinacion": "CA 125 (MARCADOR TUMORAL de OVARIO)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "661120",
+    "determinacion": "CA 15. 3 (MARCADOR TUMORAL de MAMA)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "661125",
+    "determinacion": "CA 19. 9 (MARCADOR TUMORAL de COLON)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "661136",
+    "determinacion": "OXCARBAZEPINA, MONITOREO de FÁRMACOS para N",
+    "ub": 24.0
+  },
+  {
+    "codigo": "661050",
+    "determinacion": "COCAINA, DROGA de ABUSO SCREENING - urinario N",
+    "ub": 17.5
+  },
+  {
+    "codigo": "660838",
+    "determinacion": "ESPERMA, TEST POSCOITAL - SIMS-HUHNER N",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660373",
+    "determinacion": "N",
+    "ub": 30.0
+  },
+  {
+    "codigo": "660417",
+    "determinacion": "GLUCOSURIA",
+    "ub": 1.5
+  },
+  {
+    "codigo": "660472",
+    "determinacion": "HEMOGLOBINA LIBRE",
+    "ub": 4.0
+  },
+  {
+    "codigo": "660479",
+    "determinacion": "HEMOSIDERINURIA",
+    "ub": 9.0
+  },
+  {
+    "codigo": "660189",
+    "determinacion": "HIDROCORISONA - CORTISOL",
+    "ub": 10.0
+  },
+  {
+    "codigo": "661130",
+    "determinacion": "MAL - SINONIMA: ALBUMINA URINARIA",
+    "ub": 12.5
+  },
+  {
+    "codigo": "661050",
+    "determinacion": "OPIACEOS, DROGAS de ABUSO SCREENING - urinario N",
+    "ub": 17.5
+  },
+  {
+    "codigo": "661136",
+    "determinacion": "CARBAMAZEPINA, MONITOREO de FÁRMACOS para N",
+    "ub": 24.0
+  },
+  {
+    "codigo": "660739",
+    "determinacion": "PARATHORMONA molécula intacta (PTH mi / PTH i)",
+    "ub": 13.5
+  },
+  {
+    "codigo": "660656",
+    "determinacion": "PPD (MANTOUX, INTRADERMO-REACCION DE) N",
+    "ub": 20.0
+  },
+  {
+    "codigo": "660598",
+    "determinacion": "PRUEBA PARA ARTRITIS REUMATOIDE",
+    "ub": 5.0
+  },
+  {
+    "codigo": "660838",
+    "determinacion": "TEST POST-COITAL - TEST DE SIMS - HUBNER N",
+    "ub": 20.0
+  },
+  {
+    "codigo": "662003",
+    "determinacion": "VALIDACIÓN - PROCESO de AUDITORÍA -",
+    "ub": 1.0
+  },
+  {
+    "codigo": "662001",
+    "determinacion": "ABC - ACTO BIOQUÍMICO COMPLEMENTARIO N",
+    "ub": 3.0
+  },
+  {
+    "codigo": "662008",
+    "determinacion": "ACANTHAMOEBA SPP.",
+    "ub": 15.0
+  },
+  {
+    "codigo": "662009",
+    "determinacion": "ACANTHAMOEBA - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "662011",
+    "determinacion": "ÁCAROS y ARTRÓPODOS, Investigación de vectores",
+    "ub": 10.0
+  },
+  {
+    "codigo": "662017",
+    "determinacion": "ACETILCOLINA",
+    "ub": 25.0
+  },
+  {
+    "codigo": "662025",
+    "determinacion": "ACETILCOLINA, Ac. Anti- RECEPTORES (ACRA)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "662034",
+    "determinacion": "ACETILCOLINESTERASA ERITROCITARIA (ACHE)",
+    "ub": 12.0
+  },
+  {
+    "codigo": "662051",
+    "determinacion": "ACETONA CUANTITATIVA - sérica",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662059",
+    "determinacion": "ACETONA CUANTITATIVA - urinaria",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662068",
+    "determinacion": "ÁCIDO 3 METIL-INDOL",
+    "ub": 35.0
+  },
+  {
+    "codigo": "662085",
+    "determinacion": "ÁCIDO 5 HIDROX-INDOL ACÉTICO (HPLC)",
+    "ub": 23.0
+  },
+  {
+    "codigo": "662093",
+    "determinacion": "ÁCIDO ACETOACÉTICO",
+    "ub": 17.0
+  },
+  {
+    "codigo": "662102",
+    "determinacion": "ÁCIDO ALFA CETÓNICO",
+    "ub": 12.0
+  },
+  {
+    "codigo": "662111",
+    "determinacion": "ÁCIDO BETA HIDROXIBUTÍRICO",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662119",
+    "determinacion": "ÁCIDO CÍTRICO - plasmático",
+    "ub": 15.0
+  },
+  {
+    "codigo": "662120",
+    "determinacion": "ÁCIDO CÍTRICO - urinario",
+    "ub": 15.0
+  },
+  {
+    "codigo": "662128",
+    "determinacion": "ÁCIDO FENIL ACÉTICO (AFA)",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662136",
+    "determinacion": "ÁCIDO FENIL GLIOXÍLICO",
+    "ub": 16.0
+  },
+  {
+    "codigo": "662153",
+    "determinacion": "ÁCIDO FOLICO - intraeritrocitario.",
+    "ub": 14.0
+  },
+  {
+    "codigo": "662162",
+    "determinacion": "ÁCIDO FÓRMICO",
+    "ub": 16.0
+  },
+  {
+    "codigo": "662170",
+    "determinacion": "ÁCIDO FOSFATÍDICO, Ac. IgG Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662179",
+    "determinacion": "ÁCIDO FOSFATÍDICO, Ac. IgM Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662181",
+    "determinacion": "ÁCIDO FUROICO",
+    "ub": 16.0
+  },
+  {
+    "codigo": "662182",
+    "determinacion": "ÁCIDO GAMMA-AMINOBUTÍRICO (GABA)",
+    "ub": 70.0
+  },
+  {
+    "codigo": "662183",
+    "determinacion": "ÁCIDO GLUTÁMICO",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662184",
+    "determinacion": "ÁCIDO GUANIDINACÉTICO.",
+    "ub": 110.0
+  },
+  {
+    "codigo": "662187",
+    "determinacion": "ÁCIDO HIPÚRICO - urinario",
+    "ub": 15.0
+  },
+  {
+    "codigo": "662205",
+    "determinacion": "ÁCIDO HOMOVANÍLICO - HVA",
+    "ub": 20.0
+  },
+  {
+    "codigo": "662222",
+    "determinacion": "ÁCIDO INDOLACETICO, 5 HIDROXI -3-METIL",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662236",
+    "determinacion": "ÁCIDO LÁCTICO - LCR",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662239",
+    "determinacion": "ÁCIDO LÁCTICO - urinario",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662247",
+    "determinacion": "ÁCIDO LISÉRGICO (LSD)",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662252",
+    "determinacion": "ÁCIDO MÁLICO",
+    "ub": 60.0
+  },
+  {
+    "codigo": "662256",
+    "determinacion": "ÁCIDO MANDÉLICO",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662264",
+    "determinacion": "ÁCIDO METIL HIPÚRICO",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662273",
+    "determinacion": "ÁCIDO METIL MALÓNICO",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662277",
+    "determinacion": "ÁCIDO MUCÓNICO",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662281",
+    "determinacion": "ÁCIDO ORÓTICO",
+    "ub": 104.0
+  },
+  {
+    "codigo": "662296",
+    "determinacion": "ÁCIDO OXALICO - sérico",
+    "ub": 22.0
+  },
+  {
+    "codigo": "662299",
+    "determinacion": "ÁCIDO OXALICO - urinario (2/ 12 / 24 hs. - c/u)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "662307",
+    "determinacion": "ÁCIDO PERCLÓRICO (#)",
+    "ub": null
+  },
+  {
+    "codigo": "662316",
+    "determinacion": "ÁCIDO PIRUVICO - sérico",
+    "ub": 13.0
+  },
+  {
+    "codigo": "662328",
+    "determinacion": "ÁCIDO SALICÍLICO - sérico",
+    "ub": 12.0
+  },
+  {
+    "codigo": "662330",
+    "determinacion": "ÁCIDO SALICÍLICO - urinario",
+    "ub": 12.0
+  },
+  {
+    "codigo": "662341",
+    "determinacion": "ÁCIDO SIALICO",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662346",
+    "determinacion": "ÁCIDO SUCCÍNICO",
+    "ub": 60.0
+  },
+  {
+    "codigo": "662350",
+    "determinacion": "ÁCIDO TIOGLICÓLICO",
+    "ub": 19.0
+  },
+  {
+    "codigo": "662358",
+    "determinacion": "ÁCIDO TRICLOROACÉTICO",
+    "ub": 18.0
+  },
+  {
+    "codigo": "662367",
+    "determinacion": "ÁCIDOS BILIARES - séricos.",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662375",
+    "determinacion": "ÁCIDOS GRASOS DE CADENA MUY LARGA",
+    "ub": 122.0
+  },
+  {
+    "codigo": "662379",
+    "determinacion": "ÁCIDOS GRASOS NO ESTERIFICADOS (NEFA)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "662393",
+    "determinacion": "ÁCIDOS ORGÁNICOS - urinarios",
+    "ub": 122.0
+  },
+  {
+    "codigo": "662401",
+    "determinacion": "ACIL CARNITINAS - plasmáticos",
+    "ub": 120.0
+  },
+  {
+    "codigo": "662405",
+    "determinacion": "ACTINA AC (AAC) - IFI (#)",
+    "ub": null
+  },
+  {
+    "codigo": "662417",
+    "determinacion": "ADENOSIN DEAMINASA - LCR",
+    "ub": 24.0
+  },
+  {
+    "codigo": "662418",
+    "determinacion": "ADENOSIN DEAMINASA - líquido pleural",
+    "ub": 24.0
+  },
+  {
+    "codigo": "662427",
+    "determinacion": "ADENOVIRUS, Ac. IgG o Totales, Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "662435",
+    "determinacion": "ADENOVIRUS, Ac. IgM, Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "662444",
+    "determinacion": "ADENOVIRUS, Ag.",
+    "ub": 24.0
+  },
+  {
+    "codigo": "662446",
+    "determinacion": "ADENOVIRUS - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "662448",
+    "determinacion": "ADENOVIRUS - Carga viral",
+    "ub": 150.0
+  },
+  {
+    "codigo": "662452",
+    "determinacion": "ADRENAL, Ac. Totales Anti-",
+    "ub": 65.0
+  },
+  {
+    "codigo": "662461",
+    "determinacion": "ALDOSTERONA - urinaria",
+    "ub": 15.0
+  },
+  {
+    "codigo": "662469",
+    "determinacion": "ALDRIN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "662508",
+    "determinacion": "Alfa 1 GLUCOPROTEINA ACIDA (OROSOMUCOIDE) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "662521",
+    "determinacion": "Alfa 2 ANTIPLASMINA",
+    "ub": 40.0
+  },
+  {
+    "codigo": "662538",
+    "determinacion": "alfa-HEXACLORAN - alfa-LINDANO - α-1,2,3,4,5,6-",
+    "ub": 60.0
+  },
+  {
+    "codigo": "662547",
+    "determinacion": "Alfa GALACTOSIDASA (Fabry)",
+    "ub": 130.0
+  },
+  {
+    "codigo": "662555",
+    "determinacion": "Alfa GLUCOSIDASA NEUTRA - semen",
+    "ub": 25.0
+  },
+  {
+    "codigo": "662559",
+    "determinacion": "Alfa L IDURONIDASA",
+    "ub": 110.0
+  },
+  {
+    "codigo": "662561",
+    "determinacion": "Alfa MANOSIDASA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "662563",
+    "determinacion": "Alfa NITROSO BETA NAFTOL, PRUEBA de",
+    "ub": 9.0
+  },
+  {
+    "codigo": "662572",
+    "determinacion": "ALPRAZOLAM",
+    "ub": 25.0
+  },
+  {
+    "codigo": "662587",
+    "determinacion": "ALUMINIO - pelo",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662589",
+    "determinacion": "ALUMINIO - sérico",
+    "ub": 22.0
+  },
+  {
+    "codigo": "662591",
+    "determinacion": "ALUMINIO - urinario",
+    "ub": 22.0
+  },
+  {
+    "codigo": "662598",
+    "determinacion": "AMETRYN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "662606",
+    "determinacion": "AMIKACINA",
+    "ub": 22.0
+  },
+  {
+    "codigo": "662620",
+    "determinacion": "AMINOÁCIDOS - LCR (Cromatografía cuantitativa)",
+    "ub": 150.0
+  },
+  {
+    "codigo": "662623",
+    "determinacion": "AMINOÁCIDOS - sérico (Cromatografía cuantitativa)",
+    "ub": 150.0
+  },
+  {
+    "codigo": "662627",
+    "determinacion": "AMINOÁCIDOS - urinarios (Cromatografía cuantitativa)",
+    "ub": 150.0
+  },
+  {
+    "codigo": "662630",
+    "determinacion": "AMINOÁCIDOS - urinarios (Cualitativo)",
+    "ub": 22.0
+  },
+  {
+    "codigo": "662649",
+    "determinacion": "AMONIO - urinario",
+    "ub": 20.0
+  },
+  {
+    "codigo": "662657",
+    "determinacion": "ANAEROBIOS (Cultivo).",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662675",
+    "determinacion": "ANDROSTENEDIONA, Delta 4- (∆4)",
+    "ub": 12.0
+  },
+  {
+    "codigo": "662688",
+    "determinacion": "ANFETAMINAS / METANFETAMINAS, confirmatorio",
+    "ub": 120.0
+  },
+  {
+    "codigo": "662700",
+    "determinacion": "ANGELMAN, SÍNDROME de",
+    "ub": 330.0
+  },
+  {
+    "codigo": "662704",
+    "determinacion": "ANION GAP N",
+    "ub": 1.0
+  },
+  {
+    "codigo": "662706",
+    "determinacion": "ANTIBIOGRAMA - AUTOMATIZADO",
+    "ub": 50.0
+  },
+  {
+    "codigo": "662709",
+    "determinacion": "ANTICOAGULANTE LÚPICO N",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662712",
+    "determinacion": "ANTIDIURÉTICA, HORMONA (HAD) -VASOPRESINA",
+    "ub": 80.0
+  },
+  {
+    "codigo": "662734",
+    "determinacion": "N",
+    "ub": 36.0
+  },
+  {
+    "codigo": "662739",
+    "determinacion": "N",
+    "ub": 150.0
+  },
+  {
+    "codigo": "662743",
+    "determinacion": "ANTIGENOS VIRALES - PANEL de DIARREICOS - PCR N",
+    "ub": 150.0
+  },
+  {
+    "codigo": "662745",
+    "determinacion": "N",
+    "ub": 90.0
+  },
+  {
+    "codigo": "662749",
+    "determinacion": "N",
+    "ub": 180.0
+  },
+  {
+    "codigo": "662751",
+    "determinacion": "N",
+    "ub": 230.0
+  },
+  {
+    "codigo": "662769",
+    "determinacion": "ANTIMICOGRAMA LEVADURAS, Screening",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662780",
+    "determinacion": "ANTIMONIO - sérico",
+    "ub": 18.0
+  },
+  {
+    "codigo": "662782",
+    "determinacion": "ANTIMONIO - urinario",
+    "ub": 18.0
+  },
+  {
+    "codigo": "662790",
+    "determinacion": "ANTIMULLERIANA, HORMONA (HAM)",
+    "ub": 75.0
+  },
+  {
+    "codigo": "662803",
+    "determinacion": "ANTITROMBINA III FUNCIONAL",
+    "ub": 25.0
+  },
+  {
+    "codigo": "662810",
+    "determinacion": "APOLIPOPROTEINA A (ApoA)",
+    "ub": 11.0
+  },
+  {
+    "codigo": "662811",
+    "determinacion": "APOLIPOPROTEINA B (ApoB)",
+    "ub": 11.0
+  },
+  {
+    "codigo": "662815",
+    "determinacion": "APOLIPOPROTEINA E, GENOTIPO (Apo E)",
+    "ub": 176.0
+  },
+  {
+    "codigo": "662820",
+    "determinacion": "ARILSULTASA A - en leucocitos",
+    "ub": 150.0
+  },
+  {
+    "codigo": "662822",
+    "determinacion": "ARILSULTASA A - sérica",
+    "ub": 150.0
+  },
+  {
+    "codigo": "662834",
+    "determinacion": "ARSÉNICO - pelo",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662837",
+    "determinacion": "ARSÉNICO - uña",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662846",
+    "determinacion": "ASPERGILLIUS, Ac. Anti-",
+    "ub": 24.0
+  },
+  {
+    "codigo": "662850",
+    "determinacion": "ATRAZINA",
+    "ub": 60.0
+  },
+  {
+    "codigo": "662852",
+    "determinacion": "AUTOHEMÓLISIS, PRUEBA DE",
+    "ub": 4.0
+  },
+  {
+    "codigo": "662854",
+    "determinacion": "BACILUS ANTHRACIS, Cultivo y Tipificación",
+    "ub": 20.0
+  },
+  {
+    "codigo": "662863",
+    "determinacion": "BANDAS OLIGOCLONALES, en L.C.R. / Suero",
+    "ub": 220.0
+  },
+  {
+    "codigo": "662888",
+    "determinacion": "BARBITURATOS, Confirmatorio.",
+    "ub": 120.0
+  },
+  {
+    "codigo": "662896",
+    "determinacion": "BARIO - sérico.",
+    "ub": 22.0
+  },
+  {
+    "codigo": "662897",
+    "determinacion": "BARIO - urinario",
+    "ub": 22.0
+  },
+  {
+    "codigo": "662912",
+    "determinacion": "BARTONELLA HENSELAE, Ac. IgG Anti-",
+    "ub": 50.0
+  },
+  {
+    "codigo": "662914",
+    "determinacion": "BARTONELLA HENSELAE, Ac. IgM Anti-",
+    "ub": 50.0
+  },
+  {
+    "codigo": "662931",
+    "determinacion": "BENCENO-ETILBENCENO-TOLUENO-XILENO (BETX)",
+    "ub": 60.0
+  },
+  {
+    "codigo": "662945",
+    "determinacion": "BENZODIAZEPINAS, Confirmatorio.",
+    "ub": 120.0
+  },
+  {
+    "codigo": "662963",
+    "determinacion": "BERILIO - sérico",
+    "ub": 22.0
+  },
+  {
+    "codigo": "662965",
+    "determinacion": "BERILIO - urinario",
+    "ub": 22.0
+  },
+  {
+    "codigo": "662980",
+    "determinacion": "Beta 2 GLICOPROTEÍNA, Ac. IgA Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662982",
+    "determinacion": "Beta 2 GLICOPROTEÍNA, Ac. IgG Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "662984",
+    "determinacion": "Beta 2 GLICOPROTEÍNA, Ac. IgM Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "663016",
+    "determinacion": "beta-HEXACLORAN - beta-LINDANO - beta-1,2,3,4,5,6-",
+    "ub": 60.0
+  },
+  {
+    "codigo": "663034",
+    "determinacion": "Beta GALACTOSIDASA",
+    "ub": 130.0
+  },
+  {
+    "codigo": "663042",
+    "determinacion": "Beta GLUCOCEREBROSIDASA",
+    "ub": 130.0
+  },
+  {
+    "codigo": "663051",
+    "determinacion": "Beta LACTAMASA",
+    "ub": 10.0
+  },
+  {
+    "codigo": "663056",
+    "determinacion": "Beta Libre hCG N",
+    "ub": 38.0
+  },
+  {
+    "codigo": "663062",
+    "determinacion": "Beta MANOSIDASA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663065",
+    "determinacion": "BICARBONATO, en orina",
+    "ub": 10.0
+  },
+  {
+    "codigo": "663067",
+    "determinacion": "BIOTINA",
+    "ub": 120.0
+  },
+  {
+    "codigo": "663068",
+    "determinacion": "BIOTINIDAZA, CONFIRMATORIO.",
+    "ub": 120.0
+  },
+  {
+    "codigo": "663076",
+    "determinacion": "BLADER TEST ANTÍGENO - NMP22 (B.T.A.) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663085",
+    "determinacion": "BLASTOMYCES DERMATITIDIS, Ac (Fase Lev)",
+    "ub": 35.0
+  },
+  {
+    "codigo": "663093",
+    "determinacion": "BNP (FACTOR NATRIURÉTICO)",
+    "ub": 95.0
+  },
+  {
+    "codigo": "663102",
+    "determinacion": "BORDETELLA PERTUSIS, Ac. IgG Anti-",
+    "ub": 35.0
+  },
+  {
+    "codigo": "663110",
+    "determinacion": "BORDETELLA PERTUSIS, Ac. IgM Anti-",
+    "ub": 37.0
+  },
+  {
+    "codigo": "663119",
+    "determinacion": "BORDETELLA PERTUSIS, Ag.",
+    "ub": 40.0
+  },
+  {
+    "codigo": "663120",
+    "determinacion": "BORDETELLA PERTUSIS - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "663128",
+    "determinacion": "BORRELLIA BUGDORFERI, Ac. IgG Anti-",
+    "ub": 35.0
+  },
+  {
+    "codigo": "663136",
+    "determinacion": "BORRELLIA BUGDORFERI, Ac. IgM Anti-",
+    "ub": 37.0
+  },
+  {
+    "codigo": "663143",
+    "determinacion": "BRCA 1 BRCA 2, SECUENCIACIÓN COMPLETA",
+    "ub": 2000.0
+  },
+  {
+    "codigo": "663145",
+    "determinacion": "BRCA 1-2, PANEL ASHKENAZI",
+    "ub": 375.0
+  },
+  {
+    "codigo": "663147",
+    "determinacion": "BRCA 1-2, PANEL ASHKENAZI - SEFARADI",
+    "ub": 450.0
+  },
+  {
+    "codigo": "663153",
+    "determinacion": "BROMURO - sérico",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663158",
+    "determinacion": "BRUCELLAS, TEST DE WRIGHT",
+    "ub": 10.0
+  },
+  {
+    "codigo": "663162",
+    "determinacion": "BRUCELOSIS (IFI)",
+    "ub": 12.0
+  },
+  {
+    "codigo": "663170",
+    "determinacion": "BRUCELOSIS (Fijación de Complemento)",
+    "ub": 5.0
+  },
+  {
+    "codigo": "663179",
+    "determinacion": "BRUCELOSIS, Ac. IgG ó Totales Anti-",
+    "ub": 12.0
+  },
+  {
+    "codigo": "663187",
+    "determinacion": "BRUCELOSIS, Ac. IgM Anti-",
+    "ub": 12.0
+  },
+  {
+    "codigo": "663190",
+    "determinacion": "BRUCELOSIS, Ac. Incompletos Anti-",
+    "ub": 15.0
+  },
+  {
+    "codigo": "663230",
+    "determinacion": "C1 INHIBIDOR (C1 INHIBIDOR INMUNOLÓGICO)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "663247",
+    "determinacion": "CA 72-4 (MARCADOR TUMORAL GÁSTRICO)",
+    "ub": 50.0
+  },
+  {
+    "codigo": "663254",
+    "determinacion": "CADENA LIVIANA KAPPA, LIBRE (Nefelometría)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "663257",
+    "determinacion": "CADENA LIVIANA LAMBDA, LIBRE (Nefelometría)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "663259",
+    "determinacion": "CADENAS PESADAS EN SANGRE Y ORINA C/U",
+    "ub": 40.0
+  },
+  {
+    "codigo": "663262",
+    "determinacion": "CADMIO (Cd) - pelo",
+    "ub": 25.0
+  },
+  {
+    "codigo": "663264",
+    "determinacion": "CADMIO (Cd) - sanguíneo",
+    "ub": 22.0
+  },
+  {
+    "codigo": "663273",
+    "determinacion": "CALCIDIOIDEMICOSIS - Inmunodif. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663290",
+    "determinacion": "CALCIO (Ca) - pelo",
+    "ub": 25.0
+  },
+  {
+    "codigo": "663292",
+    "determinacion": "CALCIO (Ca) - saliva",
+    "ub": 25.0
+  },
+  {
+    "codigo": "663310",
+    "determinacion": "CALPROTECTINA (CPMF)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "663316",
+    "determinacion": "CAMPYLOBACTER SPP, Cultivo (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663318",
+    "determinacion": "CAMPYLOBACTER SPP, Directo (ELISA)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663320",
+    "determinacion": "CAMPYLOBACTER SPP, Directo (Microscopía)",
+    "ub": 12.0
+  },
+  {
+    "codigo": "663324",
+    "determinacion": "CANDIDA ALBICANS, Ac. Totales",
+    "ub": 15.0
+  },
+  {
+    "codigo": "663333",
+    "determinacion": "CANDIDA, ELECTROFORESIS DE CAMP (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663375",
+    "determinacion": "CARBOXIHEMOGLOBINA",
+    "ub": 15.0
+  },
+  {
+    "codigo": "663384",
+    "determinacion": "CARDIOLIPINAS, Ac. IgA Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663392",
+    "determinacion": "CARDIOLIPINAS, Ac. IgG Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "663401",
+    "determinacion": "CARDIOLIPINAS, Ac. IgM Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "663430",
+    "determinacion": "CARIOTIPO, con BANDEO",
+    "ub": 140.0
+  },
+  {
+    "codigo": "663435",
+    "determinacion": "CARIOTIPO - líquido anmiótico",
+    "ub": 350.0
+  },
+  {
+    "codigo": "663440",
+    "determinacion": "CARIOTIPO - material de aborto",
+    "ub": 200.0
+  },
+  {
+    "codigo": "663443",
+    "determinacion": "CARIOTIPO - médula ósea (Citogenético de MO)",
+    "ub": 140.0
+  },
+  {
+    "codigo": "663446",
+    "determinacion": "CARIOTIPO - vellosidades coriónicas",
+    "ub": 350.0
+  },
+  {
+    "codigo": "663461",
+    "determinacion": "CARNITINA, Libre y Total - suero",
+    "ub": 160.0
+  },
+  {
+    "codigo": "663463",
+    "determinacion": "CARNITINA, Libre y Total - urinario",
+    "ub": 160.0
+  },
+  {
+    "codigo": "663478",
+    "determinacion": "CATECOLAMINAS - LCR",
+    "ub": 25.0
+  },
+  {
+    "codigo": "663495",
+    "determinacion": "CD34 POSITIVAS - Citometría de Flujo",
+    "ub": 35.0
+  },
+  {
+    "codigo": "663504",
+    "determinacion": "CD10/CD19 - Citom. de Flujo",
+    "ub": 35.0
+  },
+  {
+    "codigo": "663529",
+    "determinacion": "CD69/CD56",
+    "ub": 35.0
+  },
+  {
+    "codigo": "663538",
+    "determinacion": "N",
+    "ub": 35.0
+  },
+  {
+    "codigo": "663543",
+    "determinacion": "CELULARIDAD en lágrimas",
+    "ub": 10.0
+  },
+  {
+    "codigo": "663546",
+    "determinacion": "CELULAS LE",
+    "ub": 7.0
+  },
+  {
+    "codigo": "663563",
+    "determinacion": "CENTROMERO, Ac. Anti-",
+    "ub": 22.0
+  },
+  {
+    "codigo": "663571",
+    "determinacion": "CHAGAS, Ac. IgM Anti- (ELISA)",
+    "ub": 14.0
+  },
+  {
+    "codigo": "663572",
+    "determinacion": "CHAGAS, Ac. IgM Anti- (IFI)",
+    "ub": 14.0
+  },
+  {
+    "codigo": "663576",
+    "determinacion": "CHAGAS, (PCR)",
+    "ub": 90.0
+  },
+  {
+    "codigo": "663582",
+    "determinacion": "CHIKUNGUNYA , virus (PCR)",
+    "ub": 90.0
+  },
+  {
+    "codigo": "663585",
+    "determinacion": "CHITOTRIOSIDASA - sanguínea.",
+    "ub": 110.0
+  },
+  {
+    "codigo": "663589",
+    "determinacion": "CHLAMYDIA PNEUMONIAE, Ac. IgM Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663591",
+    "determinacion": "CHLAMYDIA PNEUMONIAE - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "663598",
+    "determinacion": "CHLAMYDIA PSITACCI, Ac. IgG Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "663606",
+    "determinacion": "CHLAMYDIA PSITACCI, Ac. IgM Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663609",
+    "determinacion": "CHLAMYDIA PSITACCI - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "663623",
+    "determinacion": "CHLAMYDIA TRACHOMATIS, Ac. IgG Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "663632",
+    "determinacion": "CHLAMYDIA TRACHOMATIS, Ac. IgM Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663640",
+    "determinacion": "CHLAMYDIA TRACHOMATIS, Ag.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663649",
+    "determinacion": "CHLAMYDIA TRACHOMATIS, Ag. PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "663650",
+    "determinacion": "CHLAMYDIA TRACHOMATIS, cultivo celular",
+    "ub": 95.0
+  },
+  {
+    "codigo": "663651",
+    "determinacion": "CHLAMYDIA TRACHOMATIS - LCR (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663657",
+    "determinacion": "CHOLERAE VIBRIO, CULTIVO (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663666",
+    "determinacion": "CIANUROS",
+    "ub": 22.0
+  },
+  {
+    "codigo": "663674",
+    "determinacion": "CICLOSPORINA A - sérica",
+    "ub": 30.0
+  },
+  {
+    "codigo": "663683",
+    "determinacion": "CISTINA",
+    "ub": 15.0
+  },
+  {
+    "codigo": "663717",
+    "determinacion": "CITOMEGALOVIRUS, ANTIGENEMIA (CMV - PP65)",
+    "ub": 45.0
+  },
+  {
+    "codigo": "663720",
+    "determinacion": "CITOMEGALOVIRUS, detección cuantitativa - PCR",
+    "ub": 150.0
+  },
+  {
+    "codigo": "663722",
+    "determinacion": "CITOMEGALOVIRUS, detección cualitativa - PCR",
+    "ub": 70.0
+  },
+  {
+    "codigo": "663751",
+    "determinacion": "CLEMENTS, Prueba de",
+    "ub": 12.0
+  },
+  {
+    "codigo": "663756",
+    "determinacion": "CLORPIRIFOS ETIL",
+    "ub": 60.0
+  },
+  {
+    "codigo": "663760",
+    "determinacion": "CLOSTRIDIUM DIFFICILE, Toxina A - materia fecal.",
+    "ub": 80.0
+  },
+  {
+    "codigo": "663786",
+    "determinacion": "COBALTO - plasmático",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663788",
+    "determinacion": "COBALTO - urinario",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663814",
+    "determinacion": "COBRE - eritrocitario",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663820",
+    "determinacion": "COBRE - urinario",
+    "ub": 20.0
+  },
+  {
+    "codigo": "663828",
+    "determinacion": "COCAÍNA, GC-MS - Confirmatorio.",
+    "ub": 120.0
+  },
+  {
+    "codigo": "663837",
+    "determinacion": "COCCIDIOIDES INMITIS, Ac. Anti- BANDA F (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663845",
+    "determinacion": "COCCIDIOIDES INMITIS, Ac. Anti- BANDA TP (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663854",
+    "determinacion": "COCCIDIOIDES INMITIS, Ac. Anti- CIE (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663860",
+    "determinacion": "COCCIDIOIDES INMITIS, Ac. Ig Totales Anti-",
+    "ub": 40.0
+  },
+  {
+    "codigo": "663862",
+    "determinacion": "COCCIDIOIDES INMITIS, Ac. IgG Anti-",
+    "ub": 28.0
+  },
+  {
+    "codigo": "663871",
+    "determinacion": "COCCIDIOIDES INMITIS, Ac. IgM Anti-",
+    "ub": 28.0
+  },
+  {
+    "codigo": "663880",
+    "determinacion": "COCLEARES, Ac. Anti- (Anti- P68 KDA) (Western Blot)",
+    "ub": 150.0
+  },
+  {
+    "codigo": "663888",
+    "determinacion": "CODEÍNA - sérica",
+    "ub": 50.0
+  },
+  {
+    "codigo": "663890",
+    "determinacion": "CODEÍNA - urinaria",
+    "ub": 50.0
+  },
+  {
+    "codigo": "663905",
+    "determinacion": "COFACTOR DE RISTOCETINA",
+    "ub": 60.0
+  },
+  {
+    "codigo": "663910",
+    "determinacion": "COLESTEROL NO HDL N",
+    "ub": 5.5
+  },
+  {
+    "codigo": "663922",
+    "determinacion": "COMPLEMENTO C1Q (PROTEINA 11S)",
+    "ub": 28.0
+  },
+  {
+    "codigo": "663926",
+    "determinacion": "COMPLEMENTO C2 (#)",
+    "ub": null
+  },
+  {
+    "codigo": "663939",
+    "determinacion": "CONCENTRACIÓN BACTERICIDA MÍNIMA (CBM)",
+    "ub": 28.0
+  },
+  {
+    "codigo": "663948",
+    "determinacion": "CONCENTRACION INHIBITORIA MINIMA (CIM)",
+    "ub": 28.0
+  },
+  {
+    "codigo": "663955",
+    "determinacion": "CONEXINA 26 - SECUENCIACIÓN - PCR",
+    "ub": 115.0
+  },
+  {
+    "codigo": "663960",
+    "determinacion": "COPROPORFIRINAS - eritrocitarias",
+    "ub": 15.0
+  },
+  {
+    "codigo": "663974",
+    "determinacion": "COREA DE HUNTINGTON - PCR",
+    "ub": 500.0
+  },
+  {
+    "codigo": "663982",
+    "determinacion": "CORPÚSCULOS METACROMÁTICOS - urinario",
+    "ub": 10.0
+  },
+  {
+    "codigo": "663994",
+    "determinacion": "CORRECCIÓN C/PLASMA NORMAL - aPTT",
+    "ub": 25.0
+  },
+  {
+    "codigo": "663996",
+    "determinacion": "CORRECCIÓN C/PLASMA NORMAL - TP",
+    "ub": 25.0
+  },
+  {
+    "codigo": "664002",
+    "determinacion": "CORTEX ADRENAL, Ac. ANTI- (A.A.C.A)",
+    "ub": 0.0
+  },
+  {
+    "codigo": "664008",
+    "determinacion": "CORTISOL LIBRE - urinario (CLU)",
+    "ub": 12.0
+  },
+  {
+    "codigo": "664012",
+    "determinacion": "CORTISOL - salival",
+    "ub": 12.0
+  },
+  {
+    "codigo": "664033",
+    "determinacion": "COTININA - sérica",
+    "ub": 25.0
+  },
+  {
+    "codigo": "664035",
+    "determinacion": "COTININA - urinaria",
+    "ub": 25.0
+  },
+  {
+    "codigo": "664050",
+    "determinacion": "COXIELLA BURNETTI, Ac. IgG Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "664059",
+    "determinacion": "COXIELLA BURNETTI, Ac. IgM Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "664068",
+    "determinacion": "COXSACKIE VIRUS A, 2-7-9, Ac. Anti- (c/u)",
+    "ub": 19.0
+  },
+  {
+    "codigo": "664076",
+    "determinacion": "COXSACKIE VIRUS B, 1-2-3-4-5-6, Ag. (c/u)",
+    "ub": 19.0
+  },
+  {
+    "codigo": "664085",
+    "determinacion": "COXSACKIE VIRUS B, 1-2-3-4-5-6, Ac. Anti- (pool)",
+    "ub": 19.0
+  },
+  {
+    "codigo": "664093",
+    "determinacion": "COXSACKIE VIRUS B, 1-2-3-4-5-6, Ac. Anti- (c/u)",
+    "ub": 19.0
+  },
+  {
+    "codigo": "664102",
+    "determinacion": "COXSACKIE VIRUS B, 1-2-3-4-5-6, Ac. IgM Anti- (c/u)",
+    "ub": 23.0
+  },
+  {
+    "codigo": "664105",
+    "determinacion": "CREATINA - sérica",
+    "ub": 10.0
+  },
+  {
+    "codigo": "664106",
+    "determinacion": "CREATINA - urinaria",
+    "ub": 10.0
+  },
+  {
+    "codigo": "664110",
+    "determinacion": "CRIOCRITO",
+    "ub": 10.0
+  },
+  {
+    "codigo": "664119",
+    "determinacion": "CRIOFIBRINÓGENO",
+    "ub": 10.0
+  },
+  {
+    "codigo": "664125",
+    "determinacion": "CRISTALIZACIÓN en lágrimas",
+    "ub": 7.0
+  },
+  {
+    "codigo": "664132",
+    "determinacion": "CROMO (Cr)- pelo",
+    "ub": 22.0
+  },
+  {
+    "codigo": "664134",
+    "determinacion": "CROMO (Cr) - sérico",
+    "ub": 20.0
+  },
+  {
+    "codigo": "664136",
+    "determinacion": "CROMO (Cr) - urinario",
+    "ub": 20.0
+  },
+  {
+    "codigo": "664141",
+    "determinacion": "CROMOGRANINA A",
+    "ub": 150.0
+  },
+  {
+    "codigo": "664150",
+    "determinacion": "CROMOSOMA FILADELFIA - PCR - LMC -",
+    "ub": 220.0
+  },
+  {
+    "codigo": "664155",
+    "determinacion": "CROMOSOMA X, FRAGILIDAD - PCR",
+    "ub": 250.0
+  },
+  {
+    "codigo": "664160",
+    "determinacion": "CROMOSOMA X, FISH",
+    "ub": 250.0
+  },
+  {
+    "codigo": "664165",
+    "determinacion": "CROMOSOMA Y, DELECCIONES del",
+    "ub": 275.0
+  },
+  {
+    "codigo": "664187",
+    "determinacion": "CROSS MATCH, AUTÓLOGO - Citom. de Flujo",
+    "ub": 210.0
+  },
+  {
+    "codigo": "664190",
+    "determinacion": "CROSS MATCH, AUTÓLOGO - Linfotoxicidad.",
+    "ub": 55.0
+  },
+  {
+    "codigo": "664196",
+    "determinacion": "CROSS MATCH, CONTRA PANEL",
+    "ub": 65.0
+  },
+  {
+    "codigo": "664204",
+    "determinacion": "CROSS MATCH, DONANTE - Citom. de Flujo",
+    "ub": 230.0
+  },
+  {
+    "codigo": "664213",
+    "determinacion": "CROSS MATCH, DONANTE - Linfotoxicidad.",
+    "ub": 65.0
+  },
+  {
+    "codigo": "664221",
+    "determinacion": "CROSS MATCH, DTT",
+    "ub": 65.0
+  },
+  {
+    "codigo": "664230",
+    "determinacion": "CROSS MATCH, MATRIMONIAL - Citometría de Flujo",
+    "ub": 300.0
+  },
+  {
+    "codigo": "664240",
+    "determinacion": "CROSS MATCH, PACIENTE HIPERSENSIBILIZADO",
+    "ub": 110.0
+  },
+  {
+    "codigo": "664256",
+    "determinacion": "CRYPTOSPORIDIUM Sp, N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "664264",
+    "determinacion": "CRYPTOCOCCUS NEOFORMANS, Ag.",
+    "ub": 40.0
+  },
+  {
+    "codigo": "664290",
+    "determinacion": "CUERPOS REDUCTORES",
+    "ub": 7.0
+  },
+  {
+    "codigo": "664340",
+    "determinacion": "DEHIDROEPIANDROSTERONA",
+    "ub": 20.0
+  },
+  {
+    "codigo": "664350",
+    "determinacion": "- delta-HEXACLORAN - delta-LINDANO - delta-",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664361",
+    "determinacion": "DENGUE, Ac. Anti- IgG",
+    "ub": 35.0
+  },
+  {
+    "codigo": "664363",
+    "determinacion": "DENGUE, Ac. Anti- IgM",
+    "ub": 35.0
+  },
+  {
+    "codigo": "664365",
+    "determinacion": "DENGUE, Acs. Anti- IgG e IgM (Cualitativo)",
+    "ub": 35.0
+  },
+  {
+    "codigo": "664367",
+    "determinacion": "DENGUE, Ag. - ELISA",
+    "ub": 35.0
+  },
+  {
+    "codigo": "664369",
+    "determinacion": "DENGUE - PCR",
+    "ub": 110.0
+  },
+  {
+    "codigo": "664370",
+    "determinacion": "DENGUE - SEROTIPIFICACIÓN",
+    "ub": 130.0
+  },
+  {
+    "codigo": "664375",
+    "determinacion": "DEOXIPIRIDINOLINAS (DPD)",
+    "ub": 28.0
+  },
+  {
+    "codigo": "664384",
+    "determinacion": "DESIPRAMINA",
+    "ub": 24.0
+  },
+  {
+    "codigo": "664387",
+    "determinacion": "DESMOGLEINA, Ac. Anti- Ag. 1 y 3 IgG",
+    "ub": 110.0
+  },
+  {
+    "codigo": "664388",
+    "determinacion": "DIAZINÓN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664392",
+    "determinacion": "DIELDRIN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664418",
+    "determinacion": "DIMERO-D",
+    "ub": 35.0
+  },
+  {
+    "codigo": "664435",
+    "determinacion": "DIMETOATO",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664444",
+    "determinacion": "DIMETOXIFENILETILAMINA, 3,4- (DMFA)",
+    "ub": 19.0
+  },
+  {
+    "codigo": "664452",
+    "determinacion": "DISULFOTÓN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664461",
+    "determinacion": "DNA, SS - CADENA SIMPLE (DNAss)",
+    "ub": 35.0
+  },
+  {
+    "codigo": "664469",
+    "determinacion": "DNA, DESNATURALIZADO, Ac. Anti -",
+    "ub": 40.0
+  },
+  {
+    "codigo": "664478",
+    "determinacion": "DNA, Muestra Forense",
+    "ub": 1400.0
+  },
+  {
+    "codigo": "664503",
+    "determinacion": "DOPAMINA, TOTAL - sérica",
+    "ub": 20.0
+  },
+  {
+    "codigo": "664512",
+    "determinacion": "DOPAMINA LIBRE - urinaria",
+    "ub": 20.0
+  },
+  {
+    "codigo": "664521",
+    "determinacion": "DOXEPINA",
+    "ub": 25.0
+  },
+  {
+    "codigo": "664546",
+    "determinacion": "ECHINOCOCCUS GRANULOSOS, Ac. IgG Anti-",
+    "ub": 23.0
+  },
+  {
+    "codigo": "664549",
+    "determinacion": "ECHINOCOCCUS GRANULOSOS, Ac. IgM Anti-",
+    "ub": 25.0
+  },
+  {
+    "codigo": "664563",
+    "determinacion": "ECHO COXSACKIE, 1-6 Ac. IgG Anti-",
+    "ub": 24.0
+  },
+  {
+    "codigo": "664566",
+    "determinacion": "ECHO COXSACKIE, 1-6 IgM",
+    "ub": 28.0
+  },
+  {
+    "codigo": "664580",
+    "determinacion": "ECHOVIRUS, Ac. IgG Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "664583",
+    "determinacion": "ECHOVIRUS, Ac. IgM Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "664590",
+    "determinacion": "ECTOPARÁSITOS, Búsqueda e identificación.",
+    "ub": 25.0
+  },
+  {
+    "codigo": "664600",
+    "determinacion": "ELASTASA PANCREÁTICA",
+    "ub": 120.0
+  },
+  {
+    "codigo": "664615",
+    "determinacion": "EMBRIOTOXICIDAD, BIOENSAYO. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "664623",
+    "determinacion": "N",
+    "ub": 50.0
+  },
+  {
+    "codigo": "664632",
+    "determinacion": "ENDOMISIO, Ac. IgA Anti- (EMA IgA)",
+    "ub": 14.0
+  },
+  {
+    "codigo": "664640",
+    "determinacion": "ENDOMISIO, Ac. IgG Anti- (EMA IgG)",
+    "ub": 14.0
+  },
+  {
+    "codigo": "664648",
+    "determinacion": "ENDOSULFAN I",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664649",
+    "determinacion": "ENDOSULFAN II",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664652",
+    "determinacion": "ENDOSULFAN SULFATO",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664666",
+    "determinacion": "ENDRIN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664668",
+    "determinacion": "ENDRIN ALDEHIDO (#)",
+    "ub": null
+  },
+  {
+    "codigo": "664674",
+    "determinacion": "ENTAMOEBA HISTOLYTICA, Ac. IgG Anti-",
+    "ub": 40.0
+  },
+  {
+    "codigo": "664677",
+    "determinacion": "ENTAMOEBA HISTOLYTICA, Ac. IgM Anti-",
+    "ub": 40.0
+  },
+  {
+    "codigo": "664682",
+    "determinacion": "ENTEROCOCOS VANCOMICINA RESISTENTE - PCR",
+    "ub": 95.0
+  },
+  {
+    "codigo": "664691",
+    "determinacion": "ENTEROVIRUS - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "664700",
+    "determinacion": "ENZIMA CONVERTIDORA de ANGIOTENSINA (ECA)",
+    "ub": 40.0
+  },
+  {
+    "codigo": "664717",
+    "determinacion": "EPSTEIN BARR, detección cuantitativa - PCR",
+    "ub": 150.0
+  },
+  {
+    "codigo": "664726",
+    "determinacion": "EPSTEIN BARR, Early Antig. Ac.",
+    "ub": 30.0
+  },
+  {
+    "codigo": "664728",
+    "determinacion": "EPSTEIN BARR, detección cualitativa - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "664734",
+    "determinacion": "ERITROPOYETINA (EPO)",
+    "ub": 45.0
+  },
+  {
+    "codigo": "664738",
+    "determinacion": "ESCHERICHIA COLI - ENTEROPATÓGENA - PCR",
+    "ub": 95.0
+  },
+  {
+    "codigo": "664749",
+    "determinacion": "ESPERMA, Ac. Anti- ESPERMATOZOIDES (DIRECTO)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "664755",
+    "determinacion": "ESPERMA, Ac. Anti- ESPERMATOZOIDES (INDIRECTO)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "664775",
+    "determinacion": "N",
+    "ub": 10.0
+  },
+  {
+    "codigo": "664778",
+    "determinacion": "ESPERMA, CÉLULAS REDONDAS TOTALES EN SEMEN",
+    "ub": 5.0
+  },
+  {
+    "codigo": "664811",
+    "determinacion": "ESPERMA, DIGESTIÓN EN GELATINA ACROSÓMICA",
+    "ub": 20.0
+  },
+  {
+    "codigo": "664825",
+    "determinacion": "N",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664827",
+    "determinacion": "N",
+    "ub": 120.0
+  },
+  {
+    "codigo": "664846",
+    "determinacion": "ESPERMA, INDICE DE TERATOZOOSPERMIA",
+    "ub": 20.0
+  },
+  {
+    "codigo": "664858",
+    "determinacion": "ESPERMA - MODULO I (ESPERMOGRAMA COMPLETO) N",
+    "ub": 49.0
+  },
+  {
+    "codigo": "664860",
+    "determinacion": "ESPERMA - MODULO II N",
+    "ub": 107.0
+  },
+  {
+    "codigo": "664878",
+    "determinacion": "ESPERMA, PRUEBA DE SOBREVIDA ESPERMÁTICA N",
+    "ub": 10.0
+  },
+  {
+    "codigo": "664889",
+    "determinacion": "ESPERMA, RECUENTO DE ESPERMATOZOIDES",
+    "ub": 6.0
+  },
+  {
+    "codigo": "664941",
+    "determinacion": "ESPERMA, SWIM UP (DIAGNÓSTICO)",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664949",
+    "determinacion": "ESPERMA, SWIM UP (INSEMINACIÓN) N",
+    "ub": 100.0
+  },
+  {
+    "codigo": "664971",
+    "determinacion": "ESPERMA, TEST DE HIPERACTIVACIÓN",
+    "ub": 22.0
+  },
+  {
+    "codigo": "664978",
+    "determinacion": "ESPERMA, TEST DE MOST N",
+    "ub": 75.0
+  },
+  {
+    "codigo": "664985",
+    "determinacion": "ESPERMA, TEST HIPOSMÓTICO",
+    "ub": 8.0
+  },
+  {
+    "codigo": "664999",
+    "determinacion": "ESTEATOCRITO (Grasas - materia fecal)",
+    "ub": 9.0
+  },
+  {
+    "codigo": "665008",
+    "determinacion": "ESTIRENO",
+    "ub": 16.0
+  },
+  {
+    "codigo": "665016",
+    "determinacion": "ESTRADIOL BIODISPONIBLE (E2 Biodisponible)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665033",
+    "determinacion": "ESTRIOL LIBRE - sérico.",
+    "ub": 35.0
+  },
+  {
+    "codigo": "665043",
+    "determinacion": "ETIÓN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665050",
+    "determinacion": "EUGLOBULINAS, LISIS de (pre y post-isquemia)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "665053",
+    "determinacion": "EVEROLIMUS",
+    "ub": 90.0
+  },
+  {
+    "codigo": "665055",
+    "determinacion": "EXTASIS - MDMA (Inmunoensayo)",
+    "ub": 45.0
+  },
+  {
+    "codigo": "665059",
+    "determinacion": "FACTOR de COAGULACIÓN II",
+    "ub": 35.0
+  },
+  {
+    "codigo": "665067",
+    "determinacion": "FACTOR de COAGULACIÓN XI",
+    "ub": 35.0
+  },
+  {
+    "codigo": "665076",
+    "determinacion": "FACTOR de COAGULACIÓN XII",
+    "ub": 35.0
+  },
+  {
+    "codigo": "665077",
+    "determinacion": "FACTOR de COAGULACIÓN XIII",
+    "ub": 35.0
+  },
+  {
+    "codigo": "665085",
+    "determinacion": "FACTOR INTRÍNSECO, Ac. Anti-",
+    "ub": 55.0
+  },
+  {
+    "codigo": "665093",
+    "determinacion": "FACTOR REUMATOIDEO (Nefelometría)",
+    "ub": 16.0
+  },
+  {
+    "codigo": "665102",
+    "determinacion": "FACTOR V LEIDEN - PCR",
+    "ub": 75.0
+  },
+  {
+    "codigo": "665116",
+    "determinacion": "FACTOR VON WILLEBRAND, Funcional",
+    "ub": 70.0
+  },
+  {
+    "codigo": "665119",
+    "determinacion": "FACTOR VON WILLEBRAND (Inmunológico)",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665127",
+    "determinacion": "FAMPHUR (FAMFUR)",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665132",
+    "determinacion": "FELBAMATO (#)",
+    "ub": null
+  },
+  {
+    "codigo": "665136",
+    "determinacion": "FENCICLIDINA - FENILCICLOHEXILPIPERIDINA -PCP (IFP)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "665144",
+    "determinacion": "FENETILAMINA - F.E.A.",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665204",
+    "determinacion": "FENITOTRIÓN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665213",
+    "determinacion": "FENOLES - urinarios",
+    "ub": 19.0
+  },
+  {
+    "codigo": "665222",
+    "determinacion": "FENTANILO - urinario",
+    "ub": 50.0
+  },
+  {
+    "codigo": "665230",
+    "determinacion": "FERRITINA",
+    "ub": 15.0
+  },
+  {
+    "codigo": "665247",
+    "determinacion": "FIBROSIS QUÍSTICA, 19 MUTACIONES - PCR",
+    "ub": 310.0
+  },
+  {
+    "codigo": "665255",
+    "determinacion": "FIBROSIS QUÍSTICA, 29 MUTACIONES - PCR",
+    "ub": 450.0
+  },
+  {
+    "codigo": "665258",
+    "determinacion": "FIBROSIS QUÍSTICA, 32 MUTACIONES - PCR",
+    "ub": 465.0
+  },
+  {
+    "codigo": "665265",
+    "determinacion": "FIBROSIS QUISTICA, DF508",
+    "ub": 100.0
+  },
+  {
+    "codigo": "665281",
+    "determinacion": "FILIACIÓN ESTUDIO DNA HASTA 3",
+    "ub": 700.0
+  },
+  {
+    "codigo": "665290",
+    "determinacion": "FISH WILLIAMS",
+    "ub": 410.0
+  },
+  {
+    "codigo": "665298",
+    "determinacion": "FK - 506 - Tacrolimus",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665300",
+    "determinacion": "FLAVIVIRUS",
+    "ub": 90.0
+  },
+  {
+    "codigo": "665307",
+    "determinacion": "FORATO",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665319",
+    "determinacion": "FOSFATASA ÁCIDA LEUCOCITARIA",
+    "ub": 15.0
+  },
+  {
+    "codigo": "665324",
+    "determinacion": "FOSFATASA ACIDA PROSTATICA (RIA)",
+    "ub": 19.0
+  },
+  {
+    "codigo": "665332",
+    "determinacion": "FOSFATASA ÁCIDA TARTRATO RESISTENTE",
+    "ub": 8.0
+  },
+  {
+    "codigo": "665335",
+    "determinacion": "FOSFATASA ÁCIDA TARTRATO RESISTENTE LEUC.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "665349",
+    "determinacion": "FOSFATASA ALCALINA OSEA (RIA)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665375",
+    "determinacion": "FOSFATIDIL COLINA, Ac. IgG Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "665378",
+    "determinacion": "FOSFATIDIL COLINA, Ac. IgM Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "665392",
+    "determinacion": "FOSFATIDIL GLICEROL, Ac. IgG Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "665409",
+    "determinacion": "FOSFATIDIL INOSITOL, Ac. IgG Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "665412",
+    "determinacion": "FOSFATIDIL INOSITOL, Ac. IgM Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "665424",
+    "determinacion": "FOSFATIDIL SERINA, Ac. IgA Anti-",
+    "ub": 35.0
+  },
+  {
+    "codigo": "665426",
+    "determinacion": "FOSFATIDIL SERINA, Ac. IgG ó Ac. Totales Anti-",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665428",
+    "determinacion": "FOSFATIDIL SERINA, Ac. IgM Anti-",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665443",
+    "determinacion": "FOSFOHEXOSA ISOMERASA, Sérica - PHI",
+    "ub": 6.0
+  },
+  {
+    "codigo": "665452",
+    "determinacion": "FOSFOLIPIDOS, Ac. IgG Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "665461",
+    "determinacion": "FOSFOLIPIDOS, Ac. IgM Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "665465",
+    "determinacion": "FOSFOLIPIDOS, Ac. Totales Anti- (IgA, IgG, IgM)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665469",
+    "determinacion": "FREE ANDROGEN INDEX-FAI",
+    "ub": 30.0
+  },
+  {
+    "codigo": "665472",
+    "determinacion": "FRIEDRICH, ATAXIA DE",
+    "ub": 450.0
+  },
+  {
+    "codigo": "665478",
+    "determinacion": "FRUCTOSA, líquido seminal o sérica o urinaria",
+    "ub": 10.0
+  },
+  {
+    "codigo": "665486",
+    "determinacion": "(#)",
+    "ub": null
+  },
+  {
+    "codigo": "665494",
+    "determinacion": "GABAPENTINA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "665508",
+    "determinacion": "GALACTOMANANO de ASPERGILLUS, Ag.",
+    "ub": 100.0
+  },
+  {
+    "codigo": "665512",
+    "determinacion": "GALACTOSA 1-URIDIL FOSFOTRANSFERASA",
+    "ub": 75.0
+  },
+  {
+    "codigo": "665520",
+    "determinacion": "BENCENO - gamma-HEXACLORAN - gamma-LINDANO -",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665529",
+    "determinacion": "GANGLIOSIDO ASIALO GM1, Ac. Anti-",
+    "ub": 200.0
+  },
+  {
+    "codigo": "665533",
+    "determinacion": "GANGLIOSIDO GD 1B, Ac. Anti-",
+    "ub": 150.0
+  },
+  {
+    "codigo": "665537",
+    "determinacion": "GANGLIOSIDO GM1, Ac. (IgG + IgM) Anti-",
+    "ub": 150.0
+  },
+  {
+    "codigo": "665541",
+    "determinacion": "GANGLIOSIDO QUADROSIALO, GQ1b Ac. IgG",
+    "ub": 200.0
+  },
+  {
+    "codigo": "665555",
+    "determinacion": "GENOTIPO de Rho (c/u)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "665563",
+    "determinacion": "GENTAMICINA",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665589",
+    "determinacion": "GLICEROL, sérico. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "665597",
+    "determinacion": "GLICINA (HPLC) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "665606",
+    "determinacion": "GLICOFORINA, Citometría de Flujo",
+    "ub": 30.0
+  },
+  {
+    "codigo": "665621",
+    "determinacion": "GLICOSAMINOGLICANOS, cuantitativo",
+    "ub": 70.0
+  },
+  {
+    "codigo": "665640",
+    "determinacion": "GLOBULINA LIGADORA DE CORTICOIDES (CBG) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "665644",
+    "determinacion": "GLOBULINA TRANSPORTADORA DE TIROXINA (TBG)",
+    "ub": 42.0
+  },
+  {
+    "codigo": "665649",
+    "determinacion": "GLUCOCEREBROSIDASA",
+    "ub": 140.0
+  },
+  {
+    "codigo": "665666",
+    "determinacion": "GLUTATIÓN PEROXIDASA (GPO)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665685",
+    "determinacion": "HAEMOPHILUS INFLUENZA, Ac. IgG Anti-",
+    "ub": 40.0
+  },
+  {
+    "codigo": "665687",
+    "determinacion": "HAEMOPHILUS INFLUENZA, Ac. IgM Anti-",
+    "ub": 40.0
+  },
+  {
+    "codigo": "665691",
+    "determinacion": "HAEMOPHILUS INFLUENZAE B, Ag. - plasmático",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665694",
+    "determinacion": "HAEMOPHILUS INFLUENZAE B, Ag. - urinario",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665708",
+    "determinacion": "HALOPERIDOL",
+    "ub": 30.0
+  },
+  {
+    "codigo": "665715",
+    "determinacion": "HAM, PRUEBA DE",
+    "ub": 10.0
+  },
+  {
+    "codigo": "665724",
+    "determinacion": "HANTAVIRUS, Ac. IgG Anti-",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665726",
+    "determinacion": "HANTAVIRUS, Ac. IgM Anti-",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665743",
+    "determinacion": "HELICOBACTER PYLORI, Ac. IgA Anti-",
+    "ub": 22.0
+  },
+  {
+    "codigo": "665751",
+    "determinacion": "HELICOBACTER PYLORI, Ac. IgG Anti-",
+    "ub": 16.0
+  },
+  {
+    "codigo": "665760",
+    "determinacion": "HELICOBACTER PYLORI, Ac. IgM Anti-",
+    "ub": 16.0
+  },
+  {
+    "codigo": "665768",
+    "determinacion": "HELICOBACTER PYLORI, Aire espirado (#)",
+    "ub": null
+  },
+  {
+    "codigo": "665777",
+    "determinacion": "HELICOBACTER PYLORI (Cultivo - Tipificación).",
+    "ub": 28.0
+  },
+  {
+    "codigo": "665780",
+    "determinacion": "HEMATÍES, PRUEBA ELUSIÓN ÁCIDA DE",
+    "ub": 8.0
+  },
+  {
+    "codigo": "665785",
+    "determinacion": "(HEMOCROMATOSIS HEREDITARIA HH - Gen HFE-",
+    "ub": 80.0
+  },
+  {
+    "codigo": "665787",
+    "determinacion": "HEMOCROMATOSIS, MUTACIÓN Gen C282Y - PCR",
+    "ub": 80.0
+  },
+  {
+    "codigo": "665789",
+    "determinacion": "HEMOCROMATOSIS, MUTACIÓN Gen H63D - PCR",
+    "ub": 80.0
+  },
+  {
+    "codigo": "665791",
+    "determinacion": "HEMOCROMATOSIS, MUTACIÓN Gen S65C - PCR",
+    "ub": 80.0
+  },
+  {
+    "codigo": "665797",
+    "determinacion": "HEMOCULTIVO AEROBIOS AUTOMATIZADO (c/u)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "665802",
+    "determinacion": "HEMOGLOBINA A1 (Hb-A1) Electroforesis",
+    "ub": 12.0
+  },
+  {
+    "codigo": "665820",
+    "determinacion": "HEMOGLOBINA FETAL",
+    "ub": 10.0
+  },
+  {
+    "codigo": "665828",
+    "determinacion": "HEMOGLOBINA S",
+    "ub": 9.0
+  },
+  {
+    "codigo": "665845",
+    "determinacion": "HEMOPEXINA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "665854",
+    "determinacion": "HEMOSIDERINURIA",
+    "ub": 9.0
+  },
+  {
+    "codigo": "665868",
+    "determinacion": "HEPARINA, Ac. Anti- (PFA4) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "665879",
+    "determinacion": "HEPÁTICOS, AUTOANTICUERPOS (panel) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "665896",
+    "determinacion": "HEPATITIS B, Ac. Anti- \"e\" (HBe Ac)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "665905",
+    "determinacion": "HEPATITIS B, Ac. Anti- \"Core\" IgM (HBcM) - (RIA o ELISA)",
+    "ub": 18.0
+  },
+  {
+    "codigo": "665914",
+    "determinacion": "HEPATITIS B, Carga viral",
+    "ub": 185.0
+  },
+  {
+    "codigo": "665931",
+    "determinacion": "HEPATITIS B, DNA viral (HBV-DNA) (PCR - Cualitativo)",
+    "ub": 80.0
+  },
+  {
+    "codigo": "665939",
+    "determinacion": "HEPATITIS C, Ac. Anti- IgM",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665945",
+    "determinacion": "HEPATITIS C, Antígeno",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665956",
+    "determinacion": "HEPATITIS C, Carga viral (PCR)",
+    "ub": 185.0
+  },
+  {
+    "codigo": "665965",
+    "determinacion": "HEPATITIS C, Genotipificación (PCR)",
+    "ub": 135.0
+  },
+  {
+    "codigo": "665973",
+    "determinacion": "HEPATITIS C, LIA",
+    "ub": 150.0
+  },
+  {
+    "codigo": "665982",
+    "determinacion": "HEPATITIS C, RNA Cualitativo - PCR",
+    "ub": 120.0
+  },
+  {
+    "codigo": "665990",
+    "determinacion": "HEPATITIS DELTA, Ac. IgG ó Totales Anti-",
+    "ub": 48.0
+  },
+  {
+    "codigo": "665993",
+    "determinacion": "HEPATITIS DELTA, Ac. IgM Anti-",
+    "ub": 50.0
+  },
+  {
+    "codigo": "666008",
+    "determinacion": "HEPATITIS E, Ac. IgG Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "666011",
+    "determinacion": "HEPATITIS E - PCR",
+    "ub": 125.0
+  },
+  {
+    "codigo": "666016",
+    "determinacion": "HEPTACLORO",
+    "ub": 60.0
+  },
+  {
+    "codigo": "666019",
+    "determinacion": "HEPTACLORO HEPOXIDE",
+    "ub": 60.0
+  },
+  {
+    "codigo": "666028",
+    "determinacion": "HER 2 / neu - ErbB2",
+    "ub": 500.0
+  },
+  {
+    "codigo": "666034",
+    "determinacion": "HERPES SIMPLEX, 1 / 2 - Antic. Totales (IFI)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "666037",
+    "determinacion": "HERPES SIMPLEX, 1 / 2 - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "666038",
+    "determinacion": "HERPES SIMPLEX, 1 / 2 - TIPIFICACIÓN - PCR",
+    "ub": 130.0
+  },
+  {
+    "codigo": "666040",
+    "determinacion": "HERPES SIMPLEX 1, Ac. IgA Anti-",
+    "ub": 22.0
+  },
+  {
+    "codigo": "666042",
+    "determinacion": "HERPES SIMPLEX 1, Ac. IgG ó Totales Anti-",
+    "ub": 19.0
+  },
+  {
+    "codigo": "666050",
+    "determinacion": "HERPES SIMPLEX 1, Ac. IgM Anti-",
+    "ub": 19.0
+  },
+  {
+    "codigo": "666059",
+    "determinacion": "HERPES SIMPLEX 2, Ac. IgA Anti-",
+    "ub": 22.0
+  },
+  {
+    "codigo": "666067",
+    "determinacion": "HERPES SIMPLEX 2, Ac. IgG ó Totales Anti-",
+    "ub": 19.0
+  },
+  {
+    "codigo": "666076",
+    "determinacion": "HERPES SIMPLEX 2, Ac. IgM Anti-",
+    "ub": 19.0
+  },
+  {
+    "codigo": "666084",
+    "determinacion": "HERPES SIMPLEX, Ag.",
+    "ub": 25.0
+  },
+  {
+    "codigo": "666093",
+    "determinacion": "HERPES VIRUS 6 HUMAN, Ac. IgG (HHV6-IgG) Anti-",
+    "ub": 37.0
+  },
+  {
+    "codigo": "666096",
+    "determinacion": "HERPES VIRUS 6 HUMAN, Ac. IgM (HHV6-IgM) Anti-",
+    "ub": 37.0
+  },
+  {
+    "codigo": "666098",
+    "determinacion": "HERPES VIRUS 6 HUMAN - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "666100",
+    "determinacion": "HERPES VIRUS 6 HUMAN - Carga Viral",
+    "ub": 150.0
+  },
+  {
+    "codigo": "666110",
+    "determinacion": "HERPES VIRUS 7, Ac. IgG Anti- HHV",
+    "ub": 45.0
+  },
+  {
+    "codigo": "666113",
+    "determinacion": "HERPES VIRUS 7, Ac. IgM Anti- HHV",
+    "ub": 45.0
+  },
+  {
+    "codigo": "666117",
+    "determinacion": "HERPES VIRUS 8 - Ac. IgG Anti- HHV",
+    "ub": 60.0
+  },
+  {
+    "codigo": "666118",
+    "determinacion": "HERPES VIRUS 8 - Ac. IgM Anti- HHV",
+    "ub": 60.0
+  },
+  {
+    "codigo": "666120",
+    "determinacion": "HERPES VIRUS 8 - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "666136",
+    "determinacion": "HEXANO",
+    "ub": 16.0
+  },
+  {
+    "codigo": "666144",
+    "determinacion": "HEXANODIONA, (2,5-)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "666153",
+    "determinacion": "HEXOSAMINIDASA TOTAL, A y B",
+    "ub": 300.0
+  },
+  {
+    "codigo": "666170",
+    "determinacion": "HIDATIDOSIS, Ac. IgM Anti- (ELISA)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "666173",
+    "determinacion": "HIDATIDOSIS, Ac. IgM Anti- (IFI)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "666183",
+    "determinacion": "HIDROCARBUROS ALIFÁTICOS",
+    "ub": 16.0
+  },
+  {
+    "codigo": "666187",
+    "determinacion": "HIDROCARBUROS AROMÁTICOS",
+    "ub": 16.0
+  },
+  {
+    "codigo": "666196",
+    "determinacion": "HIDROLASAS ÁCIDAS EN LEUCOCITOS (#)",
+    "ub": null
+  },
+  {
+    "codigo": "666204",
+    "determinacion": "HIDROXIPIRENO",
+    "ub": 20.0
+  },
+  {
+    "codigo": "666209",
+    "determinacion": "HIERRO, Médula Osea (MO) - TINCIÓN DE PERLS.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "666211",
+    "determinacion": "HIERRO, TINCIÓN DE",
+    "ub": 8.0
+  },
+  {
+    "codigo": "666213",
+    "determinacion": "HIERRO - Urinario",
+    "ub": 4.0
+  },
+  {
+    "codigo": "666222",
+    "determinacion": "HISTAMINA - Plasmática",
+    "ub": 38.0
+  },
+  {
+    "codigo": "666225",
+    "determinacion": "HISTAMINA - Urinaria",
+    "ub": 38.0
+  },
+  {
+    "codigo": "666238",
+    "determinacion": "HISTONA, Ac. Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "666247",
+    "determinacion": "HISTOPLASMA CAPSULATUM, Ac. IgG Anti-",
+    "ub": 24.0
+  },
+  {
+    "codigo": "666255",
+    "determinacion": "HISTOPLASMA CAPSULATUM, Ac. IgM Anti-",
+    "ub": 24.0
+  },
+  {
+    "codigo": "666264",
+    "determinacion": "HIV - PCR Cualitativo",
+    "ub": 80.0
+  },
+  {
+    "codigo": "666272",
+    "determinacion": "HIV 1 ANTI-P-24 (core)",
+    "ub": 34.0
+  },
+  {
+    "codigo": "666275",
+    "determinacion": "HIV - P-24 (Antigenemia)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "666278",
+    "determinacion": "HIV - P-24 - HIV 1 y 2 (Combo)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "666281",
+    "determinacion": "HIV - RESISTENCIA A ANTIRETROVIRALES",
+    "ub": 400.0
+  },
+  {
+    "codigo": "666284",
+    "determinacion": "HIV - RESISTENCIA A INHIBIDORES DE INTEGRASA",
+    "ub": 150.0
+  },
+  {
+    "codigo": "666300",
+    "determinacion": "HLA A, Molecular",
+    "ub": 150.0
+  },
+  {
+    "codigo": "666303",
+    "determinacion": "HLA B, Molecular",
+    "ub": 150.0
+  },
+  {
+    "codigo": "666332",
+    "determinacion": "HLA B 27 Molecular",
+    "ub": 80.0
+  },
+  {
+    "codigo": "666341",
+    "determinacion": "HLA C Molecular",
+    "ub": 140.0
+  },
+  {
+    "codigo": "666401",
+    "determinacion": "HLA DQ Molecular",
+    "ub": 160.0
+  },
+  {
+    "codigo": "666409",
+    "determinacion": "HLA DR Citometría Flujo",
+    "ub": 100.0
+  },
+  {
+    "codigo": "666426",
+    "determinacion": "HLA DR Molecular",
+    "ub": 150.0
+  },
+  {
+    "codigo": "666443",
+    "determinacion": "HLA DQA1, DQB1 (DIABETES) PCR",
+    "ub": 160.0
+  },
+  {
+    "codigo": "666445",
+    "determinacion": "HLA DQ2-DQ8 (CELIAQUIA) PCR",
+    "ub": 160.0
+  },
+  {
+    "codigo": "666452",
+    "determinacion": "HOMOCISTEINA",
+    "ub": 30.0
+  },
+  {
+    "codigo": "666455",
+    "determinacion": "HOMOCISTINA, Orina",
+    "ub": 15.0
+  },
+  {
+    "codigo": "666486",
+    "determinacion": "HOWELL, TEST (Plasma recalcificado, tiempo de-)",
+    "ub": 5.0
+  },
+  {
+    "codigo": "666529",
+    "determinacion": "HTLV-1 Ac",
+    "ub": 25.0
+  },
+  {
+    "codigo": "666533",
+    "determinacion": "HTLV-1 PCR",
+    "ub": 100.0
+  },
+  {
+    "codigo": "666537",
+    "determinacion": "HTLV-I/II (Partículas o ELISA)",
+    "ub": 23.0
+  },
+  {
+    "codigo": "666540",
+    "determinacion": "HTLV, Confirmatorio (Western Blot)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "666554",
+    "determinacion": "Hu (ANNA-1) Ac. Anti-",
+    "ub": 100.0
+  },
+  {
+    "codigo": "666560",
+    "determinacion": "IA 2, Ac. Anti- (Ac. Anti- TIROSINFOSFATASA 2)",
+    "ub": 50.0
+  },
+  {
+    "codigo": "666570",
+    "determinacion": "IDENTIFICACIÓN MICROBIOLÓGICA AUTOMATIZADA.",
+    "ub": 50.0
+  },
+  {
+    "codigo": "666572",
+    "determinacion": "IDENTIFICACIÓN MICROBIOLÓGICA POR PCR.",
+    "ub": 50.0
+  },
+  {
+    "codigo": "666597",
+    "determinacion": "IgE BC - INMUNOGLOBULINA E Baja Concentración.",
+    "ub": 12.0
+  },
+  {
+    "codigo": "666606",
+    "determinacion": "IgE ESPECÍFICA - INMUNOGLOBULINA E ESPECÍFICA.",
+    "ub": 13.0
+  },
+  {
+    "codigo": "666634",
+    "determinacion": "(#)",
+    "ub": null
+  },
+  {
+    "codigo": "666640",
+    "determinacion": "IgG - INMUNOGLOBULINA G, Índice de (LCR/Sérica) N",
+    "ub": 28.0
+  },
+  {
+    "codigo": "666666",
+    "determinacion": "(#)",
+    "ub": null
+  },
+  {
+    "codigo": "666691",
+    "determinacion": "IL2-R - CD25 receptor soluble (#)",
+    "ub": null
+  },
+  {
+    "codigo": "666700",
+    "determinacion": "INDICAN",
+    "ub": 5.0
+  },
+  {
+    "codigo": "666708",
+    "determinacion": "INDICE de INSULINO RESISTENCIA N",
+    "ub": 13.5
+  },
+  {
+    "codigo": "666711",
+    "determinacion": "INDICE de FUNCIÓN RENAL N",
+    "ub": 3.0
+  },
+  {
+    "codigo": "666713",
+    "determinacion": "N",
+    "ub": 15.5
+  },
+  {
+    "codigo": "666714",
+    "determinacion": "N",
+    "ub": 4.5
+  },
+  {
+    "codigo": "666717",
+    "determinacion": "INDICE de PRODUCCIÓN RETICULOCITARIA N",
+    "ub": 5.0
+  },
+  {
+    "codigo": "666720",
+    "determinacion": "INDICE de RESORCIÓN OSEA N",
+    "ub": 5.0
+  },
+  {
+    "codigo": "666722",
+    "determinacion": "INDICE de RIESGO CARDIOVACULAR N",
+    "ub": 2.0
+  },
+  {
+    "codigo": "666725",
+    "determinacion": "INFLUENZA A, ANTÍGENO (Ag.)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "666734",
+    "determinacion": "INFLUENZA A, Ac. IgG Anti-",
+    "ub": 16.0
+  },
+  {
+    "codigo": "666742",
+    "determinacion": "INFLUENZA A, Ac. IgM Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "666751",
+    "determinacion": "INFLUENZA B, Ac. IgG Anti-",
+    "ub": 16.0
+  },
+  {
+    "codigo": "666760",
+    "determinacion": "INFLUENZA B, Ac. IgM Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "666768",
+    "determinacion": "INFLUENZA B, ANTÍGENO (Ag.)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "666788",
+    "determinacion": "INHIBINA B - sérica",
+    "ub": 100.0
+  },
+  {
+    "codigo": "666819",
+    "determinacion": "INMUNOCOMPLEJOS CIRCULANTES (CIC)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "666848",
+    "determinacion": "INMUNOFIJACIÓN - LCR N",
+    "ub": 50.0
+  },
+  {
+    "codigo": "666850",
+    "determinacion": "INMUNOFIJACIÓN - sérica N",
+    "ub": 50.0
+  },
+  {
+    "codigo": "666852",
+    "determinacion": "INMUNOFIJACIÓN - urinaria N",
+    "ub": 50.0
+  },
+  {
+    "codigo": "666856",
+    "determinacion": "INMUNOMARCACIÓN EN SANGRE PERIFÉRICA. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "666862",
+    "determinacion": "INSULINA, Ac. Anti- (Ac. Anti- IAA)",
+    "ub": 35.0
+  },
+  {
+    "codigo": "666871",
+    "determinacion": "INTERFERON GAMMA",
+    "ub": 100.0
+  },
+  {
+    "codigo": "666879",
+    "determinacion": "INTERLEUQUINA (c/u)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "666888",
+    "determinacion": "IODO-AZIDA Prueba de",
+    "ub": 9.0
+  },
+  {
+    "codigo": "666896",
+    "determinacion": "IONOGRAMA - materia fecal",
+    "ub": 7.0
+  },
+  {
+    "codigo": "666898",
+    "determinacion": "IRREGULARES ANTICUERPOS, Identificación. N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "666905",
+    "determinacion": "ISLOTE LANGERHANS PANCREÁTICOS, Ac. Anti- (ICA)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "666912",
+    "determinacion": "JO-1, Ac. Anti-",
+    "ub": 25.0
+  },
+  {
+    "codigo": "666919",
+    "determinacion": "KETAMINA - urinaria",
+    "ub": 50.0
+  },
+  {
+    "codigo": "666925",
+    "determinacion": "KREMER, TEST DE",
+    "ub": 25.0
+  },
+  {
+    "codigo": "666930",
+    "determinacion": "LA, Ac. Anti- (LA/SSB)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "666932",
+    "determinacion": "LACTOCRITO",
+    "ub": 8.0
+  },
+  {
+    "codigo": "666936",
+    "determinacion": "LACTOFERRINA.",
+    "ub": 14.0
+  },
+  {
+    "codigo": "666939",
+    "determinacion": "LACTOSA, TOLERANCIA A LA N",
+    "ub": 7.5
+  },
+  {
+    "codigo": "666947",
+    "determinacion": "LC-1, Ac. Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "666956",
+    "determinacion": "LEGIONELLA PNEUMOPHILA, Ac. IgG Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "666958",
+    "determinacion": "LEGIONELLA PNEUMOPHILA, Ac. IgM Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "666970",
+    "determinacion": "LEGIONELLA PNEUMOPHILA, Ag. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "666975",
+    "determinacion": "LEISHMANIA, Ac. Anti-",
+    "ub": 25.0
+  },
+  {
+    "codigo": "666978",
+    "determinacion": "LEISHMANIA - PCR",
+    "ub": 95.0
+  },
+  {
+    "codigo": "666982",
+    "determinacion": "LEPTINA",
+    "ub": 50.0
+  },
+  {
+    "codigo": "666990",
+    "determinacion": "LEPTOSPIRA, Ac. Anti- (ELISA / IFI)",
+    "ub": 19.0
+  },
+  {
+    "codigo": "666999",
+    "determinacion": "LEPTOSPIRA, Ac. Anti- (HAI / macroaglutinación)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667007",
+    "determinacion": "LEPTOSPIRA, Ac. IgM Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "667010",
+    "determinacion": "LEPTOSPIRA (Confirmatorio - Microaglutinación)",
+    "ub": 28.0
+  },
+  {
+    "codigo": "667013",
+    "determinacion": "LEPTOSPIRA (cultivo)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667027",
+    "determinacion": "(#)",
+    "ub": null
+  },
+  {
+    "codigo": "667059",
+    "determinacion": "LEVADURAS SENSIBILIDAD - SCREENING (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667064",
+    "determinacion": "LEVADURAS TIPIFICACIÓN",
+    "ub": 30.0
+  },
+  {
+    "codigo": "667076",
+    "determinacion": "LEVODOPA - sérica",
+    "ub": 28.0
+  },
+  {
+    "codigo": "667079",
+    "determinacion": "LEVODOPA - urinaria",
+    "ub": 28.0
+  },
+  {
+    "codigo": "667093",
+    "determinacion": "LEVULOSA - semen (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667096",
+    "determinacion": "LEVULOSA - sérica (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667099",
+    "determinacion": "LEVULOSA - urinaria (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667119",
+    "determinacion": "LINDANE",
+    "ub": 60.0
+  },
+  {
+    "codigo": "667127",
+    "determinacion": "LINFOCITARIO, CULTIVO MIXTO (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667153",
+    "determinacion": "LINFOCITOS PERIFÉRICOS \"SRY\" (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667170",
+    "determinacion": "LIPASA - urinaria (Lipasuria)",
+    "ub": 4.0
+  },
+  {
+    "codigo": "667187",
+    "determinacion": "LIPOPROTEINA a - Lp(a)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667210",
+    "determinacion": "LISOZIMA",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667230",
+    "determinacion": "LISTERIA, CULTIVO",
+    "ub": 12.0
+  },
+  {
+    "codigo": "667240",
+    "determinacion": "LISTERIA, Ac. IgM Anti-",
+    "ub": 12.0
+  },
+  {
+    "codigo": "667242",
+    "determinacion": "LISTERIA - PCR",
+    "ub": 80.0
+  },
+  {
+    "codigo": "667260",
+    "determinacion": "LIXITOL",
+    "ub": 60.0
+  },
+  {
+    "codigo": "667262",
+    "determinacion": "LKM, Ac. Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667270",
+    "determinacion": "LYNCH, SINDROME DE - GEN MLH1 (MYH)",
+    "ub": 2300.0
+  },
+  {
+    "codigo": "667273",
+    "determinacion": "LYNCH, SINDROME DE - GEN MSH6 (M6Y)",
+    "ub": 1800.0
+  },
+  {
+    "codigo": "667274",
+    "determinacion": "LYNCH, SINDROME DE - GEN PMS2 (M3Y)",
+    "ub": 1850.0
+  },
+  {
+    "codigo": "667278",
+    "determinacion": "MACROAMILASA",
+    "ub": 25.0
+  },
+  {
+    "codigo": "667284",
+    "determinacion": "MACRO CK",
+    "ub": 14.0
+  },
+  {
+    "codigo": "667289",
+    "determinacion": "MACROPROLACTINEMIA",
+    "ub": 30.0
+  },
+  {
+    "codigo": "667300",
+    "determinacion": "MAGNESIO - eritrocitario",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667304",
+    "determinacion": "MAGNESIO - pelo",
+    "ub": 30.0
+  },
+  {
+    "codigo": "667315",
+    "determinacion": "MAG-SGPG, Ac. IgM",
+    "ub": 120.0
+  },
+  {
+    "codigo": "667319",
+    "determinacion": "MALATION",
+    "ub": 60.0
+  },
+  {
+    "codigo": "667324",
+    "determinacion": "MALÓN DIALDEHIDO - TBARS",
+    "ub": 19.0
+  },
+  {
+    "codigo": "667338",
+    "determinacion": "MANGANESO - pelo",
+    "ub": 30.0
+  },
+  {
+    "codigo": "667341",
+    "determinacion": "MANGANESO - sérico",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667343",
+    "determinacion": "MANGANESO - urinario",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667349",
+    "determinacion": "MAO plaquetario",
+    "ub": 60.0
+  },
+  {
+    "codigo": "667366",
+    "determinacion": "MEMBRANA BASAL, Ac. Anti-",
+    "ub": 8.0
+  },
+  {
+    "codigo": "667375",
+    "determinacion": "MERCURIO - pelo (Hg-pelo)",
+    "ub": 35.0
+  },
+  {
+    "codigo": "667392",
+    "determinacion": "METACUALONA",
+    "ub": 24.0
+  },
+  {
+    "codigo": "667401",
+    "determinacion": "METADONA (FPIA)",
+    "ub": 22.0
+  },
+  {
+    "codigo": "667409",
+    "determinacion": "METAHEMOGLOBINA",
+    "ub": 10.0
+  },
+  {
+    "codigo": "667426",
+    "determinacion": "METANEFRINAS LIBRES - plasmáticas",
+    "ub": 25.0
+  },
+  {
+    "codigo": "667435",
+    "determinacion": "METANOL - sangre",
+    "ub": 25.0
+  },
+  {
+    "codigo": "667439",
+    "determinacion": "METAPNEUMOVIRUS HUMANO, Ag. (hMPV)",
+    "ub": 40.0
+  },
+  {
+    "codigo": "667440",
+    "determinacion": "METAPNEUMOVIRUS HUMANO, Ag. (hMPV) - PCR",
+    "ub": 95.0
+  },
+  {
+    "codigo": "667443",
+    "determinacion": "METIL ETIL CETONA",
+    "ub": 25.0
+  },
+  {
+    "codigo": "667449",
+    "determinacion": "METIL PARATHION",
+    "ub": 60.0
+  },
+  {
+    "codigo": "667454",
+    "determinacion": "METIL-TRITIÓN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "667469",
+    "determinacion": "METILNICOTINAMIDA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667486",
+    "determinacion": "METOTREXATO",
+    "ub": 40.0
+  },
+  {
+    "codigo": "667489",
+    "determinacion": "N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "667490",
+    "determinacion": "PRODUCTORES DE MICOSIS PROFUNDAS O N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "667491",
+    "determinacion": "N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "667495",
+    "determinacion": "MICROAGREGADO PLAQUETARIOS (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667499",
+    "determinacion": "MICROARRAYS - ESTUDIO GENETICO (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667503",
+    "determinacion": "MICROGLOBULINA BETA 2",
+    "ub": 18.0
+  },
+  {
+    "codigo": "667520",
+    "determinacion": "MICROSPORIDIA INVESTIGACIÓN",
+    "ub": 15.0
+  },
+  {
+    "codigo": "667527",
+    "determinacion": "MIELOPEROXIDASA, Ac. Ant- (Inmunológica)",
+    "ub": 70.0
+  },
+  {
+    "codigo": "667529",
+    "determinacion": "MIELOPEROXIDASA, (Citoquímica)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "667537",
+    "determinacion": "MIOCARDIO, Ac. Anti-",
+    "ub": 8.0
+  },
+  {
+    "codigo": "667546",
+    "determinacion": "MIOGLOBINA - sérica",
+    "ub": 13.0
+  },
+  {
+    "codigo": "667550",
+    "determinacion": "MIOGLOBINA - urinaria",
+    "ub": 15.0
+  },
+  {
+    "codigo": "667571",
+    "determinacion": "MITOCONDRIAL M2, Ac. Anti- (AMA M2)",
+    "ub": 27.0
+  },
+  {
+    "codigo": "667580",
+    "determinacion": "MONOSACÁRIDOS (Cromatografía)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "667597",
+    "determinacion": "MOPEG (3-METOXI, 4-HIDROXI- FENIL ETIL GLICOL)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667606",
+    "determinacion": "MUCOPOLISACARIDOS - urinarios (cuantitativo)",
+    "ub": 65.0
+  },
+  {
+    "codigo": "667621",
+    "determinacion": "MUCOSEMEN CRUZADO (método microscópico)",
+    "ub": 26.0
+  },
+  {
+    "codigo": "667631",
+    "determinacion": "MUSCULO ESTRIADO, Ac. Anti-",
+    "ub": 12.0
+  },
+  {
+    "codigo": "667636",
+    "determinacion": "MuSK, Ac. Anti-",
+    "ub": 220.0
+  },
+  {
+    "codigo": "667648",
+    "determinacion": "MYCOAVIUM COMPLEX - PCR (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667657",
+    "determinacion": "MYCOBACTERIA Sp, HEMOCULTIVO",
+    "ub": 17.0
+  },
+  {
+    "codigo": "667660",
+    "determinacion": "MYCOBACTERIA ATÍPICA - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "667669",
+    "determinacion": "MYCOBACTERIUM TUBERCULOSIS, DNA - PCR",
+    "ub": 70.0
+  },
+  {
+    "codigo": "667674",
+    "determinacion": "MYCOBACTERIUM TUBERCULOSIS, en LCR (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667691",
+    "determinacion": "MYCOPLASMA - UREAPLASMA, Ac. Anti-",
+    "ub": 35.0
+  },
+  {
+    "codigo": "667700",
+    "determinacion": "MYCOPLASMA - UREAPLASMA, CULTIVO",
+    "ub": 25.0
+  },
+  {
+    "codigo": "667708",
+    "determinacion": "MYCOPLASMA HOMINIS, CULTIVO - Aislamiento",
+    "ub": 25.0
+  },
+  {
+    "codigo": "667717",
+    "determinacion": "MYCOPLASMA PNEUMONIAE, Ac. IgM Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "667725",
+    "determinacion": "MYCOPLASMA PNEUMONIAE, ANTÍGENO (Ag)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667734",
+    "determinacion": "MYCOPLASMA PNEUMONIAE, cultivo (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667736",
+    "determinacion": "MYCOPLASMA PNEUMONIAE - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "667742",
+    "determinacion": "N,N-DIMETILTRIPTAMINA",
+    "ub": 24.0
+  },
+  {
+    "codigo": "667759",
+    "determinacion": "NEONATAL, BIOTINIDASA",
+    "ub": 7.0
+  },
+  {
+    "codigo": "667768",
+    "determinacion": "NEONATAL, GALACTOSEMIA",
+    "ub": 7.0
+  },
+  {
+    "codigo": "667773",
+    "determinacion": "NEONATAL, LEUCINA",
+    "ub": 12.0
+  },
+  {
+    "codigo": "667775",
+    "determinacion": "N (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667777",
+    "determinacion": "NEONATAL, T.I.R. (TRIPSINA INMUNOREATIVA)",
+    "ub": 8.0
+  },
+  {
+    "codigo": "667785",
+    "determinacion": "NEONATAL, T.S.H.",
+    "ub": 7.0
+  },
+  {
+    "codigo": "667794",
+    "determinacion": "NEUMOCOCO, Ac. Anti-",
+    "ub": 100.0
+  },
+  {
+    "codigo": "667802",
+    "determinacion": "NEURON SPECIFIC ENOLASE - NSE",
+    "ub": 39.0
+  },
+  {
+    "codigo": "667810",
+    "determinacion": "NEUTRÓFILOS, ACTIVIDAD FAGOCITARIA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667828",
+    "determinacion": "NIQUEL URINARIO (Ni urinario)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667836",
+    "determinacion": "NITRÓGENO NO PROTEICO",
+    "ub": 3.0
+  },
+  {
+    "codigo": "667840",
+    "determinacion": "NMDA, Ac. IgG Anti- RECEPTOR - LCR",
+    "ub": 80.0
+  },
+  {
+    "codigo": "667841",
+    "determinacion": "NMDA, Ac. IgG Anti- RECEPTOR - sangre",
+    "ub": 80.0
+  },
+  {
+    "codigo": "667845",
+    "determinacion": "NORMETANEFRINA - urinaria",
+    "ub": 25.0
+  },
+  {
+    "codigo": "667849",
+    "determinacion": "NOROVIRUS",
+    "ub": 111.0
+  },
+  {
+    "codigo": "667853",
+    "determinacion": "NORTRIPTILINA - sérica",
+    "ub": 19.0
+  },
+  {
+    "codigo": "667862",
+    "determinacion": "N TELOPÉPTIDOS - COLÁGENO TIPO I (NTX)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "667871",
+    "determinacion": "NUCLEOLO, Ac. Anti-",
+    "ub": 15.0
+  },
+  {
+    "codigo": "667882",
+    "determinacion": "OPIACEOS - CONFIRMATORIO",
+    "ub": 120.0
+  },
+  {
+    "codigo": "667905",
+    "determinacion": "ORTO CRESOL (2-metilfenol)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667913",
+    "determinacion": "ORTO METIL BUFOTENINA",
+    "ub": 24.0
+  },
+  {
+    "codigo": "667919",
+    "determinacion": "ORTO,O,O - TIETILFOSFOROTOATO",
+    "ub": 60.0
+  },
+  {
+    "codigo": "667926",
+    "determinacion": "OSMOLALIDAD - urinaria",
+    "ub": 5.0
+  },
+  {
+    "codigo": "667939",
+    "determinacion": "OSTEOCALCINA",
+    "ub": 25.0
+  },
+  {
+    "codigo": "667947",
+    "determinacion": "OVARIO, Ac. Anti-",
+    "ub": 80.0
+  },
+  {
+    "codigo": "667964",
+    "determinacion": "OXICODON A - urinaria",
+    "ub": 40.0
+  },
+  {
+    "codigo": "667973",
+    "determinacion": "p53 Ac. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667982",
+    "determinacion": "p53 mutante (#)",
+    "ub": null
+  },
+  {
+    "codigo": "667999",
+    "determinacion": "PANEL HEPÁTICO INMUNOLÓGICO N",
+    "ub": 150.0
+  },
+  {
+    "codigo": "668009",
+    "determinacion": "PAPILOMA VIRUS HUMANO - HPV (Carga viral)",
+    "ub": 160.0
+  },
+  {
+    "codigo": "668018",
+    "determinacion": "N",
+    "ub": 40.0
+  },
+  {
+    "codigo": "668024",
+    "determinacion": "PARA AMINOFENOL (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668110",
+    "determinacion": "PARACOCCIDIOIDES BRASILIENSIS, Ac. IgG Anti- (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668115",
+    "determinacion": "PARACOCCIDIOIDES BRASILIENSIS, Ac. IgM Anti- (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668127",
+    "determinacion": "PARACOCCIDIOIDES SPP, Ac. Anti- Totales",
+    "ub": 29.0
+  },
+  {
+    "codigo": "668135",
+    "determinacion": "PARAINFLUENZA I, Ac. Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668137",
+    "determinacion": "PARAINFLUENZA I, Ac. IgM Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668139",
+    "determinacion": "PARAINFLUENZA I, Ag.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668142",
+    "determinacion": "PARAINFLUENZA II, Ac. Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668144",
+    "determinacion": "PARAINFLUENZA II, Ac. IgM Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668146",
+    "determinacion": "PARAINFLUENZA II, Ag.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668149",
+    "determinacion": "PARAINFLUENZA III, Ac. Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668151",
+    "determinacion": "PARAINFLUENZA III, Ac. IgM Anti-",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668153",
+    "determinacion": "PARAINFLUENZA III, Ag.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668156",
+    "determinacion": "PARANITROFENOL",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668158",
+    "determinacion": "PARÁSITOS - biopsias o líquidos de punción",
+    "ub": 25.0
+  },
+  {
+    "codigo": "668161",
+    "determinacion": "PARATHORMONA (PTH) (MOLECULA MEDIA)",
+    "ub": 19.0
+  },
+  {
+    "codigo": "668170",
+    "determinacion": "PARATIÓN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "668178",
+    "determinacion": "PAROTIDITIS, Ac. IgG Anti-",
+    "ub": 15.0
+  },
+  {
+    "codigo": "668187",
+    "determinacion": "PAROTIDITIS, Ac. IgM Anti-",
+    "ub": 16.0
+  },
+  {
+    "codigo": "668195",
+    "determinacion": "PAROTIDITIS, Ac. especif. por FC",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668204",
+    "determinacion": "PAROTIDITIS, Ac. solubles (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668212",
+    "determinacion": "PAROTIDITIS, Ag. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668221",
+    "determinacion": "PAROTIDITIS, Ag. en LCR (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668229",
+    "determinacion": "PARVOVIRUS, Ac. IgG Anti-",
+    "ub": 40.0
+  },
+  {
+    "codigo": "668238",
+    "determinacion": "PARVOVIRUS, Ac. IgM Anti-",
+    "ub": 45.0
+  },
+  {
+    "codigo": "668241",
+    "determinacion": "PARVOVIRUS B19 - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "668272",
+    "determinacion": "PENTACLOROFENOL",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668281",
+    "determinacion": "PEPTIDO C",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668286",
+    "determinacion": "PEPTIDO INTESTINAL VASOACTIVO (VIP)",
+    "ub": 220.0
+  },
+  {
+    "codigo": "668289",
+    "determinacion": "PÉPTIDO PROCOLÁGENO",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668298",
+    "determinacion": "PERFIL LIPÍDICO N",
+    "ub": 11.0
+  },
+  {
+    "codigo": "668304",
+    "determinacion": "PERFIL MINERAL - en cabello",
+    "ub": 200.0
+  },
+  {
+    "codigo": "668306",
+    "determinacion": "PERFIL MINERAL - en orina",
+    "ub": 200.0
+  },
+  {
+    "codigo": "668315",
+    "determinacion": "PEROXIDASA TIROIDEO, Ac. Anti- (ATPO / TPO)",
+    "ub": 12.0
+  },
+  {
+    "codigo": "668327",
+    "determinacion": "PESTICIDAS NITROGENADOS - c/u",
+    "ub": 60.0
+  },
+  {
+    "codigo": "668348",
+    "determinacion": "PIRIDINOLINA",
+    "ub": 28.0
+  },
+  {
+    "codigo": "668358",
+    "determinacion": "PLAQUETARIA ADHESIVIDAD",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668366",
+    "determinacion": "PLAQUETARIA AGREGACION (con 6 inductores)",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668375",
+    "determinacion": "PLAQUETAS, Ac. Anti- (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668379",
+    "determinacion": "PLASMA RICO EN PLAQUETAS, PREPARACIÓN DE (PRP)",
+    "ub": 120.0
+  },
+  {
+    "codigo": "668383",
+    "determinacion": "PLASMINÓGENO N",
+    "ub": 38.0
+  },
+  {
+    "codigo": "668393",
+    "determinacion": "PLASMODIUM SP, Antígeno.",
+    "ub": 16.0
+  },
+  {
+    "codigo": "668397",
+    "determinacion": "PLATA (Ag) - sérica",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668400",
+    "determinacion": "PLATA (Ag) - urinaria",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668409",
+    "determinacion": "PLOMO (Pb) - pelo",
+    "ub": 30.0
+  },
+  {
+    "codigo": "668418",
+    "determinacion": "PM-1, Ac. Anti- (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668426",
+    "determinacion": "PNEUMOCYSTIS CARINII, IFD",
+    "ub": 15.0
+  },
+  {
+    "codigo": "668435",
+    "determinacion": "PODER BACTERICIDA DEL SUERO (PBS)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668440",
+    "determinacion": "PODER INHIBITORIO DEL SUERO (P.I.S.)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668446",
+    "determinacion": "POLICLOROBIFENILOS",
+    "ub": 45.0
+  },
+  {
+    "codigo": "668450",
+    "determinacion": "POLIMORFISMO IL 28B",
+    "ub": 311.0
+  },
+  {
+    "codigo": "668460",
+    "determinacion": "POLIMORFONUCLEARES, Quimiotáxis",
+    "ub": 35.0
+  },
+  {
+    "codigo": "668463",
+    "determinacion": "POLIOMAVIRUS BK, Carga viral - sangre u orina",
+    "ub": 150.0
+  },
+  {
+    "codigo": "668464",
+    "determinacion": "POLIOMAVIRUS BK, PCR - sangre u orina",
+    "ub": 110.0
+  },
+  {
+    "codigo": "668466",
+    "determinacion": "POLIOMAVIRUS JC, Carga viral - sangre u orina",
+    "ub": 150.0
+  },
+  {
+    "codigo": "668467",
+    "determinacion": "POLIOMAVIRUS JC, PCR - LCR",
+    "ub": 106.0
+  },
+  {
+    "codigo": "668469",
+    "determinacion": "POLIQUISTOSIS RENAL - PCR (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668486",
+    "determinacion": "PORFIRINAS - séricas",
+    "ub": 12.0
+  },
+  {
+    "codigo": "668489",
+    "determinacion": "PORFIRINAS, INDICE de - plasmáticas",
+    "ub": 25.0
+  },
+  {
+    "codigo": "668493",
+    "determinacion": "PORFIRINAS TOTALES - eritrocitarias",
+    "ub": 15.0
+  },
+  {
+    "codigo": "668529",
+    "determinacion": "PORFOBILINÓGENO (Cuantitativo) - urinario",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668537",
+    "determinacion": "POTASIO - eritrocitario (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668546",
+    "determinacion": "PREALBÚMINA",
+    "ub": 10.0
+  },
+  {
+    "codigo": "668563",
+    "determinacion": "PROCALCITONINA",
+    "ub": 75.0
+  },
+  {
+    "codigo": "668571",
+    "determinacion": "PROINSULINA - plasmática (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668580",
+    "determinacion": "PROGESTERONA 17-HIDROXI (17-OH-Pg)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "668584",
+    "determinacion": "PROMETRYN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "668588",
+    "determinacion": "PROPAZINA",
+    "ub": 60.0
+  },
+  {
+    "codigo": "668597",
+    "determinacion": "PROPOXIFENO - NORPROPOXIFENO",
+    "ub": 23.0
+  },
+  {
+    "codigo": "668606",
+    "determinacion": "PROTEÍNA BÁSICA de MIELINA",
+    "ub": 120.0
+  },
+  {
+    "codigo": "668614",
+    "determinacion": "PROTEÍNA C FUNCIONAL - Cromogénico",
+    "ub": 45.0
+  },
+  {
+    "codigo": "668623",
+    "determinacion": "PROTEÍNA C REACTIVA - ULTRASENSIBLE (PCRus)",
+    "ub": 12.0
+  },
+  {
+    "codigo": "668627",
+    "determinacion": "PROTEÍNA del EPIDÍDIMO HUMANO 4 (HE4) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668631",
+    "determinacion": "PROTEÍNA S Libre = Inmunoturbidimétrio",
+    "ub": 45.0
+  },
+  {
+    "codigo": "668640",
+    "determinacion": "PROTEÍNA S Total",
+    "ub": 45.0
+  },
+  {
+    "codigo": "668648",
+    "determinacion": "PROTEÍNA S Funcional = coagulométrico",
+    "ub": 85.0
+  },
+  {
+    "codigo": "668656",
+    "determinacion": "PROTEINASA 3 (PR3), Ac. Anti-",
+    "ub": 50.0
+  },
+  {
+    "codigo": "668691",
+    "determinacion": "PROTROMBINA 20.210",
+    "ub": 75.0
+  },
+  {
+    "codigo": "668710",
+    "determinacion": "PSEUDOMONAS, Ac. Anti-",
+    "ub": 70.0
+  },
+  {
+    "codigo": "668734",
+    "determinacion": "QUERATINOCITOS (PIEL) Ac. Anti-",
+    "ub": 90.0
+  },
+  {
+    "codigo": "668768",
+    "determinacion": "QUINIDINA",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668780",
+    "determinacion": "REARREGLO DEL IGH/FGFR3, Estudio para (FISH)",
+    "ub": 410.0
+  },
+  {
+    "codigo": "668783",
+    "determinacion": "REARREGLO DEL IGH/MAF, Estudio para (FISH)",
+    "ub": 410.0
+  },
+  {
+    "codigo": "668794",
+    "determinacion": "REARREGLO DEL TcR (citrometría de flujo)",
+    "ub": 300.0
+  },
+  {
+    "codigo": "668800",
+    "determinacion": "RECEPTOR de FSH, Ac. Anti- (RFSH)",
+    "ub": 120.0
+  },
+  {
+    "codigo": "668802",
+    "determinacion": "RECEPTOR de TSH, Ac. Anti- (TRAB's o TRAB o TBII)",
+    "ub": 40.0
+  },
+  {
+    "codigo": "668816",
+    "determinacion": "RECEPTOR SOLUBLE DE TRANSFERRINA (sTRF)",
+    "ub": 39.0
+  },
+  {
+    "codigo": "668819",
+    "determinacion": "RENINA-ANGIOTENSINA / RENINA ACTIVA",
+    "ub": 18.0
+  },
+  {
+    "codigo": "668828",
+    "determinacion": "RESISTENCIA a la PROTEÍNA C ACTIVADA",
+    "ub": 35.0
+  },
+  {
+    "codigo": "668836",
+    "determinacion": "RETICULINA, Ac. Anti- (ARA)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "668845",
+    "determinacion": "RETINA, Ac. Anti- (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668853",
+    "determinacion": "Ri (ANNA-2), Ac. Anti- (NEURONAL NUCLEAR-2)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "668860",
+    "determinacion": "RIBOSOMAL, Ac. Anti- Proteina P (Anti-Riv P)",
+    "ub": 45.0
+  },
+  {
+    "codigo": "668870",
+    "determinacion": "RICKETTSIAS PROWAZEKII, Ac. IgG Anti-",
+    "ub": 45.0
+  },
+  {
+    "codigo": "668874",
+    "determinacion": "RICKETTSIAS TYPHI, Ac. IgG Anti-",
+    "ub": 45.0
+  },
+  {
+    "codigo": "668878",
+    "determinacion": "RINOVIRUS, Ag.",
+    "ub": 22.0
+  },
+  {
+    "codigo": "668882",
+    "determinacion": "RISPERIDONA",
+    "ub": 60.0
+  },
+  {
+    "codigo": "668888",
+    "determinacion": "RNA, Ac. Anti- (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668896",
+    "determinacion": "RNP, Ac. Anti- (RIBONUCLEOPROTEINAS)",
+    "ub": 16.0
+  },
+  {
+    "codigo": "668905",
+    "determinacion": "Ro, Ac. Anti- (Ro/SSA)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "668918",
+    "determinacion": "ROSA de BENGALA",
+    "ub": 8.0
+  },
+  {
+    "codigo": "668930",
+    "determinacion": "ROTAVIRUS - AG -AC- MN (ELISA)",
+    "ub": 32.0
+  },
+  {
+    "codigo": "668934",
+    "determinacion": "ROTAVIRUS - AcC-",
+    "ub": 40.0
+  },
+  {
+    "codigo": "668939",
+    "determinacion": "ROTAVIRUS, Ag.",
+    "ub": 22.0
+  },
+  {
+    "codigo": "668947",
+    "determinacion": "SACAROSA",
+    "ub": 12.0
+  },
+  {
+    "codigo": "668954",
+    "determinacion": "SACCHAROMYSES CEREVISIAE, Ac. Anti- IgA (ASCA)",
+    "ub": 50.0
+  },
+  {
+    "codigo": "668956",
+    "determinacion": "SACCHAROMYSES CEREVISIAE, Ac. Anti- IgG (ASCA)",
+    "ub": 50.0
+  },
+  {
+    "codigo": "668964",
+    "determinacion": "SALIVA, Ex. Físico-Químico (#)",
+    "ub": null
+  },
+  {
+    "codigo": "668977",
+    "determinacion": "SANGRIA, TIEMPO DE - Método de Ivy N",
+    "ub": 8.0
+  },
+  {
+    "codigo": "668982",
+    "determinacion": "SARAMPION, Ac. IgG Anti-",
+    "ub": 15.0
+  },
+  {
+    "codigo": "668990",
+    "determinacion": "SARAMPION, Ac. IgM Anti-",
+    "ub": 16.0
+  },
+  {
+    "codigo": "668999",
+    "determinacion": "SCLERODERMIA - SCL 70, Ac. Anti-",
+    "ub": 20.0
+  },
+  {
+    "codigo": "669007",
+    "determinacion": "SCORE de MOCO",
+    "ub": 10.0
+  },
+  {
+    "codigo": "669016",
+    "determinacion": "SELENIO (AA) - sérico",
+    "ub": 20.0
+  },
+  {
+    "codigo": "669019",
+    "determinacion": "SELENIO - urinario",
+    "ub": 20.0
+  },
+  {
+    "codigo": "669026",
+    "determinacion": "SENSIBILIDAD ALIMENTARIA, PANEL de Ac. IgG Anti- N",
+    "ub": 80.0
+  },
+  {
+    "codigo": "669030",
+    "determinacion": "SERINA - plasmática",
+    "ub": 50.0
+  },
+  {
+    "codigo": "669032",
+    "determinacion": "SERINA - plasmática - (PANEO COMPLETO)",
+    "ub": 220.0
+  },
+  {
+    "codigo": "669039",
+    "determinacion": "SEROTONINA, GEN TRANSPORTADOR de",
+    "ub": 97.0
+  },
+  {
+    "codigo": "669041",
+    "determinacion": "SEROTONINA - plaquetaria",
+    "ub": 120.0
+  },
+  {
+    "codigo": "669045",
+    "determinacion": "SEROTONINA - urinaria",
+    "ub": 24.0
+  },
+  {
+    "codigo": "669054",
+    "determinacion": "SIFILIS (ELISA) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669055",
+    "determinacion": "SIFILIS (ELISA RECOMBINANTE) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669058",
+    "determinacion": "SILICIO - esputo",
+    "ub": 20.0
+  },
+  {
+    "codigo": "669067",
+    "determinacion": "SIMANZINA",
+    "ub": 60.0
+  },
+  {
+    "codigo": "669076",
+    "determinacion": "SINCICIAL RESPIRATORIO, Ac. IgG Anti-",
+    "ub": 17.0
+  },
+  {
+    "codigo": "669084",
+    "determinacion": "SINCICIAL RESPIRATORIO, Ac. IgM Anti-",
+    "ub": 17.0
+  },
+  {
+    "codigo": "669093",
+    "determinacion": "SINCICIAL RESPIRATORIO, ANTIGENO (Ag.)",
+    "ub": 22.0
+  },
+  {
+    "codigo": "669102",
+    "determinacion": "FENOTIPIFICACIÓN.- Jak 2 (JANUS QUINASA 2) -",
+    "ub": 300.0
+  },
+  {
+    "codigo": "669103",
+    "determinacion": "FENOTIPIFICACIÓN.- Jak 2 (JANUS QUINASA 2) –",
+    "ub": 300.0
+  },
+  {
+    "codigo": "669105",
+    "determinacion": "SIROLIMUS, DROGA CITOSTÁTICA - RAPAMICINA",
+    "ub": 70.0
+  },
+  {
+    "codigo": "669110",
+    "determinacion": "SM, Ac. Anti-",
+    "ub": 15.0
+  },
+  {
+    "codigo": "669118",
+    "determinacion": "SOMATOMEDINA C- IGFB1",
+    "ub": 35.0
+  },
+  {
+    "codigo": "669127",
+    "determinacion": "N",
+    "ub": 18.0
+  },
+  {
+    "codigo": "669132",
+    "determinacion": "STREPTOCOCCUS GRUPO B, Ag. - sérico",
+    "ub": 25.0
+  },
+  {
+    "codigo": "669135",
+    "determinacion": "STREPTOCOCCUS GRUPO B, Ag. - urinario",
+    "ub": 25.0
+  },
+  {
+    "codigo": "669157",
+    "determinacion": "STREPTOCOCCUS PNEUMONIAE, Ag. - esputo",
+    "ub": 25.0
+  },
+  {
+    "codigo": "669161",
+    "determinacion": "STREPTOCOCCUS PNEUMONIAE, Ag. - sérico",
+    "ub": 25.0
+  },
+  {
+    "codigo": "669164",
+    "determinacion": "STREPTOCOCCUS PNEUMONIAE, Ag. - urinario",
+    "ub": 25.0
+  },
+  {
+    "codigo": "669170",
+    "determinacion": "STREPTOCOCCUS PNEUMONIAE - PCR",
+    "ub": 90.0
+  },
+  {
+    "codigo": "669180",
+    "determinacion": "STREPTOZYME, TEST (ESTREPTOZIMA)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "669187",
+    "determinacion": "SUBUNIDAD Alfa HIPOFISIARIA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669195",
+    "determinacion": "SUCCINIL ACETONA - urinaria (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669204",
+    "determinacion": "SUCCINIL PURINAS",
+    "ub": 150.0
+  },
+  {
+    "codigo": "669212",
+    "determinacion": "SUCROSA, TEST DE",
+    "ub": 10.0
+  },
+  {
+    "codigo": "669223",
+    "determinacion": "SUDOR, TEST CONFIRMATORIO. N",
+    "ub": 50.0
+  },
+  {
+    "codigo": "669229",
+    "determinacion": "SULFAHEMOGLOBINA POR COOXIMETRIA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669238",
+    "determinacion": "SULFATOS - urinarios",
+    "ub": 15.0
+  },
+  {
+    "codigo": "669246",
+    "determinacion": "SULFOTEP",
+    "ub": 60.0
+  },
+  {
+    "codigo": "669255",
+    "determinacion": "SUPERÓXIDO DISMUTASA (S.O.D.) - sérica",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669265",
+    "determinacion": "SUSTANCIA INTERCELULAR Ac Anti",
+    "ub": 60.0
+  },
+  {
+    "codigo": "669270",
+    "determinacion": "TAENIA SOLIUM - Ac. Anti- IgG",
+    "ub": 50.0
+  },
+  {
+    "codigo": "669281",
+    "determinacion": "TALASEMIAS, Beta-Mutaciones (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669293",
+    "determinacion": "TALIO - pelo (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669306",
+    "determinacion": "Tdt - Citometría de Flujo",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669309",
+    "determinacion": "TERBUITRYN",
+    "ub": 60.0
+  },
+  {
+    "codigo": "669311",
+    "determinacion": "TERBUTHYLAZINA",
+    "ub": 60.0
+  },
+  {
+    "codigo": "669314",
+    "determinacion": "TEST de DESENSIBILIZACIÓN TESTICULAR",
+    "ub": 110.0
+  },
+  {
+    "codigo": "669349",
+    "determinacion": "TEST DE NITRO BLUE TETRAZOLIUM (Test - NBT)",
+    "ub": 34.0
+  },
+  {
+    "codigo": "669358",
+    "determinacion": "TEST DE NUGENT - sérico (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669366",
+    "determinacion": "TESTOSTERONA DEHIDRO (DHT)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "669375",
+    "determinacion": "TESTOSTERONA LIBRE (To-L)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "669383",
+    "determinacion": "TESTOSTERONA - urinaria",
+    "ub": 15.0
+  },
+  {
+    "codigo": "669409",
+    "determinacion": "TIOCIANATOS - urinarios",
+    "ub": 12.0
+  },
+  {
+    "codigo": "669417",
+    "determinacion": "TIOCIANATOS - séricos",
+    "ub": 12.0
+  },
+  {
+    "codigo": "669426",
+    "determinacion": "TIONACINA",
+    "ub": 60.0
+  },
+  {
+    "codigo": "669434",
+    "determinacion": "TIOSULFATOS - urinarios",
+    "ub": 8.0
+  },
+  {
+    "codigo": "669443",
+    "determinacion": "TIROGLOBULINA (TGs)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "669464",
+    "determinacion": "TIROGLOBULINA - líquido de punción (TG LP) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669477",
+    "determinacion": "TIROSINA (Aminoácido - A. Ác.)",
+    "ub": 16.0
+  },
+  {
+    "codigo": "669486",
+    "determinacion": "TITULACIÓN de ANTICUERPO VIII (Met..Biol.) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669494",
+    "determinacion": "TOXINA BOTULÍNICA, Ac. (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669511",
+    "determinacion": "TOXOCARA CANIS, Ac. IgG Anti-",
+    "ub": 26.0
+  },
+  {
+    "codigo": "669514",
+    "determinacion": "TOXOCARA CANIS, Ac. IgM Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669538",
+    "determinacion": "TOXOIDE TETÁNICO, Ac. Anti-",
+    "ub": 90.0
+  },
+  {
+    "codigo": "669561",
+    "determinacion": "TOXOPLASMOSIS, Ac. IgA Anti-",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669565",
+    "determinacion": "TOXOPLASMOSIS, Ac. IgA ISAGA Anti- (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669571",
+    "determinacion": "TOXOPLASMOSIS, Ac. IgG Anti- (ELISA)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "669575",
+    "determinacion": "TOXOPLASMOSIS, Ac. IgG Anti- (Test de avidez)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669580",
+    "determinacion": "TOXOPLASMOSIS, Ac. IgM Anti- (ELISA)",
+    "ub": 14.0
+  },
+  {
+    "codigo": "669588",
+    "determinacion": "TOXOPLASMOSIS, Ac. IgM Anti- (IFI)",
+    "ub": 8.0
+  },
+  {
+    "codigo": "669591",
+    "determinacion": "TOXOPLASMOSIS - PCR",
+    "ub": 70.0
+  },
+  {
+    "codigo": "669597",
+    "determinacion": "t-PA INMUNOLÓGICO (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669622",
+    "determinacion": "TRANSGLUTAMINASA, Ac. IgA Anti- (TGA)",
+    "ub": 23.0
+  },
+  {
+    "codigo": "669631",
+    "determinacion": "TRANSGLUTAMINASA, Ac. IgG Anti- (TGG)",
+    "ub": 23.0
+  },
+  {
+    "codigo": "669637",
+    "determinacion": "TRANSLOCACIÓN, varias - cualitativa (c/u) N",
+    "ub": 220.0
+  },
+  {
+    "codigo": "669642",
+    "determinacion": "TRANSLOCACIÓN, varios - cuantitativa (c/u) N",
+    "ub": 360.0
+  },
+  {
+    "codigo": "669644",
+    "determinacion": "TREPONEMA PALLIDUM, FTA ABS, Ac. IgM Anti-",
+    "ub": 10.0
+  },
+  {
+    "codigo": "669647",
+    "determinacion": "TRICHINELLA SPIRALIS, Ac. IgG Anti-/Ac. Totales",
+    "ub": 35.0
+  },
+  {
+    "codigo": "669649",
+    "determinacion": "TRICHINELLA SPIRALIS, Ac. IgM Anti-",
+    "ub": 35.0
+  },
+  {
+    "codigo": "669653",
+    "determinacion": "TRICHOMONAS, Cultivo para- (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669657",
+    "determinacion": "TRICLOROETANOL",
+    "ub": 12.0
+  },
+  {
+    "codigo": "669661",
+    "determinacion": "TRIIODOTIRONINA Libre (T3L)",
+    "ub": 10.0
+  },
+  {
+    "codigo": "669672",
+    "determinacion": "TRIPLE TEST N",
+    "ub": 90.0
+  },
+  {
+    "codigo": "669682",
+    "determinacion": "TRIPSINA, Ac. Anti- (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669691",
+    "determinacion": "TRIPTOFANO",
+    "ub": 18.0
+  },
+  {
+    "codigo": "669716",
+    "determinacion": "TROMBOFILIA, Panel básico N",
+    "ub": 230.0
+  },
+  {
+    "codigo": "669725",
+    "determinacion": "TROPONINA I -TnI",
+    "ub": 17.0
+  },
+  {
+    "codigo": "669734",
+    "determinacion": "TROPONINA T (cualitativo) - TnT-cuali",
+    "ub": 17.0
+  },
+  {
+    "codigo": "669735",
+    "determinacion": "TROPONINA T (cuantitativo) TnT-cuanti",
+    "ub": 25.0
+  },
+  {
+    "codigo": "669747",
+    "determinacion": "TUMOR, Necrosis Factor (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669759",
+    "determinacion": "UREAPLASMA UREALÍTICUM (Cultivo). N (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669768",
+    "determinacion": "UROPORFIRINAS - materia fecal",
+    "ub": 15.0
+  },
+  {
+    "codigo": "669780",
+    "determinacion": "VACUNA LINFOCITARIA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669787",
+    "determinacion": "VAGINAL, BALANCE DEL CONTENIDO (BACOVA) N",
+    "ub": 6.0
+  },
+  {
+    "codigo": "669790",
+    "determinacion": "VANADIO, plasmático o uriniario.",
+    "ub": 20.0
+  },
+  {
+    "codigo": "669793",
+    "determinacion": "VANCOMICINA",
+    "ub": 23.0
+  },
+  {
+    "codigo": "669810",
+    "determinacion": "VARICELA ZOSTER, Ac. IgM Anti-",
+    "ub": 25.0
+  },
+  {
+    "codigo": "669819",
+    "determinacion": "VARICELA ZOSTER, Ac. IgG Anti-",
+    "ub": 17.0
+  },
+  {
+    "codigo": "669828",
+    "determinacion": "VARICELA ZOSTER, Ag.",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669834",
+    "determinacion": "VARICELA ZOSTER - DNA (PCR)",
+    "ub": 70.0
+  },
+  {
+    "codigo": "669846",
+    "determinacion": "VIGABATRINA",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669853",
+    "determinacion": "VIRUS-JUNIN, Ac. Anti- IgG (FHA)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669858",
+    "determinacion": "VIRUS-JUNIN, Ac. Anti- IgM (FHA)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669870",
+    "determinacion": "VISCOSIDAD PLASMÁTICA (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669879",
+    "determinacion": "VITAMINA B1 (TIAMINA)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669887",
+    "determinacion": "VITAMINA B6 (PIRIDOXINA)",
+    "ub": 37.0
+  },
+  {
+    "codigo": "669896",
+    "determinacion": "VITAMINA C (líquido seminal)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669898",
+    "determinacion": "VITAMINA C (plaquetaria)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669939",
+    "determinacion": "XANTINA",
+    "ub": 10.0
+  },
+  {
+    "codigo": "669947",
+    "determinacion": "YERSINIA ENTEROCOLITICA, CULTIVO (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669960",
+    "determinacion": "Yo (PCA-1), Ac. Anti-",
+    "ub": 100.0
+  },
+  {
+    "codigo": "669973",
+    "determinacion": "ZAP 70",
+    "ub": 105.0
+  },
+  {
+    "codigo": "669978",
+    "determinacion": "ZIKA, virus (PCR)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "669984",
+    "determinacion": "ZINC - pelo (Zn-pelo)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "669987",
+    "determinacion": "ZINC - semen (Zn-semen)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "669990",
+    "determinacion": "ZINC - urinario (Zn-urinario)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "662538",
+    "determinacion": "alfa-HEXACLORAN - alfa-LINDANO - alfa-1,2,3,4,5,6-",
+    "ub": 60.0
+  },
+  {
+    "codigo": "664350",
+    "determinacion": "HEXACLORAN - delta-LINDANO - delta-1,2,3,4,5,6-",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665520",
+    "determinacion": "gamma-HEXACLORAN - gamma-LINDANO -",
+    "ub": 60.0
+  },
+  {
+    "codigo": "669913",
+    "determinacion": "25-HIDROXICALCIFEROL",
+    "ub": 37.0
+  },
+  {
+    "codigo": "667905",
+    "determinacion": "2-METILFENOL (o - CRESOL)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667597",
+    "determinacion": "3-METOXI, 4-HIDROXI- FENIL ETIL GLICOL (MOPEG)",
+    "ub": 20.0
+  },
+  {
+    "codigo": "662025",
+    "determinacion": "Ac. Anti- RECEPTORES ACETILCOLINA (ACRA)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "669896",
+    "determinacion": "ÁCIDO ASCÓRBICO (líquido seminal)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669898",
+    "determinacion": "ÁCIDO ASCÓRBICO (plaquetario)",
+    "ub": 30.0
+  },
+  {
+    "codigo": "669270",
+    "determinacion": "Ac. CISTICERCOSIS",
+    "ub": 50.0
+  },
+  {
+    "codigo": "662025",
+    "determinacion": "ACRA - Ac. Anti- RECEPTORES ACETILCOLINA",
+    "ub": 100.0
+  },
+  {
+    "codigo": "666554",
+    "determinacion": "ANNA-1 (Hu, Ac. Anti-)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "666947",
+    "determinacion": "Anti- hígado de tipo I-antígeno citosol",
+    "ub": 20.0
+  },
+  {
+    "codigo": "668656",
+    "determinacion": "Antiproteinasa 3",
+    "ub": 50.0
+  },
+  {
+    "codigo": "667260",
+    "determinacion": "ARABINITOL o ARABITOL)",
+    "ub": 60.0
+  },
+  {
+    "codigo": "668954",
+    "determinacion": "ASCA - SACCHAROMYSES CEREVISIAE, Ac. Anti- IgA",
+    "ub": 50.0
+  },
+  {
+    "codigo": "668956",
+    "determinacion": "ASCA - SACCHAROMYSES CEREVISIAE, Ac. Anti- IgG",
+    "ub": 50.0
+  },
+  {
+    "codigo": "669787",
+    "determinacion": "BACOVA N",
+    "ub": 6.0
+  },
+  {
+    "codigo": "669642",
+    "determinacion": "N",
+    "ub": 360.0
+  },
+  {
+    "codigo": "663042",
+    "determinacion": "Beta-d Glucosidasa (Enf. Gaucher)",
+    "ub": 130.0
+  },
+  {
+    "codigo": "668446",
+    "determinacion": "BIFENILOS POLICLORADOS",
+    "ub": 45.0
+  },
+  {
+    "codigo": "668463",
+    "determinacion": "BKV o VBK (cv)",
+    "ub": 150.0
+  },
+  {
+    "codigo": "663230",
+    "determinacion": "C1 INHIBIDOR INMUNOLÓGICO",
+    "ub": 30.0
+  },
+  {
+    "codigo": "663427",
+    "determinacion": "CITOGENÉTICO de Alta Resolución (Alta Sensibilidad)",
+    "ub": 230.0
+  },
+  {
+    "codigo": "663443",
+    "determinacion": "CITOGENÉTICO de MEDULA OSEA - CARIOTIPO",
+    "ub": 140.0
+  },
+  {
+    "codigo": "663720",
+    "determinacion": "CITOMEGALOVIRUS, carga viral (LCR - plasma y orina)",
+    "ub": 150.0
+  },
+  {
+    "codigo": "663722",
+    "determinacion": "CITOMEGALOVIRUS, DNA por PCR",
+    "ub": 70.0
+  },
+  {
+    "codigo": "662120",
+    "determinacion": "CITRATURIA (ÁCIDO CÍTRICO - urinario)",
+    "ub": 15.0
+  },
+  {
+    "codigo": "662034",
+    "determinacion": "COLINESTERASA ERITROCITARIA (ACETIL- )",
+    "ub": 12.0
+  },
+  {
+    "codigo": "666932",
+    "determinacion": "CREMATOCRITO - GALACTOCRITO",
+    "ub": 8.0
+  },
+  {
+    "codigo": "664145",
+    "determinacion": "CROMOSOMA, ALTERACIONES del (c/u) - (FISH)",
+    "ub": 410.0
+  },
+  {
+    "codigo": "667742",
+    "determinacion": "DIMETILTRIPTAMINA - N,N-DIMETILTRIPTAMINA.",
+    "ub": 24.0
+  },
+  {
+    "codigo": "664717",
+    "determinacion": "EPSTEIN BARR, carga viral - PCR",
+    "ub": 150.0
+  },
+  {
+    "codigo": "664858",
+    "determinacion": "ESPERMOGRAMA COMPLETO N",
+    "ub": 49.0
+  },
+  {
+    "codigo": "669180",
+    "determinacion": "ESTREPTOZIMA",
+    "ub": 15.0
+  },
+  {
+    "codigo": "669118",
+    "determinacion": "FACTOR DE CRECIMIENTO INSULÍNICO TIPO 1",
+    "ub": 35.0
+  },
+  {
+    "codigo": "663093",
+    "determinacion": "FACTOR NATRIURÉTICO (BNP)",
+    "ub": 95.0
+  },
+  {
+    "codigo": "664923",
+    "determinacion": "GRADIENDE DE PERCOLL",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665785",
+    "determinacion": "- PCR (HEMOCROMATOSIS HEREDITARIA HH - Gen HFE",
+    "ub": 80.0
+  },
+  {
+    "codigo": "669026",
+    "determinacion": "INTOLERANCIA ALIMENTARIA, PANEL de Ac. IgG Anti- N",
+    "ub": 80.0
+  },
+  {
+    "codigo": "669026",
+    "determinacion": "PANEL ALIMENTARIO Ac. IgG Anti- N",
+    "ub": 80.0
+  },
+  {
+    "codigo": "669102",
+    "determinacion": "SÍNDROMES MIELOPROLIFERATIVOS -",
+    "ub": 300.0
+  },
+  {
+    "codigo": "669103",
+    "determinacion": "SÍNDROMES MIELOPROLIFERATIVOS -",
+    "ub": 300.0
+  },
+  {
+    "codigo": "669104",
+    "determinacion": "SÍNDROMES MIELOPROLIFERATIVOS -",
+    "ub": 300.0
+  },
+  {
+    "codigo": "667773",
+    "determinacion": "JARABE DE ARCE",
+    "ub": 12.0
+  },
+  {
+    "codigo": "663443",
+    "determinacion": "MEDULA OSEA, CITOGENÉTICO - CARIOTIPO",
+    "ub": 140.0
+  },
+  {
+    "codigo": "668250",
+    "determinacion": "MEMBRANA BASAL EN PIEL Ac. Anti-",
+    "ub": 60.0
+  },
+  {
+    "codigo": "667491",
+    "determinacion": "MICOGRAMA N",
+    "ub": 15.0
+  },
+  {
+    "codigo": "664860",
+    "determinacion": "MODULO II N",
+    "ub": 107.0
+  },
+  {
+    "codigo": "667210",
+    "determinacion": "MURAMIDASA",
+    "ub": 20.0
+  },
+  {
+    "codigo": "667640",
+    "determinacion": "MUTACIONES de TIROSIN KINASA",
+    "ub": 500.0
+  },
+  {
+    "codigo": "668597",
+    "determinacion": "NORPROPOXIFENO - PROPOXIFENO (LC-MSMS)",
+    "ub": 23.0
+  },
+  {
+    "codigo": "665281",
+    "determinacion": "PATERNIDAD DNA HASTA 3",
+    "ub": 700.0
+  },
+  {
+    "codigo": "665576",
+    "determinacion": "PÉPTIDO DEAMIDADO de GLIADINA, Ac. IgA Anti-",
+    "ub": 24.0
+  },
+  {
+    "codigo": "665583",
+    "determinacion": "PÉPTIDO DEAMIDADO de GLIADINA, Ac. IgG Anti-",
+    "ub": 24.0
+  },
+  {
+    "codigo": "669120",
+    "determinacion": "PROTEINA 3 DE FIJACIÓN AL FACTOR DE CRECIMIENTO",
+    "ub": 60.0
+  },
+  {
+    "codigo": "665640",
+    "determinacion": "PROTEÍNAS LIGADORA DE CORTICOIDES (CBG) (#)",
+    "ub": null
+  },
+  {
+    "codigo": "669105",
+    "determinacion": "RAPAMICINA - SIROLIMUS (DROGA CITOSTÁTICA)",
+    "ub": 70.0
+  },
+  {
+    "codigo": "667840",
+    "determinacion": "RECEPTOR, NMDA Ac. Anti- IgG contra- en LCR",
+    "ub": 80.0
+  },
+  {
+    "codigo": "667841",
+    "determinacion": "RECEPTOR, NMDA Ac. Anti- IgG contra- en sangre",
+    "ub": 80.0
+  },
+  {
+    "codigo": "662025",
+    "determinacion": "RECEPTORES ACETILCOLINA Ac. Anti- (ACRA)",
+    "ub": 100.0
+  },
+  {
+    "codigo": "669734",
+    "determinacion": "TnT-cuali - TROPONINA T (cualitativo)",
+    "ub": 17.0
+  },
+  {
+    "codigo": "669735",
+    "determinacion": "TnT-cuanti - TROPONINA T (cuantitativo)",
+    "ub": 25.0
+  },
+  {
+    "codigo": "668802",
+    "determinacion": "TRAB's o TRAB o TBII, Ac. Anti- RECEPTOR de TSH",
+    "ub": 40.0
+  },
+  {
+    "codigo": "669637",
+    "determinacion": "TRANSLOCACIÓN (9;22) Rear. BCR/ABL LLA N",
+    "ub": 220.0
+  },
+  {
+    "codigo": "669637",
+    "determinacion": "TRANSLOCACIÓN (9;22) Rear. BCR/ABL LMC N",
+    "ub": 220.0
+  },
+  {
+    "codigo": "669637",
+    "determinacion": "TRANSLOCACIÓN 14;18 N",
+    "ub": 220.0
+  },
+  {
+    "codigo": "664150",
+    "determinacion": "TRANSLOCACIÓN FILADELFIA",
+    "ub": 220.0
+  },
+  {
+    "codigo": "669637",
+    "determinacion": "TRANSLOCACIÓN MLL/AF4, t (4,11) N",
+    "ub": 220.0
+  },
+  {
+    "codigo": "669637",
+    "determinacion": "TRANSLOCACIÓN t (8;21) - AML 1/ETO N",
+    "ub": 220.0
+  },
+  {
+    "codigo": "669637",
+    "determinacion": "TRANSLOCACIÓN TEL /AML t(12;21) N",
+    "ub": 220.0
+  },
+  {
+    "codigo": "662712",
+    "determinacion": "VASOPRESINA - HORMONA ANTIDIURÉTICA (HAD)",
+    "ub": 80.0
+  },
+  {
+    "codigo": "669503",
+    "determinacion": "VEROTOXINAS - TOXINA SHIGA - ESCHERICCIA COLI",
+    "ub": 80.0
+  },
+  {
+    "codigo": "663067",
+    "determinacion": "VITAMINA H, Vit. B7 o Vit. B8",
+    "ub": 120.0
+  },
+  {
+    "codigo": "668466",
+    "determinacion": "VJC o VJC (cv) - JC VIRUS, (Carga viral)",
+    "ub": 150.0
+  },
+  {
+    "codigo": "668467",
+    "determinacion": "VJC o VJC (PCR) - JC VIRUS, LCR (PCR)",
+    "ub": 106.0
+  },
+  {
+    "codigo": "660032",
+    "determinacion": "AMP CICLICO. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660034",
+    "determinacion": "ANHIDRASA CARBONICA B, ERITROCITARIA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660043",
+    "determinacion": "ANTICUERPOS CONTRA CEPA BACTERIANA AISLADA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660044",
+    "determinacion": "(*)",
+    "ub": null
+  },
+  {
+    "codigo": "660050",
+    "determinacion": "ANTIESTAFILOLISINA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660052",
+    "determinacion": "ANTIESTREPTOQUINASA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660054",
+    "determinacion": "ANTIHIALURONIDASA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660061",
+    "determinacion": "(*)",
+    "ub": null
+  },
+  {
+    "codigo": "660064",
+    "determinacion": "ANTICUERPOS Anti- HIV (A.D.) (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660135",
+    "determinacion": "CALCIO PRUEBA DE LA SOBRECARGA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660157",
+    "determinacion": "17- CETOESTEROIDES NEUTROS TOTALES (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660158",
+    "determinacion": "(*)",
+    "ub": null
+  },
+  {
+    "codigo": "660159",
+    "determinacion": "(*)",
+    "ub": null
+  },
+  {
+    "codigo": "660160",
+    "determinacion": "(*)",
+    "ub": null
+  },
+  {
+    "codigo": "660161",
+    "determinacion": "(*)",
+    "ub": null
+  },
+  {
+    "codigo": "660182",
+    "determinacion": "CONCENTRACIÓN, PRUEBA DE LA - FUNCION RENAL. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660196",
+    "determinacion": "CROMATINA SEXUAL. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660261",
+    "determinacion": "DAVIDSON DIFERENCIAL, PRUEBA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660263",
+    "determinacion": "DERMATOFITOS INTRADERMOREACCION. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660266",
+    "determinacion": "DILUCION, PRUEBA DE LA FUNCION RENAL. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660296",
+    "determinacion": "ERITROBLASTOS PORCENTAJE DE (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660304",
+    "determinacion": "ESTROGENOS TOTALES. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660358",
+    "determinacion": "FOSFATASA ALCALINA CITOQUIMICA GOMORI. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660359",
+    "determinacion": "FOSFATASA ALCALINA CITOQUIMICA KAPLOW. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660365",
+    "determinacion": "FOSFOLIPIDOS. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660367",
+    "determinacion": "FOSFORO REABSORCION TUBULAR. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660368",
+    "determinacion": "FRAGMENTO FAB FC. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660369",
+    "determinacion": "FREI, INTRADERMOREACCION DE. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660401",
+    "determinacion": "GALACTOSA, PRUEBA DE LA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660403",
+    "determinacion": "GALACTOSURIA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660415",
+    "determinacion": "GLUCOGENO, CITOQUIMICO. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660419",
+    "determinacion": "GLUTAMATO DEHIDROGENASA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660422",
+    "determinacion": "GLUTATION REDUCTASA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660428",
+    "determinacion": "GONOCOCOS (IFI) (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660467",
+    "determinacion": "HEMOAGLUTINOGENOS A2 (c/u). U (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660474",
+    "determinacion": "HEMOGLOBINA ALCALIRESISTENTE. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660476",
+    "determinacion": "HEMOLISINAS EN CALIENTE, TITULACIÓN. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660477",
+    "determinacion": "HEMOLISINAS EN FRIO, EXCL. ANTI. DE DONATH (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660478",
+    "determinacion": "HEMOPEXINA (ID - Cuantitativa). (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660485",
+    "determinacion": "HIDRATOS DE CARBONO (Cromatografía) - urinarios. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660486",
+    "determinacion": "17- HIDROXICORTICOIDES - urinarios. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660490",
+    "determinacion": "HISTOPLASMINA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660492",
+    "determinacion": "HOMOGENTISICO, ACIDO - urinario. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660493",
+    "determinacion": "HUBBNER, TEST DE. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660534",
+    "determinacion": "INDOXILEMIA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660542",
+    "determinacion": "INULINA, CLEARENCE. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660607",
+    "determinacion": "LEUCOAGLUTINACION, INHIBICION DE (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660608",
+    "determinacion": "LEUCOAGLUTININAS (Método directo) (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660609",
+    "determinacion": "LEUCOPRECIPITINAS (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660616",
+    "determinacion": "LIPIDOS, (Cromatografía en capa delgada) (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660618",
+    "determinacion": "LIPOPROTEINLIPASA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660621",
+    "determinacion": "LISINA VASOPRESINA, TEST DE (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660652",
+    "determinacion": "MACROGLOBULINA ALFA 2 (ID - cuantitativa). (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660658",
+    "determinacion": "MELANINA - urinaria. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660674",
+    "determinacion": "MUCOPOLISACARIDOS (Cromatografía - cualitativo). (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660675",
+    "determinacion": "MUCOPROTEINAS. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660713",
+    "determinacion": "(*)",
+    "ub": null
+  },
+  {
+    "codigo": "660755",
+    "determinacion": "PREGNANODIOL. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660756",
+    "determinacion": "PREGNANTRIOL. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660760",
+    "determinacion": "PROTEICO, CLEARENCE (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660834",
+    "determinacion": "SECRETINA, TEST DE LA (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660845",
+    "determinacion": "SORBITOL DEHIDROGENSA. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660848",
+    "determinacion": "SULFAS - sanguíneas. (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660868",
+    "determinacion": "TOLBUTAMIDA, PRUEBA DE (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660869",
+    "determinacion": "TOXOPLASMOSIS (FC) (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660872",
+    "determinacion": "TOXOPLASMOSIS (Reacción de Sabin Feldman) (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660877",
+    "determinacion": "TRIIODOTIRONINA - T3 (UPTAKE ) (*)",
+    "ub": null
+  },
+  {
+    "codigo": "660971",
+    "determinacion": "XILOSA D, PRUEBA DE LA (*)",
+    "ub": null
+  }
+]
