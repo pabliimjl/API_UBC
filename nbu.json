@@ -7085,16 +7085,6 @@
     "ub": null
   },
   {
-    "codigo": "660623",
-    "determinacion": "LITIO (Li) (ISE - Ión selectivo - Fotometría de llama o fotometría de emisión",
-    "ub": 6.0
-  },
-  {
-    "codigo": "660624",
-    "determinacion": "LITIO (Li) (por Absorción Atómica - A.A.)",
-    "ub": 20.0
-  },
-  {
     "codigo": "660652",
     "determinacion": "MACROGLOBULINA ALFA 2 (ID - cuantitativa). (*)",
     "ub": null
