@@ -2515,6 +2515,11 @@
     "ub": 60.0
   },
   {
+    "codigo": "663025",
+    "determinacion": "BETA CROSS LAPS - CTX-C - TELOPÉPTIDO DE COLÁGENO TIPO I",
+    "ub": 32.0
+  },
+  {
     "codigo": "663034",
     "determinacion": "Beta GALACTOSIDASA",
     "ub": 130.0
@@ -7078,6 +7083,16 @@
     "codigo": "660621",
     "determinacion": "LISINA VASOPRESINA, TEST DE (*)",
     "ub": null
+  },
+  {
+    "codigo": "660623",
+    "determinacion": "LITIO (Li) (ISE - Ión selectivo - Fotometría de llama o fotometría de emisión",
+    "ub": 6.0
+  },
+  {
+    "codigo": "660624",
+    "determinacion": "LITIO (Li) (por Absorción Atómica - A.A.)",
+    "ub": 20.0
   },
   {
     "codigo": "660652",
