@@ -45,6 +45,11 @@
     "ub": 3
   },
   {
+    "codigo": "660013",
+    "determinacion": "AGLUTININAS Anti- RH. U N - 660014 AGLUTININAS del SISTEMAS ABO.",
+    "ub": 3
+  },
+  {
     "codigo": "660014",
     "determinacion": "AGLUTININAS del SISTEMAS ABO.",
     "ub": 3
@@ -100,6 +105,16 @@
     "ub": 12.5
   },
   {
+    "codigo": "660025",
+    "determinacion": "AMINOÁCIDOS FRACCIONADOS (Cromatografía - por fracción) -cualitativo",
+    "ub": 12.5
+  },
+  {
+    "codigo": "660027",
+    "determinacion": "AMINOACIDURIA FRACCIONADA (Cromatografía - por fracción) -cualitativo",
+    "ub": 12.5
+  },
+  {
     "codigo": "660027",
     "determinacion": "AMINOACIDURIA FRACCIONADA (Cromatografía - por fracción) -cualitativo",
     "ub": 12.5
@@ -108,6 +123,11 @@
     "codigo": "660028",
     "determinacion": "AMNIOTICO, LÍQUIDO CELULAS NARANJAS.",
     "ub": 1
+  },
+  {
+    "codigo": "660029",
+    "determinacion": "AMNIOTICO, LIQUIDO (Espectrofotometría - Test de Lisley)",
+    "ub": 5
   },
   {
     "codigo": "660029",
@@ -157,12 +177,12 @@
   {
     "codigo": "660041",
     "determinacion": "ANTICUERPOS ANTIMEMBRANA BASAL, (IFI)",
-    "ub": 6
+    "ub": 16
   },
   {
     "codigo": "660042",
     "determinacion": "ANTICUERPO ANTIMUSCULO LISO (ASMA), (IFI)",
-    "ub": 7
+    "ub": 10
   },
   {
     "codigo": "660043",
@@ -182,7 +202,7 @@
   {
     "codigo": "660049",
     "determinacion": "ANTIDESIXIRRIBONUCLEASA - ADNEASA – Anti-DNA.",
-    "ub": 9
+    "ub": 15
   },
   {
     "codigo": "660050",
@@ -207,12 +227,12 @@
   {
     "codigo": "660055",
     "determinacion": "ANTIMITOCONDRIALES , ANTICUERPOS (AMA)",
-    "ub": 7
+    "ub": 10
   },
   {
     "codigo": "660056",
     "determinacion": "ANTINUCLEARES ANTICUERPOS (FAN / ANA / AAN)",
-    "ub": 7
+    "ub": 11
   },
   {
     "codigo": "660057",
@@ -282,7 +302,7 @@
   {
     "codigo": "660108",
     "determinacion": "BENCE- JONES, PROTEINAS de (HPLC / IMF) N",
-    "ub": 30
+    "ub": 300
   },
   {
     "codigo": "660109",
@@ -375,9 +395,19 @@
     "ub": 25
   },
   {
+    "codigo": "660143",
+    "determinacion": "CATECOLAMINAS (ADRENALINA y NORADRENALINA). N",
+    "ub": 25
+  },
+  {
     "codigo": "660144",
     "determinacion": "CEA - ANTÍGENO CARCINOEMBRIOGENICO.",
     "ub": 12.5
+  },
+  {
+    "codigo": "660148",
+    "determinacion": "CELULAS NEOPLASICAS - líquidos, exudados, trasudados.",
+    "ub": 9
   },
   {
     "codigo": "660148",
@@ -392,7 +422,7 @@
   {
     "codigo": "660151",
     "determinacion": "CERULOPLASMINA.",
-    "ub": 6
+    "ub": 8
   },
   {
     "codigo": "660152",
@@ -450,6 +480,11 @@
     "ub": 6
   },
   {
+    "codigo": "660167",
+    "determinacion": "CITRICO, ÁCIDO - líquido seminal.",
+    "ub": 6
+  },
+  {
     "codigo": "660168",
     "determinacion": "CLORO (Cl) - sérico. U",
     "ub": 2
@@ -500,9 +535,19 @@
     "ub": 5
   },
   {
+    "codigo": "660178",
+    "determinacion": "COMPATIBILIDAD MATRIMONIAL - sanguínea en cónyuges.",
+    "ub": 5
+  },
+  {
     "codigo": "660179",
     "determinacion": "Complemento, actividad total",
-    "ub": 12.5
+    "ub": 50
+  },
+  {
+    "codigo": "660180",
+    "determinacion": "COMPLEMENTO, VALORACION INMUNOQUIMICA - C3, C4 (c/u) N",
+    "ub": 5
   },
   {
     "codigo": "660180",
@@ -795,6 +840,11 @@
     "ub": 30
   },
   {
+    "codigo": "660344",
+    "determinacion": "FIBRINOGENO, PRODUCTOS DE DEGRADACION - PDF - plasmático.",
+    "ub": 30
+  },
+  {
     "codigo": "660345",
     "determinacion": "FIBRINOGENO - sangre. U",
     "ub": 4
@@ -873,6 +923,11 @@
     "codigo": "660363",
     "determinacion": "FOSFATURIA (P)",
     "ub": 1.5
+  },
+  {
+    "codigo": "660364",
+    "determinacion": "FOSFO- HEXOSA - ISOMERASA.",
+    "ub": 8
   },
   {
     "codigo": "660364",
@@ -1055,6 +1110,11 @@
     "ub": 10
   },
   {
+    "codigo": "660465",
+    "determinacion": "HEMATIES, RESISTENCIA GLOBULAR OSMOTICA (CURVA DE FRAGILIDAD OSMOTICA DE ERITROCITOS)",
+    "ub": 10
+  },
+  {
     "codigo": "660466",
     "determinacion": "HEMATOCRITO. U",
     "ub": 1
@@ -1137,12 +1197,12 @@
   {
     "codigo": "660483",
     "determinacion": "HIDATIDOSIS (HAI)",
-    "ub": 4
+    "ub": 13
   },
   {
     "codigo": "660484",
     "determinacion": "HIDATIDOSIS, Ac. IgG ó Totales Anti- (IFI)",
-    "ub": 10
+    "ub": 15
   },
   {
     "codigo": "660485",
@@ -1190,6 +1250,11 @@
     "ub": 2
   },
   {
+    "codigo": "660494",
+    "determinacion": "HUDDLESSON, REACCION DE (Rosa de Bengala - Brucelosis).",
+    "ub": 2
+  },
+  {
     "codigo": "660531",
     "determinacion": "MYCOBACTERIUM, IDENTIFICACION.",
     "ub": 10
@@ -1212,7 +1277,7 @@
   {
     "codigo": "660536",
     "determinacion": "INMUNOELECTROFORESIS LIQUIDOS BIOLOGICOS. N",
-    "ub": 20
+    "ub": 162
   },
   {
     "codigo": "660537",
@@ -1222,7 +1287,7 @@
   {
     "codigo": "660538",
     "determinacion": "INMUNOGLOBULINA D (IgD)",
-    "ub": 15
+    "ub": 175
   },
   {
     "codigo": "660539",
@@ -1290,6 +1355,11 @@
     "ub": 6
   },
   {
+    "codigo": "660596",
+    "determinacion": "LACTICO DEHIDROGENASA ISOENZIMAS - LDH Isoenzimas.",
+    "ub": 6
+  },
+  {
     "codigo": "660597",
     "determinacion": "LACTOGENO PLACENTARIO / SOMATOMAMOTROFINA",
     "ub": 20
@@ -1308,6 +1378,16 @@
     "codigo": "660599",
     "determinacion": "LATEX TEST DE, PARA ARTRITIS REUMATOIDE (semi- cuantitativo) N",
     "ub": 6
+  },
+  {
+    "codigo": "660599",
+    "determinacion": "LATEX TEST DE, PARA ARTRITIS REUMATOIDE (semi- cuantitativo) N",
+    "ub": 6
+  },
+  {
+    "codigo": "660600",
+    "determinacion": "LEPTOSPIRAS, INVESTIGACIÓN DE (fondo oscuro o coloraciones) - urinaria 12,0 CUBRA - Confederación Unificada Bioquímica de la Republica Argentina - Página 15 CODIGO D E T E R M I N A C I O N E S Urgencia Ref. U. B. 660602 TRICHINOSIS, INVESTIGACIÓN DE",
+    "ub": 30
   },
   {
     "codigo": "660600",
@@ -1362,12 +1442,12 @@
   {
     "codigo": "660613",
     "determinacion": "LIPASA, sérica.",
-    "ub": 5
+    "ub": 12
   },
   {
     "codigo": "660615",
     "determinacion": "LIPIDOGRAMA (Electroforético).",
-    "ub": 7
+    "ub": 13
   },
   {
     "codigo": "660616",
@@ -1452,7 +1532,7 @@
   {
     "codigo": "660662",
     "determinacion": "METANEFRINAS FRACCIONADAS URINARIAS",
-    "ub": 25
+    "ub": 50
   },
   {
     "codigo": "660663",
@@ -1482,6 +1562,16 @@
   {
     "codigo": "660669",
     "determinacion": "MONONUCLEOSIS (Aglutinación - Test de Látex o Monotest).",
+    "ub": 3
+  },
+  {
+    "codigo": "660669",
+    "determinacion": "MONONUCLEOSIS (Aglutinación - Test de Látex o Monotest).",
+    "ub": 3
+  },
+  {
+    "codigo": "660670",
+    "determinacion": "MONONUCLEOSIS HEMOAGLUTINACION (P. B.) 3,0 Página 16 - CUBRA - Confederación Unificada Bioquímica de la Republica Argentina CODIGO D E T E R M I N A C I O N E S Urgencia Ref. U. B. 660671 MONONUCLEOSIS.",
     "ub": 3
   },
   {
@@ -1532,12 +1622,12 @@
   {
     "codigo": "660702",
     "determinacion": "NUCLEOTIDASA - 5' N",
-    "ub": 4
+    "ub": 10
   },
   {
     "codigo": "660711",
     "determinacion": "ORINA COMPLETA. U N",
-    "ub": 3
+    "ub": 5
   },
   {
     "codigo": "660713",
@@ -1700,6 +1790,11 @@
     "ub": 7.5
   },
   {
+    "codigo": "660762",
+    "determinacion": "PROTEINA C REACTIVA - PCR (semi-cuantitativa). U N",
+    "ub": 7.5
+  },
+  {
     "codigo": "660763",
     "determinacion": "PROTEINA TOTALES. U",
     "ub": 1.5
@@ -1707,7 +1802,7 @@
   {
     "codigo": "660764",
     "determinacion": "PROTEINOGRAMA ELECTROFORÉTICO, en suero",
-    "ub": 5
+    "ub": 22
   },
   {
     "codigo": "660765",
@@ -1717,7 +1812,7 @@
   {
     "codigo": "660766",
     "determinacion": "PROTEINOGRAMA - líquidos biológicos N",
-    "ub": 5
+    "ub": 22
   },
   {
     "codigo": "660767",
@@ -1812,7 +1907,7 @@
   {
     "codigo": "660833",
     "determinacion": "U N",
-    "ub": 8
+    "ub": 10
   },
   {
     "codigo": "660834",
@@ -1858,6 +1953,11 @@
     "codigo": "660845",
     "determinacion": "SORBITOL DEHIDROGENSA. (*)",
     "ub": null
+  },
+  {
+    "codigo": "660846",
+    "determinacion": "SUBTIPO HEMOGLOBINA A2, DETERMINACION DE (electroforesis)",
+    "ub": 10
   },
   {
     "codigo": "660846",
@@ -2012,7 +2112,7 @@
   {
     "codigo": "660923",
     "determinacion": "UROPROTEINOGRAMA N",
-    "ub": 33
+    "ub": 60
   },
   {
     "codigo": "660931",
@@ -2027,6 +2127,11 @@
   {
     "codigo": "660933",
     "determinacion": "V D R L / USR N",
+    "ub": 4
+  },
+  {
+    "codigo": "660934",
+    "determinacion": "V D R L / USR - Cuantitativa. N",
     "ub": 4
   },
   {
@@ -2082,12 +2187,12 @@
   {
     "codigo": "660981",
     "determinacion": "ZINC ERITROCITARIO - PROTOPORFIRINA.",
-    "ub": 12
+    "ub": 20
   },
   {
     "codigo": "660982",
     "determinacion": "ZINC (Zn) - sérico.",
-    "ub": 12
+    "ub": 20
   },
   {
     "codigo": "661000",
@@ -2103,6 +2208,11 @@
     "codigo": "661011",
     "determinacion": "CD4 - SUB POBLACIÓN LINFOCITARIA por Citom. de flujo",
     "ub": 35
+  },
+  {
+    "codigo": "661015",
+    "determinacion": "CD4 - CD8 - Sub Población linfocitaria por Citom. de flujo (c/u)",
+    "ub": 23
   },
   {
     "codigo": "661015",
@@ -2133,6 +2243,11 @@
     "codigo": "661040",
     "determinacion": "COLESTEROL LDL (LDL-C)",
     "ub": 4
+  },
+  {
+    "codigo": "661045",
+    "determinacion": "CREATINFOSFOQUINASA, ISOENZIMA MB (CKMB / CPKMB)",
+    "ub": 10
   },
   {
     "codigo": "661045",
@@ -2280,6 +2395,11 @@
     "ub": 19
   },
   {
+    "codigo": "661134",
+    "determinacion": "MONITOREO de FARMACOS para ENF. CRONICAS (Anticonvulsivantes) N",
+    "ub": 19
+  },
+  {
     "codigo": "661135",
     "determinacion": "N",
     "ub": 15
@@ -2342,12 +2462,17 @@
   {
     "codigo": "661180",
     "determinacion": "N",
-    "ub": 12.5
+    "ub": 15
   },
   {
     "codigo": "661185",
     "determinacion": "TESTOSTERONA BIODISPONIBLE",
     "ub": 25
+  },
+  {
+    "codigo": "661190",
+    "determinacion": "TIROTROFINA ULTRASENSIBLE (TSH-Ultrasensible)",
+    "ub": 9
   },
   {
     "codigo": "661190",
@@ -2362,7 +2487,7 @@
   {
     "codigo": "661196",
     "determinacion": "BIOTINIDASA, GALACTOSEMIA y 17-HO- N",
-    "ub": 43
+    "ub": 62
   },
   {
     "codigo": "661200",
@@ -3017,7 +3142,7 @@
   {
     "codigo": "662863",
     "determinacion": "BANDAS OLIGOCLONALES, en L.C.R. / Suero",
-    "ub": 220
+    "ub": 425
   },
   {
     "codigo": "662888",
@@ -3132,7 +3257,7 @@
   {
     "codigo": "663067",
     "determinacion": "VITAMINA H, Vit. B7 o Vit. B8",
-    "ub": 120
+    "ub": 300
   },
   {
     "codigo": "663068",
@@ -3257,7 +3382,7 @@
   {
     "codigo": "663230",
     "determinacion": "C1 INHIBIDOR INMUNOLÓGICO",
-    "ub": 30
+    "ub": 180
   },
   {
     "codigo": "663239",
@@ -3272,12 +3397,12 @@
   {
     "codigo": "663254",
     "determinacion": "CADENA LIVIANA KAPPA, LIBRE (Nefelometría)",
-    "ub": 100
+    "ub": 160
   },
   {
     "codigo": "663257",
     "determinacion": "CADENA LIVIANA LAMBDA, LIBRE (Nefelometría)",
-    "ub": 100
+    "ub": 160
   },
   {
     "codigo": "663259",
@@ -3593,6 +3718,11 @@
     "codigo": "663722",
     "determinacion": "CITOMEGALOVIRUS, DNA por PCR",
     "ub": 70
+  },
+  {
+    "codigo": "663734",
+    "determinacion": "CITOPLASMA DE NEUTROFILO, AC. ANTI C/U (ANCA C, P - C/U)",
+    "ub": 47
   },
   {
     "codigo": "663734",
@@ -3917,7 +4047,7 @@
   {
     "codigo": "664196",
     "determinacion": "CROSS MATCH, CONTRA PANEL",
-    "ub": 65
+    "ub": 412
   },
   {
     "codigo": "664204",
@@ -3963,6 +4093,11 @@
     "codigo": "664290",
     "determinacion": "CUERPOS REDUCTORES",
     "ub": 7
+  },
+  {
+    "codigo": "664333",
+    "determinacion": "BASOFILOS, DEGRANULACION EN RESPUESTA A UN (1) ALERGENO - CITOMETRIA DE FLUJO",
+    "ub": 480
   },
   {
     "codigo": "664333",
@@ -4142,12 +4277,12 @@
   {
     "codigo": "664632",
     "determinacion": "ENDOMISIO, Ac. IgA Anti- (EMA IgA)",
-    "ub": 14
+    "ub": 25
   },
   {
     "codigo": "664640",
     "determinacion": "ENDOMISIO, Ac. IgG Anti- (EMA IgG)",
-    "ub": 14
+    "ub": 25
   },
   {
     "codigo": "664648",
@@ -4437,7 +4572,7 @@
   {
     "codigo": "665102",
     "determinacion": "FACTOR V LEIDEN - PCR",
-    "ub": 75
+    "ub": 110
   },
   {
     "codigo": "665116",
@@ -4520,6 +4655,11 @@
     "ub": 275
   },
   {
+    "codigo": "665273",
+    "determinacion": "FILIACION ESTUDIO DNA EXTRA (POR C/U AGREGADO)",
+    "ub": 275
+  },
+  {
     "codigo": "665281",
     "determinacion": "FILIACIÓN ESTUDIO DNA HASTA 3",
     "ub": 700
@@ -4527,7 +4667,7 @@
   {
     "codigo": "665281",
     "determinacion": "PATERNIDAD DNA HASTA 3",
-    "ub": 700
+    "ub": 800
   },
   {
     "codigo": "665290",
@@ -4658,6 +4798,11 @@
     "codigo": "665494",
     "determinacion": "GABAPENTINA (#)",
     "ub": null
+  },
+  {
+    "codigo": "665503",
+    "determinacion": "GAD AC. ANTI GLUTAMICO ACID. DECARBOXILASE (ACIDO GLUTAMICO DESCARBOXILASA, AC ANTI-)",
+    "ub": 60
   },
   {
     "codigo": "665503",
@@ -4852,22 +4997,22 @@
   {
     "codigo": "665785",
     "determinacion": "- PCR (HEMOCROMATOSIS HEREDITARIA HH - Gen HFE",
-    "ub": 80
+    "ub": 330
   },
   {
     "codigo": "665787",
     "determinacion": "HEMOCROMATOSIS, MUTACIÓN Gen C282Y - PCR",
-    "ub": 80
+    "ub": 110
   },
   {
     "codigo": "665789",
     "determinacion": "HEMOCROMATOSIS, MUTACIÓN Gen H63D - PCR",
-    "ub": 80
+    "ub": 110
   },
   {
     "codigo": "665791",
     "determinacion": "HEMOCROMATOSIS, MUTACIÓN Gen S65C - PCR",
-    "ub": 80
+    "ub": 110
   },
   {
     "codigo": "665797",
@@ -5317,7 +5462,7 @@
   {
     "codigo": "666560",
     "determinacion": "IA 2, Ac. Anti- (Ac. Anti- TIROSINFOSFATASA 2)",
-    "ub": 50
+    "ub": 100
   },
   {
     "codigo": "666570",
@@ -5337,6 +5482,16 @@
   {
     "codigo": "666587",
     "determinacion": "IGA BC - LCR - INMUNOGLOBULINA A BAJA CONCENTRACIÓN EN LÍQUIDO CÉFALO RAQUÍDEO",
+    "ub": 10
+  },
+  {
+    "codigo": "666587",
+    "determinacion": "IGA BC - LCR - INMUNOGLOBULINA A BAJA CONCENTRACIÓN EN LÍQUIDO CÉFALO RAQUÍDEO",
+    "ub": 10
+  },
+  {
+    "codigo": "666589",
+    "determinacion": "IGA BC - SALIVA - INMUNOGLOBULINA A BAJA CONCENTRACIÓN EN SALIVA",
     "ub": 10
   },
   {
@@ -5383,6 +5538,11 @@
     "codigo": "666648",
     "determinacion": "IgG - LCR - INMUNOGLOBULINA G en Líquido Céfalo Raquídeo. 20,0 Página 58 - CUBRA - Confederación Unificada Bioquímica de la República Argentina CTP - NBU - CUBRA CÓDIGO D E T E R M I N A C I O N E S Urgencia Ref. U. B. 666652 IgG - INMUNOGLUBULINA G, INTOLERANCIA ALIMENTICIA (c/u)",
     "ub": 10
+  },
+  {
+    "codigo": "666657",
+    "determinacion": "IGG - INMUNOGLOBULINAS G, SUBCLASES (MODULO 4 SUBCLASES)",
+    "ub": 875
   },
   {
     "codigo": "666657",
@@ -5492,17 +5652,17 @@
   {
     "codigo": "666848",
     "determinacion": "INMUNOFIJACIÓN - LCR N",
-    "ub": 50
+    "ub": 162
   },
   {
     "codigo": "666850",
     "determinacion": "INMUNOFIJACIÓN - sérica N",
-    "ub": 50
+    "ub": 162
   },
   {
     "codigo": "666852",
     "determinacion": "INMUNOFIJACIÓN - urinaria N",
-    "ub": 50
+    "ub": 162
   },
   {
     "codigo": "666856",
@@ -5512,7 +5672,7 @@
   {
     "codigo": "666862",
     "determinacion": "INSULINA, Ac. Anti- (Ac. Anti- IAA)",
-    "ub": 35
+    "ub": 46
   },
   {
     "codigo": "666871",
@@ -5542,7 +5702,7 @@
   {
     "codigo": "666905",
     "determinacion": "ISLOTE LANGERHANS PANCREÁTICOS, Ac. Anti- (ICA)",
-    "ub": 25
+    "ub": 62
   },
   {
     "codigo": "666912",
@@ -5707,7 +5867,7 @@
   {
     "codigo": "667170",
     "determinacion": "LIPASA - urinaria (Lipasuria)",
-    "ub": 4
+    "ub": 12
   },
   {
     "codigo": "667187",
@@ -5903,6 +6063,11 @@
     "codigo": "667454",
     "determinacion": "METIL-TRITIÓN",
     "ub": 60
+  },
+  {
+    "codigo": "667460",
+    "determinacion": "METILENTETRAHIDROFOLATO REDUCTASA (MTHRT)- PCR",
+    "ub": 130
   },
   {
     "codigo": "667460",
@@ -6277,7 +6442,7 @@
   {
     "codigo": "667999",
     "determinacion": "PANEL HEPÁTICO INMUNOLÓGICO N",
-    "ub": 150
+    "ub": 200
   },
   {
     "codigo": "668009",
@@ -6442,7 +6607,7 @@
   {
     "codigo": "668286",
     "determinacion": "PEPTIDO INTESTINAL VASOACTIVO (VIP)",
-    "ub": 220
+    "ub": 875
   },
   {
     "codigo": "668289",
@@ -6513,6 +6678,11 @@
     "codigo": "668383",
     "determinacion": "PLASMINÓGENO N",
     "ub": 38
+  },
+  {
+    "codigo": "668387",
+    "determinacion": "PLASMINOGENO, INHIBIDOR DEL ACTIVADOR TISULAR DEL (PAI-AIP) (MOLECULAR)",
+    "ub": 130
   },
   {
     "codigo": "668387",
@@ -6742,7 +6912,7 @@
   {
     "codigo": "668691",
     "determinacion": "PROTROMBINA 20.210",
-    "ub": 75
+    "ub": 110
   },
   {
     "codigo": "668710",
@@ -6962,7 +7132,7 @@
   {
     "codigo": "669026",
     "determinacion": "PANEL ALIMENTARIO Ac. IgG Anti- N",
-    "ub": 80
+    "ub": 425
   },
   {
     "codigo": "669030",
@@ -7402,7 +7572,7 @@
   {
     "codigo": "669637",
     "determinacion": "TRANSLOCACIÓN TEL /AML t(12;21) N",
-    "ub": 220
+    "ub": 262
   },
   {
     "codigo": "669642",
@@ -7605,6 +7775,11 @@
     "ub": 135
   },
   {
+    "codigo": "669905",
+    "determinacion": "VITAMINA D (1,25-DIHIDROXICOLECALCIFEROL O CALCITRIOL - 1,25- VITAMINA D)",
+    "ub": 135
+  },
+  {
     "codigo": "669913",
     "determinacion": "25-HIDROXICALCIFEROL",
     "ub": 37
@@ -7653,185 +7828,5 @@
     "codigo": "669990",
     "determinacion": "ZINC - urinario (Zn-urinario)",
     "ub": 20
-  },
-  {
-    "codigo": "660013",
-    "determinacion": "AGLUTININAS Anti- RH. U N - 660014 AGLUTININAS del SISTEMAS ABO.",
-    "ub": 3
-  },
-  {
-    "codigo": "660025",
-    "determinacion": "AMINOÁCIDOS FRACCIONADOS (Cromatografía - por fracción) -cualitativo",
-    "ub": 12.5
-  },
-  {
-    "codigo": "660027",
-    "determinacion": "AMINOACIDURIA FRACCIONADA (Cromatografía - por fracción) -cualitativo",
-    "ub": 12.5
-  },
-  {
-    "codigo": "660029",
-    "determinacion": "AMNIOTICO, LIQUIDO (Espectrofotometría - Test de Lisley)",
-    "ub": 5
-  },
-  {
-    "codigo": "660143",
-    "determinacion": "CATECOLAMINAS (ADRENALINA y NORADRENALINA). N",
-    "ub": 25
-  },
-  {
-    "codigo": "660148",
-    "determinacion": "CELULAS NEOPLASICAS - líquidos, exudados, trasudados.",
-    "ub": 9
-  },
-  {
-    "codigo": "660167",
-    "determinacion": "CITRICO, ÁCIDO - líquido seminal.",
-    "ub": 6
-  },
-  {
-    "codigo": "660178",
-    "determinacion": "COMPATIBILIDAD MATRIMONIAL - sanguínea en cónyuges.",
-    "ub": 5
-  },
-  {
-    "codigo": "660180",
-    "determinacion": "COMPLEMENTO, VALORACION INMUNOQUIMICA - C3, C4 (c/u) N",
-    "ub": 5
-  },
-  {
-    "codigo": "660344",
-    "determinacion": "FIBRINOGENO, PRODUCTOS DE DEGRADACION - PDF - plasmático.",
-    "ub": 30
-  },
-  {
-    "codigo": "660364",
-    "determinacion": "FOSFO- HEXOSA - ISOMERASA.",
-    "ub": 8
-  },
-  {
-    "codigo": "660465",
-    "determinacion": "HEMATIES, RESISTENCIA GLOBULAR OSMOTICA (CURVA DE FRAGILIDAD OSMOTICA DE ERITROCITOS)",
-    "ub": 10
-  },
-  {
-    "codigo": "660494",
-    "determinacion": "HUDDLESSON, REACCION DE (Rosa de Bengala - Brucelosis).",
-    "ub": 2
-  },
-  {
-    "codigo": "660596",
-    "determinacion": "LACTICO DEHIDROGENASA ISOENZIMAS - LDH Isoenzimas.",
-    "ub": 6
-  },
-  {
-    "codigo": "660599",
-    "determinacion": "LATEX TEST DE, PARA ARTRITIS REUMATOIDE (semi- cuantitativo) N",
-    "ub": 6
-  },
-  {
-    "codigo": "660600",
-    "determinacion": "LEPTOSPIRAS, INVESTIGACIÓN DE (fondo oscuro o coloraciones) - urinaria 12,0 CUBRA - Confederación Unificada Bioquímica de la Republica Argentina - Página 15 CODIGO D E T E R M I N A C I O N E S Urgencia Ref. U. B. 660602 TRICHINOSIS, INVESTIGACIÓN DE",
-    "ub": 30
-  },
-  {
-    "codigo": "660669",
-    "determinacion": "MONONUCLEOSIS (Aglutinación - Test de Látex o Monotest).",
-    "ub": 3
-  },
-  {
-    "codigo": "660670",
-    "determinacion": "MONONUCLEOSIS HEMOAGLUTINACION (P. B.) 3,0 Página 16 - CUBRA - Confederación Unificada Bioquímica de la Republica Argentina CODIGO D E T E R M I N A C I O N E S Urgencia Ref. U. B. 660671 MONONUCLEOSIS.",
-    "ub": 3
-  },
-  {
-    "codigo": "660762",
-    "determinacion": "PROTEINA C REACTIVA - PCR (semi-cuantitativa). U N",
-    "ub": 7.5
-  },
-  {
-    "codigo": "660846",
-    "determinacion": "SUBTIPO HEMOGLOBINA A2, DETERMINACION DE (electroforesis)",
-    "ub": 10
-  },
-  {
-    "codigo": "660934",
-    "determinacion": "V D R L / USR - Cuantitativa. N",
-    "ub": 4
-  },
-  {
-    "codigo": "661015",
-    "determinacion": "CD4 - CD8 - Sub Población linfocitaria por Citom. de flujo (c/u)",
-    "ub": 23
-  },
-  {
-    "codigo": "661045",
-    "determinacion": "CREATINFOSFOQUINASA, ISOENZIMA MB (CKMB / CPKMB)",
-    "ub": 10
-  },
-  {
-    "codigo": "661134",
-    "determinacion": "MONITOREO de FARMACOS para ENF. CRONICAS (Anticonvulsivantes) N",
-    "ub": 19
-  },
-  {
-    "codigo": "661190",
-    "determinacion": "TIROTROFINA ULTRASENSIBLE (TSH-Ultrasensible)",
-    "ub": 9
-  },
-  {
-    "codigo": "663734",
-    "determinacion": "CITOPLASMA DE NEUTROFILO, AC. ANTI C/U (ANCA C, P - C/U)",
-    "ub": 47
-  },
-  {
-    "codigo": "664333",
-    "determinacion": "BASOFILOS, DEGRANULACION EN RESPUESTA A UN (1) ALERGENO - CITOMETRIA DE FLUJO",
-    "ub": 480
-  },
-  {
-    "codigo": "665273",
-    "determinacion": "FILIACION ESTUDIO DNA EXTRA (POR C/U AGREGADO)",
-    "ub": 275
-  },
-  {
-    "codigo": "665503",
-    "determinacion": "GAD AC. ANTI GLUTAMICO ACID. DECARBOXILASE (ACIDO GLUTAMICO DESCARBOXILASA, AC ANTI-)",
-    "ub": 60
-  },
-  {
-    "codigo": "666587",
-    "determinacion": "IGA BC - LCR - INMUNOGLOBULINA A BAJA CONCENTRACIÓN EN LÍQUIDO CÉFALO RAQUÍDEO",
-    "ub": 10
-  },
-  {
-    "codigo": "666589",
-    "determinacion": "IGA BC - SALIVA - INMUNOGLOBULINA A BAJA CONCENTRACIÓN EN SALIVA",
-    "ub": 10
-  },
-  {
-    "codigo": "666657",
-    "determinacion": "IGG - INMUNOGLOBULINAS G, SUBCLASES (MODULO 4 SUBCLASES)",
-    "ub": 875
-  },
-  {
-    "codigo": "667460",
-    "determinacion": "METILENTETRAHIDROFOLATO REDUCTASA (MTHRT)- PCR",
-    "ub": 130
-  },
-  {
-    "codigo": "668387",
-    "determinacion": "PLASMINOGENO, INHIBIDOR DEL ACTIVADOR TISULAR DEL (PAI-AIP) (MOLECULAR)",
-    "ub": 130
-  },
-  {
-    "codigo": "002024",
-    "determinacion": "711660711 ORINA COMPLETA",
-    "ub": 5
-  },
-  {
-    "codigo": "669905",
-    "determinacion": "VITAMINA D (1,25-DIHIDROXICOLECALCIFEROL O CALCITRIOL - 1,25- VITAMINA D)",
-    "ub": 135
   }
 ]
