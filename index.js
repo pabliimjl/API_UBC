@@ -117,7 +117,7 @@ app.get("/nbu", (req, res) => {
 app.get("/apb", (req, res) => {
 
     res.json({
-        apb: 22000
+        apb: 25000
     });
 
 });
